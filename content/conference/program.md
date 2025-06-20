@@ -1,6 +1,6 @@
 ---
 title: "Program"
-draft: false
+draft: true
 date: 2025-01-01T00:00:00-00:00
 summary: "The program of CLEF 2026."
 weight: 50

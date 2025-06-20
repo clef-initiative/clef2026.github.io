@@ -1,6 +1,6 @@
 ---
 title: "Committees"
-draft: false
+draft: true
 date: 2025-01-01T00:00:00-00:00
 summary: "Get to know the people behind CLEF."
 weight: 10

@@ -22,26 +22,26 @@ params:
 # Menu Configuration
 menu:
   # Main Navigation
-  main:
-    - identifier: "about"
-      name: "About"
-      url: "/about/"
-      weight: 10
-
-    - identifier: "calls"
-      name: "Calls"
-      url: "/calls/"
-      weight: 20
-
-    - identifier: "labs"
-      name: "Labs"
-      url: "/labs/"
-      weight: 30
-
-    - identifier: "conference"
-      name: "Conference"
-      url: "/conference/"
-      weight: 40
+  #main:
+  #  - identifier: "about"
+  #    name: "About"
+  #    url: "/about/"
+  #    weight: 10
+#
+  #  - identifier: "calls"
+  #    name: "Calls"
+  #    url: "/calls/"
+  #    weight: 20
+#
+  #  - identifier: "labs"
+  #    name: "Labs"
+  #    url: "/labs/"
+  #    weight: 30
+#
+  #  - identifier: "conference"
+  #    name: "Conference"
+  #    url: "/conference/"
+  #    weight: 40
 
   # Footer Menu
   footer:

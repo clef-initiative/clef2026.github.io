@@ -1,6 +1,6 @@
 ---
 title: "Social Events"
-draft: false
+draft: true
 date: 2025-01-01T00:00:00-00:00
 summary: "Numerous social events are planned as part of CLEF 2026."
 weight: 40

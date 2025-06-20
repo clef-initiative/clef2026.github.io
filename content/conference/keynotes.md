@@ -1,6 +1,6 @@
 ---
 title: "Keynotes"
-draft: false
+draft: true
 date: 2025-01-01T00:00:00-00:00
 summary: "We are delighted to present our distinguished keynote speakers for CLEF 2026. These renowned experts will share their insights and vision on the future of information access, evaluation methodologies, and the evolving landscape of information retrieval."
 weight: 60

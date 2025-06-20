@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers"
-draft: false
+draft: true
 date: 2025-01-01T00:00:00-00:00
 summary: "Researchers and practitioners from all areas of information access and related communities are invited to submit papers to CLEF 2026."
 weight: 20
