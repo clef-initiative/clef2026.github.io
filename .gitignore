@@ -1,0 +1,10 @@
+/public
+/themes
+/resources
+node_modules
+.idea
+.DS_Store
+.hugo_build.lock
+hugo_stats.json
+package.json
+package-lock.json

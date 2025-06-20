@@ -1,0 +1,126 @@
+conference_proceedings:
+  title: "Proceedings of the 26th Conference and Labs of the Evaluation Forum"
+  publisher: "Springer"
+  series: "Lecture Notes in Computer Science"
+  editors:
+    - name: "Elizabeth Chen"
+      affiliation: "University of Cambridge, UK"
+    - name: "Giovanni Rossi"
+      affiliation: "University of Bologna, Italy"
+    - name: "Anna Schmidt"
+      affiliation: "Friedrich-Schiller-Universität Jena, Germany"
+    - name: "Thomas Müller"
+      affiliation: "Friedrich-Schiller-Universität Jena, Germany"
+  volume: "XXXX"
+  year: 2026
+  isbn: "978-3-XXX-XXXXX-X"
+  doi: "10.1007/978-3-XXX-XXXXX-X"
+  url: "https://link.springer.com/book/10.1007/978-3-XXX-XXXXX-X"
+
+tracks:
+  - name: "Main Track Papers"
+    papers:
+      - title: "A Comparative Analysis of Result-Less Review in Information Retrieval Research"
+        authors: ["Johannes Weber", "Maria Schmidt", "Tiago Santos"]
+        id: "paper-134"
+        doi: "10.1007/978-3-XXX-XXXXX-X_1"
+        pages: "1-14"
+        award: "Best Paper Award"
+
+      - title: "Metrics for Multimodal Information Access: Challenges and Opportunities"
+        authors: ["Sophia Lee", "David Chen", "Mei Wang"]
+        id: "paper-078"
+        doi: "10.1007/978-3-XXX-XXXXX-X_2"
+        pages: "15-27"
+
+      - title: "Beyond Average Performance: Distributional Evaluation for Fairness in Multilingual Retrieval"
+        authors: ["Akiko Tanaka", "Luis Garcia", "Pierre Dubois"]
+        id: "paper-156"
+        doi: "10.1007/978-3-XXX-XXXXX-X_3"
+        pages: "28-40"
+
+      - title: "Evaluating Conversational Search Systems: A Multi-faceted Approach"
+        authors: ["Karl Heinz", "Anna Korhonen", "Roberto Navigli"]
+        id: "paper-093"
+        doi: "10.1007/978-3-XXX-XXXXX-X_4"
+        pages: "41-53"
+
+      # Additional papers...
+
+  - name: "Best of Labs Papers"
+    papers:
+      - title: "Evaluating Cross-Lingual Claim Matching in Political Debates"
+        authors: ["Sofia Martinez", "Ahmed Ibrahim", "Lucas Brown"]
+        id: "paper-212"
+        doi: "10.1007/978-3-XXX-XXXXX-X_15"
+        pages: "201-213"
+        lab: "CheckThat!"
+
+      - title: "Fine-grained Medical Image Classification with Limited Data"
+        authors: ["Maria Zuluaga", "John Smith", "Laura Johnson"]
+        id: "paper-189"
+        doi: "10.1007/978-3-XXX-XXXXX-X_16"
+        pages: "214-226"
+        lab: "ImageCLEF"
+        award: "Best Lab Paper Award"
+
+      # Additional papers...
+
+  - name: "Short Papers"
+    papers:
+      - title: "Towards Better Metrics for Low-Resource Language Retrieval"
+        authors: ["Prakash Patel", "Sarah Connor"]
+        id: "paper-245"
+        doi: "10.1007/978-3-XXX-XXXXX-X_25"
+        pages: "316-321"
+
+      - title: "A User Study of Search Result Diversification in Specialized Domains"
+        authors: ["Rebecca Johnson", "Ali Mohammed"]
+        id: "paper-263"
+        doi: "10.1007/978-3-XXX-XXXXX-X_26"
+        pages: "322-327"
+        award: "Best Short Paper Award"
+
+      # Additional papers...
+
+working_notes:
+  title: "Working Notes of CLEF 2026"
+  publisher: "CEUR Workshop Proceedings"
+  url: "http://ceur-ws.org/Vol-XXXX/"
+  editors:
+    - name: "Robert Anderson"
+      affiliation: "University of Manchester, UK"
+    - name: "Mei Zhang"
+      affiliation: "Tsinghua University, China"
+  labs:
+    - name: "CheckThat!"
+      papers:
+        - title: "ClaimSpotter: A Transformer-based Approach for Check-worthiness Detection"
+          authors: ["Alex Johnson", "Maria Garcia", "Wei Li"]
+          id: "checkThat-01"
+          pages: "1-12"
+
+        - title: "Multi-hop Evidence Retrieval for Claim Verification"
+          authors: ["David Thompson", "Luca Ferrari", "Ana Diaz"]
+          id: "checkThat-05"
+          pages: "43-54"
+          award: "Best CheckThat! Paper"
+
+        # Additional papers...
+
+    - name: "ImageCLEF"
+      papers:
+        - title: "Medical Visual Question Answering with Multi-modal Fusion"
+          authors: ["Hiroshi Tanaka", "Pierre Martin", "Elena Rodriguez"]
+          id: "imageCLEF-03"
+          pages: "120-132"
+
+        - title: "Zero-shot Transfer for Medical Image Classification"
+          authors: ["James Wilson", "Sarah Adams", "Omar Khan"]
+          id: "imageCLEF-07"
+          pages: "170-181"
+          award: "Best ImageCLEF Paper"
+
+        # Additional papers...
+
+    # Additional labs...

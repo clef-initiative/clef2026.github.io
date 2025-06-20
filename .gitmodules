@@ -1,0 +1,3 @@
+[submodule "themes/clef-theme"]
+	path = themes/clef-theme
+	url = git@github.com:clef-initiative/clef-theme.git

@@ -1,0 +1,66 @@
+# All important dates in one central file - Update annually
+# Format dates as YYYY-MM-DD
+
+# Lab Proposal Dates
+labs:
+  timezone: "Anywhere on Earth (AoE)"
+  dates:
+  - name: "Mentorship Requests"
+    date: "2025-10-30"
+  - name: "Mentorship Period Start"
+    date: "2025-10-30"
+  - name: "Mentorship Period End"
+    date: "2025-11-15"
+  - name: "Lab Proposal Submission"
+    date: "2025-12-15"
+  - name: "Lab Proposal Notification"
+    date: "2026-01-15"
+  - name: "Lab Registration Opens"
+    date: "2026-05-01"
+
+# Paper Submission Dates
+papers:
+  timezone: "Anywhere on Earth (AoE)"
+  dates:
+  - name: "Abstract Submission"
+    date: "2026-05-06"
+  - name: "Full Paper Submission"
+    date: "2026-05-13"
+  - name: "Paper Notification"
+    date: "2026-06-10"
+  - name: "Camera-Ready Submission"
+    date: "2026-06-23"
+
+# Registration Dates
+registration:
+  timezone: "Central European Summer Time (CEST)"
+  dates:
+  - name: "Early Registration Start"
+    date: "2026-07-15"
+  - name: "Early Registration End"
+    date: "2026-07-31"
+  - name: "Regular Registration Start"
+    date: "2026-07-01"
+  - name: "Regular Registration End"
+    date: "2026-08-31"
+  - name: "Late Registration Start"
+    date: "2026-09-01"
+  - name: "Late Registration End"
+    date: "2026-09-14"
+
+highlights:
+  dates:
+    - name: "Lab Proposal Submission"
+      date: "2025-12-15"
+    - name: "Lab Proposal Notification"
+      date: "2026-01-15"
+    - name: "Lab Registration Opens"
+      date: "2026-05-01"
+    - name: "Abstract Submission"
+      date: "2026-05-06"
+    - name: "Full Paper Submission"
+      date: "2026-05-13"
+    - name: "Paper Notification"
+      date: "2026-06-10"
+    - name: "Early Registration Start"
+      date: "2026-07-15"

@@ -1,0 +1,137 @@
+# Core conference information - adapt to your conference anually
+baseURL: "https://clef2026.clef-initiative.eu/"
+title: "CLEF 2026 - Conference and Labs of the Evaluation Forum"
+copyright: "CLEF 2026"
+params:
+  logo: "/img/clef-conference-logo.svg"
+  hero_image: "https://static.wixstatic.com/media/4da14b_462dcd9427c143988ee0dfbb68f76a72~mv2.jpg/v1/fill/w_1920,h_880,fp_0.50_0.50,q_90/4da14b_462dcd9427c143988ee0dfbb68f76a72~mv2.jpg"
+  name: "CLEF 2026"
+  dates: "September 21-24, 2026"
+  location: "Jena, Germany"
+  year: 2026
+  email: "clef2026@uni-jena.de"
+  color: "sky" # Any of red`, `orange`, `amber`, `yellow`, `lime`, `green`, `emerald`, `teal`, `cyan`, `sky`, `blue`, `indigo`, `violet`, `purple`, `fuchsia`, `pink`, `rose`, or any gray tone
+  gray: "stone" # Any of `slate`, `gray`, `zinc`, `neutral`, `stone`
+
+##############################################################################
+#                                                                            #
+# Menu config - only edit beyond this line if you're sure what you're doing! #
+#                                                                            #
+##############################################################################
+
+# Menu Configuration
+menu:
+  # Main Navigation
+  main:
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
+      weight: 10
+
+    - identifier: "calls"
+      name: "Calls"
+      url: "/calls/"
+      weight: 20
+
+    - identifier: "labs"
+      name: "Labs"
+      url: "/labs/"
+      weight: 30
+
+    - identifier: "conference"
+      name: "Conference"
+      url: "/conference/"
+      weight: 40
+
+  # Footer Menu
+  footer:
+    - identifier: "imprint"
+      name: "Imprint"
+      url: "/imprint/"
+      weight: 1
+
+    - identifier: "privacy"
+      name: "Privacy Policy"
+      url: "/privacy/"
+      weight: 2
+
+    - identifier: "clef-initiative-link"
+      name: "CLEF Initiative"
+      url: "https://www.clef-initiative.eu/"
+      weight: 3
+
+    - identifier: "previous-conferences"
+      name: "Previous Conferences"
+      url: "https://www.clef-initiative.eu/#editions"
+      weight: 4
+
+
+##############################################################################
+#                                                                            #
+# DANGERZONE - do not edit beyond this line!                                 #
+#                                                                            #
+##############################################################################
+languageCode: "en-us"
+theme: "clef-theme"
+defaultContentLanguage: "en"
+enableRobotsTXT: true
+enableGitInfo: false
+enableEmoji: true
+pagination:
+  pagerSize: 10
+buildFuture: false
+buildDrafts: false
+build:
+  buildStats:
+    enable: true
+  cachebusters:
+  - source: assets/notwatching/hugo_stats\.json
+    target: css
+  - source: (postcss|tailwind)\.config\.js
+    target: css
+module:
+  mounts:
+  - source: assets
+    target: assets
+  - disableWatch: true
+    source: hugo_stats.json
+    target: assets/notwatching/hugo_stats.json
+
+# URLs
+cleanDestinationDir: true
+canonifyURLs: false
+relativeURLs: false
+uglyURLs: false
+
+# Taxonomies
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+# Permalinks
+permalinks:
+  news: "/news/:year/:month/:day/:slug/"
+  labs: "/labs/:slug/"
+
+# Markup Configuration
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+      wrapStandAloneImageWithinParagraph: true
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: true
+    guessSyntax: false
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: false
+    style: "github"
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
