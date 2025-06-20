@@ -12,4 +12,4 @@ The Conference and Labs of the Evaluation Forum (CLEF) brings together researche
 
 The CLEF 2026 conference will be hosted by Friedrich-Schiller-Universität Jena, Germany from September 21-24, 2026.
 
-More information will follow soon - stay tuned!
+More information will follow soon!
