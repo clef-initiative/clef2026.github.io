@@ -1,0 +1,82 @@
+{{ $color := .Site.Params.color | default "stone" }}
+{{ $gray := .Site.Params.gray | default "stone" }}
+
+{{ if .Site.Params.hero_image }}
+  <div class="
+    w-full
+    h-64 md:h-72
+    bg-[url({{ .Site.Params.hero_image }})]
+    bg-no-repeat
+    bg-center
+    bg-cover
+  "></div>
+  <div class="w-full flex flex-row h-0">
+    <div class="w-1/2 border-b-16 border-{{ $color }}-200 dark:border-{{ $color }}-200"></div>
+    <div class="w-1/2 border-b-16 border-{{ $color }}-900 dark:border-{{ $color }}-900"></div>
+  </div>
+  <div class="
+    -mt-20
+    md:-mb-32 md:h-32
+"></div>
+{{ else }}
+  <div class="
+    w-full
+    h-0 md:h-24
+    md:-mb-3
+  "></div>
+{{ end }}
+<div class="">
+  <div class="max-w-3xl mx-auto grid grid-cols-3 items-center">
+    <div class="
+      bg-{{ .Site.Params.color }}-200 dark:bg-{{ .Site.Params.color }}-200
+      md:rounded-tl-4xl
+      h-24
+      leading-4
+      p-4
+      items-center
+      flex
+    ">
+      <img class="
+        h-24
+        md:h-20
+        max-w-full
+        mx-auto
+        object-scale-down
+      " src="{{ .Site.Params.logo }}" alt="Logo">
+    </div>
+    <div class="
+      bg-{{ .Site.Params.color }}-700 dark:bg-{{ .Site.Params.color }}-700
+      h-24
+      leading-4
+      p-4
+      items-center
+      flex
+    ">
+      <span class="
+        mx-auto
+        text-center
+        text-lg md:text-xl
+        text-{{ .Site.Params.color }}-100 dark:text-{{ .Site.Params.color }}-100
+        font-semibold
+      ">{{ .Site.Params.dates }}</span>
+    </div>
+    <div class="
+      bg-{{ .Site.Params.color }}-900 dark:bg-{{ .Site.Params.color }}-900
+      md:rounded-tr-4xl
+      h-24
+      leading-4
+      p-4
+      items-center
+      flex
+    ">
+      <span class="
+        mx-auto
+        text-center
+        text-lg md:text-xl
+        leading-8
+        text-{{ .Site.Params.color }}-100 dark:text-{{ .Site.Params.color }}-100
+        font-semibold
+      ">{{ .Site.Params.location }}</span>
+    </div>
+  </div>
+</div>

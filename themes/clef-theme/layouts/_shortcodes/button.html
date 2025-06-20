@@ -1,0 +1,29 @@
+{{/*
+  Button Partial with Icon Support
+
+  Usage from templates:
+    {{< button href="/#" type="primary" size="md">}}
+    Button Text
+    {{< /button >}}
+
+  Parameters:
+  - href: URL to link to (required)
+  - type: primary, secondary, outline, ghost, destructive, link (default: primary)
+  - size: sm, md, lg (default: md)
+  - class: additional CSS classes
+*/}}
+
+
+{{ $href := .Get "href" }}
+{{ $type := .Get "type" | default "primary"}}
+{{ $size := .Get "size" | default "md" }}
+{{ $class := .Get "class" | default "" }}
+{{ $content := .Inner }}
+
+{{ partial "button" (dict
+    "href" $href
+    "type" $type
+    "size" $size
+    "class" $class
+    "content" $content
+) }}

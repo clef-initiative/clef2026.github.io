@@ -1,0 +1,76 @@
+{{/*
+  Button Partial
+
+  Usage from templates:
+  {{ partial "button" (dict
+      "href" "/registration"
+      "type" "primary"
+      "size" "md"
+      "class" ""
+      "content" "Register Now"
+      "icon" "→"
+  ) }}
+
+  Parameters:
+  - href: URL to link to (required)
+  - type: primary, secondary, outline, ghost, destructive, link (default: primary)
+  - size: sm, md, lg (default: md)
+  - class: additional CSS classes
+  - content: button text/content (required)
+  - icon: icon character or inline SVG code (optional)
+*/}}
+
+{{ $href := .href }}
+{{ $type := default "primary" .type }}
+{{ $size := default "md" .size }}
+{{ $class := default "" .class }}
+{{ $content := .content }}
+{{ $icon := .icon }}
+
+{{ $color := $.Site.Params.color | default "stone" }}
+{{ $gray := $.Site.Params.gray | default "stone" }}
+
+{{ $baseClass := "inline-flex items-center justify-center rounded-xl font-semibold no-underline transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500" }}
+
+{{ $typeClass := "" }}
+{{ if eq $type "primary" }}
+  {{ $typeClass = printf "bg-%s-600 text-white hover:bg-%s-700 dark:bg-%s-500 dark:hover:bg-%s-600" $color $color $color $color }}
+{{ else if eq $type "secondary" }}
+  {{ $typeClass = printf "bg-%s-200 text-%s-900 hover:bg-%s-300 dark:bg-%s-700 dark:text-%s-100 dark:hover:bg-%s-600" $gray $gray $gray $gray $gray $gray }}
+{{ else if eq $type "outline" }}
+  {{ $typeClass = printf "border border-%s-200 text-%s-700 hover:text-%s-900 hover:bg-%s-50 dark:border-%s-700 dark:text-%s-300 dark:hover:text-%s-100 dark:hover:bg-%s-800" $gray $gray $gray $gray $gray $gray $gray $gray }}
+{{ else if eq $type "ghost" }}
+  {{ $typeClass = printf "text-%s-700 hover:text-%s-900 hover:bg-%s-50 dark:text-%s-300 dark:hover:text-%s-100 dark:hover:bg-%s-800" $gray $gray $gray $gray $gray $gray }}
+{{ else if eq $type "destructive" }}
+  {{ $typeClass = "bg-red-600 text-white hover:bg-red-700 dark:bg-red-500 dark:hover:bg-red-600" }}
+{{ else if eq $type "link" }}
+  {{ $typeClass = printf "text-%s-600 hover:text-%s-700 dark:text-%s-400 dark:hover:text-%s-300 underline-offset-4 hover:underline" $color $color $color $color }}
+{{ end }}
+
+{{ $sizeClass := "" }}
+{{ $iconClass := "" }}
+{{ $gapClass := "" }}
+{{ if eq $size "sm" }}
+  {{ $sizeClass = "px-3 py-2 text-sm" }}
+  {{ $iconClass = "text-sm" }}
+  {{ $gapClass = "gap-2" }}
+{{ else if eq $size "md" }}
+  {{ $sizeClass = "px-4 py-3 text-sm" }}
+  {{ $iconClass = "text-base" }}
+  {{ $gapClass = "gap-2" }}
+{{ else if eq $size "lg" }}
+  {{ $sizeClass = "px-4 py-3 text-base" }}
+  {{ $iconClass = "text-lg" }}
+  {{ $gapClass = "gap-2" }}
+{{ end }}
+
+{{ $fullClass := printf "%s %s %s %s %s %s" $baseClass $typeClass $sizeClass $gapClass $class }}
+
+<a href="{{ $href }}" class="{{ $fullClass | strings.TrimSpace }}" role="button">
+  {{ if $icon }}
+    <span class="{{ $iconClass }}" aria-hidden="true">{{ $icon | safeHTML }}</span>
+  {{ end }}
+  {{ if $content }}
+    <span>{{ $content | safeHTML }}</span>
+  {{ end }}
+</a>

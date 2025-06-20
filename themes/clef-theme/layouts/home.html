@@ -1,0 +1,16 @@
+{{ define "hero" }}
+{{ partial "hero" . }}
+{{ end }}
+
+{{ define "main" }}
+
+<div class="space-y-8 py-8 px-4">
+    <!-- Main content -->
+    <div class="space-y-8">
+
+        <!-- Content -->
+        {{ partial "content" . }}
+
+    </div>
+</div>
+{{ end }}
