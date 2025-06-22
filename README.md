@@ -1,4 +1,17 @@
-# CLEF Hugo Template
+# CLEF 2026 Web Page
+
+For guidelines on how to edit content, see [README-content.md](README-content.md)!
+
+## Updating Theme
+
+If the [theme](https://github.com/clef-initiative/clef-theme) has changed, you can pull in the updates by:
+
+```bash
+git submodule update --remote --merge 
+git add -f themes/clef-theme 
+git commit -m "Update theme version"
+git push
+```
 
 ## Building the Website Locally
 
