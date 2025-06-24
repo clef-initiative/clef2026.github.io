@@ -15,11 +15,11 @@ menu:
 
 ## General Chairs          
 
-- Dr. Some Name, University of True Knowledge
-
 ## Program Committee             
 
-## Lab Chairs       
+## Lab Chairs
+* Julia Maria Struß, Fachhochschule Potsdam University of Applied Sciences  
+* Sean MacAvaney, University of Glasgow
 
 ## Local Organization       
 
