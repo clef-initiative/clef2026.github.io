@@ -5,18 +5,10 @@
 labs:
   timezone: "Anywhere on Earth (AoE)"
   dates:
-  - name: "Mentorship Requests"
-    date: "2025-10-30"
-  - name: "Mentorship Period Start"
-    date: "2025-10-30"
-  - name: "Mentorship Period End"
-    date: "2025-11-15"
   - name: "Lab Proposal Submission"
-    date: "2025-12-15"
-  - name: "Lab Proposal Notification"
-    date: "2026-01-15"
-  - name: "Lab Registration Opens"
-    date: "2026-05-01"
+    date: "2025-07-14"
+  - name: "Notification of Acceptance for Lab Proposals"
+    date: "2025-08-30"
 
 # Paper Submission Dates
 papers:

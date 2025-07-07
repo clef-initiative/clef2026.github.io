@@ -78,6 +78,14 @@ We also encourage newcomers to refer to [Friedberg et al. (2015)](https://journa
 
 *Friedberg I, Wass MN, Mooney SD, Radivojac P. Ten simple rules for a community computational challenge. PLoS Comput Biol. 2015 Apr 23;11(4):e1004150.*
 
+## Submission
+
+Lab proposals should be submitted via EasyChair using the link below:
+
+{{< button href="https://easychair.org/conferences/?conf=clef2026" type="primary" icon_inline="<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z'></path><polyline points='14 2 14 8 20 8'></polyline><line x1='16' y1='13' x2='8' y2='13'></line><line x1='16' y1='17' x2='8' y2='17'></line><polyline points='10 9 9 9 8 9'></polyline></svg>" >}}EasyChair Lab Submission{{< /button >}}
+
+When submitting a lab proposal, choose the "**CLEF 2026 Lab Proposals**" track.
+
 ## Important Dates
 
 * **14 July 2025:** Hard deadline to submit proposal to Easychair  
