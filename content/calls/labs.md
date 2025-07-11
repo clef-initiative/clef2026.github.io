@@ -85,7 +85,7 @@ We also encourage newcomers to refer to [Friedberg et al. (2015)](https://journa
 ## Important Dates
 
 * **14 July 2025, AoE**: Proposal registration (submitting a draft/abstract to Easychair)
-* ~~**14 July 2025:**~~**17 July 2025, AoE:** Hard deadline to submit proposal to Easychair
+* ~~14 July 2025:~~ **17 July 2025, AoE:** Hard deadline to submit proposal to Easychair
 * **4 August 2025:** Notification of lab acceptance  
 * **9-12 September 2025:** Advertising Accepted Labs at CLEF 2025, Madrid, Spain  
 * **October 2025 (TBA by ECIR):** Submission of short lab description for ECIR 2026  
