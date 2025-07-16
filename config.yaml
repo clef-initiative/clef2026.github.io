@@ -46,24 +46,19 @@ menu:
   # Footer Menu
   footer:
     - identifier: "imprint"
-      name: "Imprint"
+      name: "Imprint & Privacy Policy"
       url: "/imprint/"
       weight: 1
-
-    - identifier: "privacy"
-      name: "Privacy Policy"
-      url: "/privacy/"
-      weight: 2
 
     - identifier: "clef-initiative-link"
       name: "CLEF Initiative"
       url: "https://www.clef-initiative.eu/"
-      weight: 3
+      weight: 2
 
     - identifier: "previous-conferences"
       name: "Previous Conferences"
       url: "https://www.clef-initiative.eu/#editions"
-      weight: 4
+      weight: 3
 
 
 ##############################################################################
