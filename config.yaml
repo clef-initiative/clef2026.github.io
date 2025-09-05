@@ -4,7 +4,7 @@ title: "CLEF 2026 - Conference and Labs of the Evaluation Forum"
 copyright: "CLEF 2026"
 params:
   logo: "/img/clef-conference-logo.svg"
-  hero_image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Blick_auf_Jena-City_vom_Landgrafen.JPG"
+  hero_image: "/img/clef26-jena-05.jpg"
   name: "CLEF 2026"
   dates: "September 21-24, 2026"
   location: "Jena, Germany"
