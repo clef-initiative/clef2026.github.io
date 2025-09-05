@@ -3,7 +3,7 @@ title: "Calls"
 draft: false
 date: 2025-01-01T00:00:00-00:00
 params:
-  author: "John Smith"
+  image: "/img/clef26-jena-02.jpg"
 weight: 20
 menu:
   main:
