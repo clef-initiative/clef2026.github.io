@@ -9,7 +9,7 @@ params:
   dates: "September 21-24, 2026"
   location: "Jena, Germany"
   year: 2026
-  email: "clef2026@uni-jena.de"
+  email: ""
   color: "sky" # Any of red`, `orange`, `amber`, `yellow`, `lime`, `green`, `emerald`, `teal`, `cyan`, `sky`, `blue`, `indigo`, `violet`, `purple`, `fuchsia`, `pink`, `rose`, or any gray tone
   gray: "stone" # Any of `slate`, `gray`, `zinc`, `neutral`, `stone`
 
@@ -23,11 +23,11 @@ params:
 menu:
   # Main Navigation
   main:
-   #- identifier: "about"
-   #  name: "About"
-   #  url: "/about/"
-   #  weight: 10
-#
+   - identifier: "about"
+     name: "About"
+     url: "/about/"
+     weight: 10
+     
    - identifier: "calls"
      name: "Calls"
      url: "/calls/"
