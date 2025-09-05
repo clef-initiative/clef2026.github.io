@@ -1,6 +1,6 @@
 ---
 title: "Committees"
-draft: true
+draft: false
 summary: "The people behind CLEF."
 weight: 10
 menu:
@@ -12,19 +12,31 @@ menu:
 
 ## General Chairs          
 
-## Program Committee             
+* Matthias Hagen, Friedrich-Schiller-Universität Jena
+* Martin Potthast, University of Kassel, hessian.AI, ScaDS.AI
+* Benno Stein, Bauhaus-Universität Weimar
+
+## Program Chairs             
+
+* Philipp Schaer, Technische Hochschule Köln
+* N.N.
 
 ## Lab Chairs
 
-* Julia Maria Struß, Fachhochschule Potsdam University of Applied Sciences  
 * Sean MacAvaney, University of Glasgow
+* Julia Maria Struß, Fachhochschule Potsdam University of Applied Sciences  
 
-## Local Organization       
+## Local Organization  
+
+* Matthias Hagen, Friedrich-Schiller-Universität Jena
+* N.N.
 
 ## Proceedings Chair 
 
-*  Eva Sanchez Salido, Universidad Nacional de Educación a Distancia
-*  Alba García Seco de Herrera, Universidad Nacional de Educación a Distancia
 *  Alberto Barrón-Cedeño, Università di Bologna
+*  Alba García Seco de Herrera, Universidad Nacional de Educación a Distancia
+*  Eva Sanchez Salido, Universidad Nacional de Educación a Distancia
 
-## Sponsorship Chair     
+## Website Chair     
+
+* Lukas Gienapp, University of Kassel, hessian.AI, ScaDS.AI
