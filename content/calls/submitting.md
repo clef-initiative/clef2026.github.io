@@ -1,11 +1,8 @@
 ---
 title: "Submission Instructions"
-draft: true
-date: 2025-01-01T00:00:00-00:00
+draft: false
 summary: "Submission Instructions for all submission types of CLEF 2026."
 weight: 30
-params:
-  author: "John Smith"
 menu:
   main:
     identifier: "calls-submission"
