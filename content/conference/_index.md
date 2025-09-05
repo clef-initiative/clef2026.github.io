@@ -1,7 +1,6 @@
 ---
 title: "Conference"
-draft: true
-date: 2025-01-01T00:00:00-00:00
+draft: false
 params:
   image: "/img/clef26-jena-04.jpg"
 weight: 40
