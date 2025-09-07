@@ -32,11 +32,11 @@ menu:
      name: "Calls"
      url: "/calls/"
      weight: 20
-#
-  #- identifier: "labs"
-  #  name: "Labs"
-  #  url: "/labs/"
-  #  weight: 30
+
+  - identifier: "labs"
+    name: "Labs"
+    url: "/labs/"
+    weight: 30
 
    - identifier: "conference"
      name: "Conference"
