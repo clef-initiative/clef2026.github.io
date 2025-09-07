@@ -38,10 +38,10 @@ menu:
     url: "/labs/"
     weight: 30
 
-   - identifier: "conference"
-     name: "Conference"
-     url: "/conference/"
-     weight: 40
+ - identifier: "conference"
+    name: "Conference"
+    url: "/conference/"
+    weight: 40
 
   # Footer Menu
   footer:
