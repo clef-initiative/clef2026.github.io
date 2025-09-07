@@ -1,9 +1,8 @@
 ---
 title: "Labs"
-draft: true
-date: 2025-01-01T00:00:00-00:00
+draft: false
 params:
-    author: "John Smith"
+  image: "/img/clef26-jena-05.jpg"
 weight: 30
 menu:
   main:
@@ -12,4 +11,5 @@ menu:
     parent: "labs"
     weight: 1
 ---
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+Information on the Labs held at CLEF 2026 will follow shortly.
