@@ -22,7 +22,7 @@ Ernst-Abbe-Platz 2
 
 ### Map
 
-<div class="my-6">
-  <iframe src="https://maps.google.com/maps?hl=en&q=Campus%20University%20of%20Jena&t=&z=16&ie=UTF8&iwloc=B&output=embed" width="100%" height="450" style="border:0; border-radius: 2rem;" allowfullscreen="" loading="lazy"></iframe>
+<div class="my-6 rounded-xl border-stone-200 dark:border-stone-800">
+  <iframe src="https://maps.google.com/maps?hl=en&q=Campus%20University%20of%20Jena&t=&z=16&ie=UTF8&iwloc=B&output=embed" width="100%" height="450" allowfullscreen="" loading="lazy"></iframe>
 </div>
 
