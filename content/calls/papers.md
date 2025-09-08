@@ -1,7 +1,7 @@
 ---
 title: "Call for Papers"
 draft: true
-summary: ""
+summary: "Submit a paper to CLEF 2026"
 weight: 20
 menu:
   main:

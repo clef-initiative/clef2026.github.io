@@ -12,4 +12,4 @@ menu:
     weight: 1
 ---
 
-Information on the Labs held at CLEF 2026 will follow shortly.
+CLEF 2026 hosts a total of 16 labs.

@@ -1,16 +1,13 @@
 ---
 title: "Keynotes"
 draft: true
-date: 2025-01-01T00:00:00-00:00
-summary: "We are delighted to present our distinguished keynote speakers for CLEF 2026. These renowned experts will share their insights and vision on the future of information access, evaluation methodologies, and the evolving landscape of information retrieval."
-weight: 60
-params:
-  author: "John Smith"
+summary: "The keynote speakers for CLEF 2026."
+weight: 50
 menu:
   main:
     identifier: "conference-keynotes"
     parent: "conference"
-    weight: 60
+    weight: 50
 ---
 
 We are delighted to present our distinguished keynote speakers for CLEF 2026. These renowned experts will share their insights and vision on the future of information access, evaluation methodologies, and the evolving landscape of information retrieval.

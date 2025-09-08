@@ -1,14 +1,14 @@
 ---
 title: "Committees"
 draft: false
-summary: "The people behind CLEF."
+summary: "The people behind CLEF 2026."
 weight: 10
 params:
   image: "/img/clef26-jena-06.jpg"
 menu:
   main:
-    identifier: "about-committees"
-    parent: "about"
+    identifier: "conference-committees"
+    parent: "conference"
     weight: 10
 ---
 

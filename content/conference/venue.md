@@ -2,17 +2,17 @@
 title: Venue
 draft: false
 summary: "Get to know the venue CLEF 2026 is held at."
-weight: 20
+weight: 30
 params:
   image: "/img/clef26-jena-04.jpg"
 menu:
   main:
     identifier: "conference-venue"
     parent: "conference"
-    weight: 20
+    weight: 30
 ---
 
-CLEF 2026 will be held at the Campus Ernst-Abbe-Platz of Friedrich-Schiller-Universität Jena, one of Germany's oldest universities with a rich tradition of pioneering research in natural sciences, humanities, and social sciences.
+CCLEF 2026 will take place at the **Friedrich-Schiller-Universität Jena** in the heart of Jena, Germany. The conference venue is conveniently located in the city center, making it easily accessible and ensuring accommodation options are within walking distance.
 
 ### Address
 

@@ -12,4 +12,4 @@ menu:
     weight: 1
 ---
 
-Information on conference venue, keynotes, program, and social events will follow shortly.
+

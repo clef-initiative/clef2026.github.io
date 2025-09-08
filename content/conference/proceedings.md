@@ -1,11 +1,8 @@
 ---
 title: "Proceedings"
 draft: true
-date: 2025-01-01T00:00:00-00:00
 summary: "The proceedings of CLEF 2026."
 weight: 70
-params:
-  author: "John Smith"
 menu:
   main:
     identifier: "conference-proceedings"

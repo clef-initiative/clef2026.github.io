@@ -23,9 +23,9 @@ params:
 menu:
   # Main Navigation
   main:
-    - identifier: "about"
-      name: "About"
-      url: "/about/"
+    - identifier: "dates"
+      name: "Dates"
+      url: "/dates/"
       weight: 10 
     
     - identifier: "calls"
@@ -73,7 +73,7 @@ enableRobotsTXT: true
 enableGitInfo: false
 enableEmoji: true
 pagination:
-  pagerSize: 10
+  pagerSize: 20
 buildFuture: false
 buildDrafts: false
 build:
