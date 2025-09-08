@@ -1,6 +1,6 @@
 ---
 title: Venue
-draft: true
+draft: false
 summary: "Get to know the venue CLEF 2026 is held at."
 weight: 30
 params:
