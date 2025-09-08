@@ -16,7 +16,7 @@ Beyond the scientific program, CLEF 2026 offers various social events.
 
 If you arrive on Sunday, the [Jenaer Altstadtfest](https://www.jena-veranstaltungen.de/event/jenaer-altstadtfest), an open-air festival with music and events all throughout the inner city is the perfect opportunity to get to know Jena before the conference starts.
 
-{{< figure src="https://img.ecmaps.de/remote/.jpg?url=https%3A%2F%2Fdam.destination.one%2F1180377%2F65c6d363042db5b1323a701071c87b1c00f1322f0523fb81cc40d4ef7925dc48%2Fjenaer-altstadtfest_2016_jenakultur_foto-ch-cker-43-jpg.jpg
+{{< figure src="https://dam.destination.one/1180377/65c6d363042db5b1323a701071c87b1c00f1322f0523fb81cc40d4ef7925dc48/jenaer-altstadtfest_2016_jenakultur_foto-ch-cker-43-jpg.jpg
 " class="rounded-lg w-32 shadow-md" alt="Volksbad Jena" attribution="© jena-veranstaltungen.de [➚](https://www.jena-veranstaltungen.de/event/jenaer-altstadtfest)" >}}
 
 ## Welcome Reception
