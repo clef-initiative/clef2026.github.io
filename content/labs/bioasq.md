@@ -16,7 +16,7 @@ BioASQ organizes a series of challenges (shared tasks) for biomedical informatio
 ## Organizers
 
 - Anastasia Krithara (NCSR "Demokritos")
-- Anastasios Nentidis (NSCR Demokritos)
+- Anastasios Nentidis (NSCR "Demokritos")
 - Martin Krallinger (BSC)
 - Miguel Rodriguez Ortega (BSC)
 - Elena Tutubalina (KFU)
@@ -33,5 +33,5 @@ BioASQ organizes a series of challenges (shared tasks) for biomedical informatio
 - Alexandra Bekiaridou (Northwell Health)
 - Athanasios Samaras (Aristotle University of Thessaloniki)
 - Vasiliki Patsiou (Aristotle University of Thessaloniki)
-- Georgios Paliouras (Institute of Informatics Georgios Paliouras Telecommunications, NCSR "Demokritos")   
+- Georgios Paliouras (NCSR "Demokritos")   
 
