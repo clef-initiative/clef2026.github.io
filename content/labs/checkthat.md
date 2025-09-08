@@ -15,10 +15,10 @@ The 9th edition of the CheckThat! lab at CLEF targets three tasks: (i) scientifi
 
 ## Organizers
 
-- Julia Maria Struß
-- Venktesh V
-- Vinay Setty
-- Stefan Dietze
-- Tanmoy Chakraborty
-- Preslav Nakov
-- Sebastian Schellhammer 
+- Julia Maria Struß (University of Applied Sciences Potsdam)
+- Venktesh V (Delft University of technology)
+- Vinay Setty (University of Stavanger)
+- Stefan Dietze (GESIS Leibniz Institute for the Social Sciences)
+- Tanmoy Chakraborty (IIT Delhi, India)
+- Preslav Nakov (Mohamed bin Zayed University of Artificial Intelligence)
+- Sebastian Schellhammer (GESIS Leibniz Institute for the Social Sciences) 

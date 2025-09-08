@@ -15,12 +15,12 @@ Biodiversity monitoring using AI-powered tools has become vital for tracking spe
 
 ## Organizers
 
-- Alexis Joly
-- Lukáš Picek
-- Stefan Kahl
-- Hervé Goëau
-- Lukáš Adam
-- Claire Nedellec
-- Robert Bossy
-- Laura Chrobak 
-- Kevin Barnard
+- Alexis Joly (INRIA)
+- Lukáš Picek (University of West Bohemia)
+- Stefan Kahl (Technische Universität Chemnitz)
+- Hervé Goëau (Cirad)
+- Lukáš Adam (University of West Bohemia)
+- Claire Nedellec (INRAE)
+- Robert Bossy (INRAE)
+- Laura Chrobak (MBARI) 
+- Kevin Barnard (MBARI)

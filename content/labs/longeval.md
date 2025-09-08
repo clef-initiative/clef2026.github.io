@@ -15,17 +15,17 @@ Most Information Retrieval (IR) benchmarks evaluate systems at a single point in
 
 ## Organizers
 
-- Matteo Cancellieri
-- Alaa El-Ebshihy
-- Maik Fröbe
-- Petra Galuščáková
-- Gabriela González Sáez
-- Lorraine Goeuriot
-- Gabriel Iturra-Bocaz
-- Jüri Keller
-- Petr Knoth
-- Philippe Mulhem
-- Florina Piroi
-- David Pride
-- Philipp Schaer
-- Didier Schwab
+- Matteo Cancellieri (The Open University)
+- Alaa El-Ebshihy (TU Wien, Research Studio Austria)
+- Maik Fröbe (Friedrich-Schiller-Universität Jena)
+- Petra Galuščáková (University of Stavanger)
+- Gabriela González Sáez (Université Grenoble Alpes)
+- Lorraine Goeuriot (Université Grenoble Alpes)
+- Gabriel Iturra-Bocaz (University of Stavanger)
+- Jüri Keller (TH Köln - University of Applied Sciences)
+- Petr Knoth (The Open University)
+- Philippe Mulhem (LIG-CNRS)
+- Florina Piroi (TU Wien, Institute of Information Systems Engineering, ZFDM)
+- David Pride (KMi)
+- Philipp Schaer (TH Köln - University of Applied Sciences)
+- Didier Schwab (Université Grenoble Alpes)

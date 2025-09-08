@@ -15,8 +15,8 @@ The second edition of the Skills and Job Title Intelligence for Human Capital Ma
 
 ## Organizers
 
-- Luis Gascó
-- Hermenegildo Fabregat
-- Laura García-Sardiña
-- Alvaro Rodrigo
-- Rabih Zbib 
+- Luis Gascó (Avature SLU)
+- Hermenegildo Fabregat (Avature SLU)
+- Laura García-Sardiña (Avature SLU)
+- Alvaro Rodrigo (NLP Alvaro Rodrigo IR Group, UNED)
+- Rabih Zbib (Avature SLU) 

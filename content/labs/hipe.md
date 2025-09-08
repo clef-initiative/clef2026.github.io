@@ -15,9 +15,9 @@ Based on a pilot study that confirmed the feasibility of the task, HIPE-2026 tar
 
 ## Organizers
 
-- Juri Opitz
-- Emanuela Boros
-- Andrianos Michail
-- Matteo Romanello
-- Maud Ehrmann 
-- Simon Clematide   
+- Juri Opitz (UZH Zurich)
+- Emanuela Boros (EPFL)
+- Andrianos Michail (UZH Zurich)
+- Matteo Romanello (UZH Zurich)
+- Maud Ehrmann (EPFL) 
+- Simon Clematide (UZH Zurich)   

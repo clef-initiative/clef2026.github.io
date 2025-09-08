@@ -15,8 +15,8 @@ We propose eRisk 2026, the next edition of CLEF’s lab series on early risk pre
 
 ## Organizers
 
-- Anxo Pérez
-- Xi Wang
-- Javier Parapar 
-- Fabio Crestani  
+- Anxo Pérez (University of A Coruña)
+- Xi Wang (University of Sheffield)
+- Javier Parapar (University of A Coruña) 
+- Fabio Crestani (Università della Svizzera Italiana)  
 

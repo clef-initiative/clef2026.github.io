@@ -15,7 +15,7 @@ Humour poses a unique challenge for artificial intelligence, as it often relies 
 
 ## Organizers
 
-- Liana Ermakova
-- Tristan Miller
-- Anne-Gwenn Bosser 
-- Jaap Kamps    
+- Liana Ermakova (HCTI, Université de Bretagne Occidentale)
+- Tristan Miller (University of Manitoba)
+- Anne-Gwenn Bosser (ENIB, Lab-STICC) 
+- Jaap Kamps (University of Amsterdam)

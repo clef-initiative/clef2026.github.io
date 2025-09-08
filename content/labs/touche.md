@@ -17,17 +17,17 @@ Decision-making and opinion-forming are everyday tasks that involve weighing pro
 
 ## Organizers
 
-- Johannes Kiesel
-- Marc Feger
-- Tim Hagen
-- Sebastian Heineking
-- Maximilian Heinrich
-- Maik Fröbe
-- Katharina Boland
-- Wilhelm Pertsch
-- Julia Romberg
-- Ines Zelch
-- Stefan Dietze
-- Matthias Hagen
-- Martin Potthast
-- Benno Stein  
+- Johannes Kiesel (GESIS - Leibniz Institute for the Social Sciences)
+- Marc Feger (Heinrich Heine University Düsseldorf)
+- Tim Hagen (University of Kassel)
+- Sebastian Heineking (Leipzig University)
+- Maximilian Heinrich (Bauhaus-Universität Weimar)
+- Maik Fröbe (Friedrich-Schiller-Universität Jena)
+- Katharina Boland (Heinrich Heine University Düsseldorf)
+- Wilhelm Pertsch (Friedrich-Schiller-Universität Jena)
+- Julia Romberg (GESIS - Leibniz Institute for the Social Sciences)
+- Ines Zelch (Leipzig University)
+- Stefan Dietze (GESIS - Leibniz Institute for the Social Sciences)
+- Matthias Hagen (Friedrich-Schiller-Universität Jena)
+- Martin Potthast (University of Kassel, hessian.AI, and ScaDS.AI)
+- Benno Stein (Bauhaus-Universität Weimar) 

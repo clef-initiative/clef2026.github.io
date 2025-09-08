@@ -16,6 +16,6 @@ While ImageCLEF 2026 will retain the tasks from the 2025 edition, with some impr
 
 ## Organizers
 
-- Bogdan Ionescu
-- Henning Müller 
-- Dan-Cristian Stanciu
+- Bogdan Ionescu (Politehnica University of Bucharest)
+- Henning Müller (HES-SO) 
+- Dan-Cristian Stanciu (Politehnica University of Bucharest)

@@ -17,15 +17,15 @@ The PAN evaluation lab on digital text forensics includes three returning and tw
 
 ## Organizers
 
-- Janek Bevendorff
-- Benno Stein
-- Andreas Jakoby
-- Henry Plutz
-- Martin Potthast
-- Maik Fröbe
-- Maximilian Mayerl
-- Eva Zangerle
-- André Greiner-Petter
-- Yuxia Wang
-- Minh Ngoc Ta
-- Preslav Nakov
+- Janek Bevendorff (Leipzig University, Bauhaus-Universität Weimar)
+- Benno Stein (Bauhaus-Universität Weimar)
+- Andreas Jakoby (Bauhaus-Universität Weimar)
+- Henry Plutz (University of Kassel)
+- Martin Potthast (University of Kassel, hessian.AI, and ScaDS.AI) 
+- Maik Fröbe (Friedrich-Schiller-Universität Jena)
+- Maximilian Mayerl (University of Applied Sciences BFI Vienna)
+- Eva Zangerle (University of Innsbruck)
+- André Greiner-Petter (University of Göttingen)
+- Yuxia Wang (Mohamed bin Zayed University of Artificial Intelligence)
+- Minh Ngoc Ta (BKAI Research Center, Hanoi University of Science and Technology)
+- Preslav Nakov (Mohamed bin Zayed University of Artificial Intelligence) 

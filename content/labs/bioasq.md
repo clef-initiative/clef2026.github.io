@@ -15,23 +15,23 @@ BioASQ organizes a series of challenges (shared tasks) for biomedical informatio
 
 ## Organizers
 
-- Anastasia Krithara
-- Anastasios Nentidis
-- Martin Krallinger
-- Miguel Rodriguez Ortega
-- Elena Tutubalina
-- Natalia Loukachevitch
-- Igor Rozhkov
-- Giorgio Maria Di Nunzio
-- Nicola Ferro
-- Stefano Marchesin
-- Marco Martinelli
-- Gianmaria Silvello
-- Grigorios Tsoumakas
-- George Giannakoulas
-- Dimitris Dimitriadis
-- Alexandra Bekiaridou
-- Athanasios Samaras
-- Vasiliki Patsiou
-- Georgios Paliouras   
+- Anastasia Krithara (NCSR "Demokritos")
+- Anastasios Nentidis (NSCR Demokritos)
+- Martin Krallinger (BSC)
+- Miguel Rodriguez Ortega (BSC)
+- Elena Tutubalina (KFU)
+- Natalia Loukachevitch (Research Computing Center of Moscow State University)
+- Igor Rozhkov (Lomonosov Moscow State University)
+- Giorgio Maria Di Nunzio (University of Padova)
+- Nicola Ferro (University of Padova)
+- Stefano Marchesin (University of Padova)
+- Marco Martinelli (University of Padova)
+- Gianmaria Silvello (University of Padua)
+- Grigorios Tsoumakas (Aristotle University of Thessaloniki)
+- George Giannakoulas (Aristotle University of Thessaloniki)
+- Dimitris Dimitriadis (Aristotle University of Thessaloniki)
+- Alexandra Bekiaridou (Northwell Health)
+- Athanasios Samaras (Aristotle University of Thessaloniki)
+- Vasiliki Patsiou (Aristotle University of Thessaloniki)
+- Georgios Paliouras (Institute of Informatics Georgios Paliouras Telecommunications, NCSR "Demokritos")   
 

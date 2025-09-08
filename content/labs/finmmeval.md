@@ -15,14 +15,14 @@ The inaugural edition of FinMMEval, a CLEF 2026 Workshop dedicated to the multil
 
 ## Organizers
 
-- Zhuohan Xie
-- Rania Elbadry
-- Georgi Georgiev
-- Xueqing Peng
-- Jimin Huang
-- Yuxia Wang
-- Dimitar Dimitrov
-- Vanshikaa Jani
-- Ivan Koychev
-- Veselin Stoyanov 
-- Preslav Nakov  
+- Zhuohan Xie (Mohamed bin Zayed University of Artificial Intelligence)
+- Rania Elbadry (Mohamed bin Zayed University of Artificial Intelligence)
+- Georgi Georgiev (Sofia University "St. Kliment Ohrdiski")
+- Xueqing Peng (Yale University)
+- Jimin Huang (The FinAI)
+- Yuxia Wang (Mohamed bin Zayed University of Artificial Intelligence)
+- Dimitar Dimitrov (Sofia University "St. Kliment Ohrdiski")
+- Vanshikaa Jani (Mohamed bin Zayed University of Artificial Intelligence)
+- Ivan Koychev (Sofia University "St. Kliment Ohrdiski")
+- Veselin Stoyanov (Mohamed bin Zayed University of Artificial Intelligence) 
+- Preslav Nakov (Mohamed bin Zayed University of Artificial Intelligence)  

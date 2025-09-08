@@ -15,9 +15,9 @@ Over the last few years, the SimpleText Track has created an active community of
 
 ## Organizers
 
-- Liana Ermakova
-- Benjamin Vendeville
-- Jan Bakker
-- Hosein Azarbonyad
-- Jaap Kamps
+- Liana Ermakova (HCTI, Université de Bretagne Occidentale
+- Benjamin Vendeville (Université Bretagne Occidentale)
+- Jan Bakker (University of Amsterdam)
+- Hosein Azarbonyad (Elsevier)
+- Jaap Kamps (University of Amsterdam)
 

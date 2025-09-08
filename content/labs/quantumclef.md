@@ -15,7 +15,7 @@ The goal of QuantumCLEF is to establish an evaluation infrastructure for quantum
 
 ## Organizers
 
-- Maurizio Ferrari Dacrema
-- Andrea Pasin
-- Paolo Cremonesi
-- Nicola Ferro    
+- Maurizio Ferrari Dacrema (Politecnico di Milano)
+- Andrea Pasin (University of Padova)
+- Paolo Cremonesi (Politecnico di Milano)
+- Nicola Ferro (University of Padua) (University of Padova)    

@@ -16,10 +16,10 @@ model quality: (1) Trustworthiness, a many-faceted notion which involves topical
 
 ## Organizers
 
-- Jussi Karlgren
-- Ondřej Bojar
-- Marie Engels
-- Pavel Šindelář
-- Mario Piacentini
-- Luis Francisco Vargas Madriz
-- Katherina Thomas
+- Jussi Karlgren (AMD Silo AI)
+- Ondřej Bojar (Charles University in Prague, ÚFAL)
+- Marie Engels (Fraunhofer IAIS)
+- Pavel Šindelář (Charles University)
+- Mario Piacentini (OECD)
+- Luis Francisco Vargas Madriz (OECD)
+- Katherina Thomas (OECD)

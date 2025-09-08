@@ -15,10 +15,10 @@ This lab focuses on the detection of sexist messages in social networks (SN). In
 
 ## Organizers
 
-- Jorge Carrillo-De-Albornoz
-- Laura Plaza
-- Damiano Spina
-- Paolo Rosso
-- Iván Arcos
-- Elena Gomis
-- María Aloy 
+- Jorge Carrillo-De-Albornoz (Universidad Nacional de Educacion a Distancia)
+- Laura Plaza (Universidad Nacional de Educación a Distancia)
+- Damiano Spina (RMIT University)
+- Paolo Rosso (Universitat Politècnica de València)
+- Iván Arcos (Universitat Politècnica de València)
+- Elena Gomis (Universitat Politècnica de València)
+- María Aloy (Universitat Politècnica de València) 
