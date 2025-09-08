@@ -12,6 +12,13 @@ menu:
 
 Beyond the scientific program, CLEF 2026 offers various social events.
 
+## Jenaer Altstadtfest
+
+If you arrive on Sunday, the [Jenaer Altstadtfest](https://www.jena-veranstaltungen.de/event/jenaer-altstadtfest), an open-air festival with music and events all throughout the inner city is the perfect opportunity to get to know Jena before the conference starts.
+
+{{< figure src="https://img.ecmaps.de/remote/.jpg?url=https%3A%2F%2Fdam.destination.one%2F1180377%2F65c6d363042db5b1323a701071c87b1c00f1322f0523fb81cc40d4ef7925dc48%2Fjenaer-altstadtfest_2016_jenakultur_foto-ch-cker-43-jpg.jpg
+" class="rounded-lg w-32 shadow-md" alt="Volksbad Jena" attribution="© jena-veranstaltungen.de [➚](https://www.jena-veranstaltungen.de/event/jenaer-altstadtfest)" >}}
+
 ## Welcome Reception
 
 Join us for drinks and canapés at the Welcome Reception on the first evening of CLEF 2026. 
@@ -46,5 +53,3 @@ Recommended attractions include:
 - [**Schiller's Garden House**](https://www.visit-jena.de/kunst-kultur-und-kulinarik/museen/schillers-gartenhaus/): A historical site where the German poet Friedrich Schiller lived.
 - [**Paradies**](https://www.visit-jena.de/aktiv-und-natur/gaerten-und-parks/jena-paradies-volkspark-oberaue/): The green oasis in the heart of the city center, located directly on the Saale River, is a perfect place for sports, play, and relaxation.
 - [**Kernberge**](https://www.visit-jena.de/aktiv-und-natur/trailrunningwege-in-den-kernbergen/): The light-colored shell limestone cliffs of the Kernberge are only a short trip from the city and offer beautiful hiking and trailrunning opportunities.
-
-If you arrive on Sunday, the [Jenaer Altstadtfest](https://www.jena-veranstaltungen.de/event/jenaer-altstadtfest), an open-air festival with music and events all throughout the inner city is the perfect opportunity to get to know Jena before the conference starts.
