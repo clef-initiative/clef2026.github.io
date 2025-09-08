@@ -20,8 +20,6 @@ Jena lies in a scenic hilly landscape in the wide valley of the Saale river. The
 
 ## Getting to Jena
 
-Jena 
-
 ### By Air
 
 **International Airports:**
