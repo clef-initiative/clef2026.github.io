@@ -1,8 +1,8 @@
 ---
 title: "Touché"
 draft: false
-summary: "Argumentation systems"
 params:
+  subtitle: "Argumentation systems"
   url: "https://touche.webis.de"
 menu:
   main:
@@ -11,9 +11,11 @@ menu:
     weight: 160
 ---
 
-## Overview
+
 
 Decision-making and opinion-forming are everyday tasks that involve weighing pro and con arguments for or against different options. With ubiquitous access to all kinds of information on the web, everybody has the chance to acquire knowledge for these tasks on almost any topic. However, current information systems are primarily optimized for returning relevant results and do not address deeper analyses of arguments or multi-modality. To close this gap, the Touché lab series, running since 2020, has several tasks to advance both argumentation systems and the evaluation thereof.
+
+<!--more-->
 
 ## Organizers
 

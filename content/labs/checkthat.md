@@ -1,7 +1,8 @@
 ---
 title: "CheckThat!"
 draft: false
-summary: "Developing technologies for identifying and verifying claims"
+params:
+  subtitle: "Developing technologies for identifying and verifying claims"
 menu:
   main:
     identifier: "lab-checkthat"
@@ -9,11 +10,11 @@ menu:
     weight: 20
 ---
 
-## Overview
+
 
 The 9th edition of the CheckThat! lab at CLEF targets three tasks: (i) scientific web discourse, (ii) generating full-fact-checking articles, and (iii) fact-checking numerical and temporal claims. These tasks represent challenging classification and retrieval problems, including multilingual settings.
 
-## Organizers
+<!--more-->
 
 - Julia Maria Struß (University of Applied Sciences Potsdam)
 - Venktesh V (Delft University of Technology)
