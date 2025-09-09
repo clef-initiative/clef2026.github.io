@@ -2,7 +2,7 @@
 title: "BioASQ"
 draft: false
 params:
-  subtitle: "Large-scale biomedical semantic indexing and question answering."
+  subtitle: "Large-scale biomedical semantic indexing and question answering"
 menu:
   main:
     identifier: "lab-bioasq"

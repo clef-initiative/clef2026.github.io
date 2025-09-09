@@ -5,6 +5,10 @@
 all:
   timezone: "Anywhere on Earth (AoE)"
   dates:
+  - name: "Lab Proposal Submission"
+    date: "2025-07-17"
+  - name: "Lab Proposal Notification"
+    date: "2025-08-04"
   - name: "Short Lab Overview Abstracts"
     date: "2025-10-07"
   - name: "Short Lab Overview Submission"
@@ -40,6 +44,8 @@ all:
 highlights:
   timezone: "Anywhere on Earth (AoE)"
   dates:
+    - name: "Lab Proposal Submission"
+      date: "2025-07-17"
     - name: "Short Lab Overview Submission"
       date: "2025-10-14"
     - name: "Run Submission"
