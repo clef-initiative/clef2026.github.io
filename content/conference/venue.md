@@ -17,7 +17,7 @@ CLEF 2026 will take place at the **Friedrich-Schiller-Universität Jena** in the
 
 More information will follow shortly.
 
-{{< map lat="50.928618" lng="11.581971" name="Campus Ernst-Abbe-Platz" zoom="14.9" >}}
+{{< map lat="50.928618" lng="11.581971" name="Friedrich-Schiller-Universität Jena <br>Campus Ernst-Abbe-Platz" zoom="14.9" >}}
 
 ### Address
 
