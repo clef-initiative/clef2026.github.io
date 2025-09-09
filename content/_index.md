@@ -18,7 +18,7 @@ Important submission deadlines are listed below; for a complete list see the ful
 {{< dates key="highlights" >}}
 
 <div class="max-w-full flex flex-row gap-4 justify-center">
-{{< button href="/dates/" type="primary" size="sm" >}}
+{{< button href="/dates/" type="primary" size="md" >}}
 View full date overview
 {{< /button >}}
 </div>

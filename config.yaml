@@ -3,7 +3,7 @@ baseURL: "https://clef2026.clef-initiative.eu/"
 title: "CLEF 2026 - Conference and Labs of the Evaluation Forum"
 copyright: "CLEF 2026"
 params:
-  logo: "/img/clef-conference-logo.svg"
+  logo: "/img/clef26-logo.svg"
   hero_image: "/img/clef26-jena-02.jpg"
   name: "CLEF 2026"
   dates: "September 21-24, 2026"
