@@ -1,6 +1,7 @@
 ---
 title: "Impressum / Terms / Privacy"
 draft: false
+toc: true
 ---
 
 ## Impressum
