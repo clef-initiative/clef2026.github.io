@@ -28,26 +28,28 @@ Jena lies in a scenic hilly landscape in the wide valley of the Saale river. The
 - **Munich (MUC)** - approximately 3 hours to Jena via fast trains (IC/ICE)
 
 **Regional Airports:**
-- **Erfurt-Weimar (ERF)** - 1.5 hours to Jena with train connections
-- **Leipzig/Halle (LEJ)** - 1.5 hours to Jena with train connections
+- **Erfurt-Weimar (ERF)** - 1.5 hours to Jena with local train connections
+- **Leipzig/Halle (LEJ)** - 1.5 hours to Jena with local train connections
 
 The international airports can serve as stopovers for flights to the regional airports if preferred.
 
 ### By Train
 
+[Deutsche Bahn (DB)](https://int.bahn.de/en) is the national rail operator in Germany.
+Train tickets can be bought in-person at larger stations, or via the [DB Navigator App](https://int.bahn.de/en/booking-information/db-navigator).
+
 Jena has **two central railway stations:**
 - **Jena West**
 - **Jena Paradies**
 
-**Tip:** When booking your journey, simply search for "JENA" as your destination at [Deutsche Bahn](https://int.bahn.de/en), the national rail provider in Germany, which will automatically route you to the most convenient station based on your departure location.
+**Tip:** When booking your journey through DB, simply search for "JENA" (all caps), which will automatically route you to the most convenient station based on your departure location.
 
 Both stations are centrally located, and hotels in the city center are typically within walking distance.
 
 ### Local Transportation
 
-Jena offers a comprehensive **tram network** that connects various parts of the city, including hotels in the southern areas if needed. The tram system provides convenient access throughout the city.
-
-**Network information:** [Jena Public Transport Map](https://www.stadtwerke-jena.de/dam/jcr:05b477be-daab-48d5-87ea-f1776d8cd747/VMT_02-2022_NP_Jena_01_screen.pdf)
+Jena offers a comprehensive **tram network** that connects various parts of the city, including hotels in the southern areas if needed. 
+The tram system provides convenient access throughout the city. Local transportation can be searched and booked through the DB Navigator App as well.
 
 ## Accommodation
 

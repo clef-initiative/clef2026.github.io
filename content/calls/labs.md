@@ -64,7 +64,7 @@ When submitting a lab proposal, choose the "**CLEF 2026 Lab Proposals**" track.
 
 Each proposal **submitted by 14 July 2025** will be reviewed by the CLEF 2026 Lab Organising Committee. The acceptance decision will be sent by email to the responsible organiser by 4 Aug 2025\. The final length of the lab session at the conference will be determined based on the overall organisation of the conference and the number of participant submissions received by a lab.
 
-## **Advertising Labs at CLEF 2025 and ECIR 2026**
+## Advertising Labs at CLEF 2025 and ECIR 2026
 
 Organisers of accepted labs are expected to advertise their labs at both CLEF 2025 (September 9-12, 2025, Madrid, Spain) and ECIR 2026 (March 29 \- April 2, 2026, Delft, Netherlands). **So, at least one lab representative should attend these events.**
 

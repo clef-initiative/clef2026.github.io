@@ -127,6 +127,6 @@ markup:
     style: "github"
     tabWidth: 4
   tableOfContents:
-    endLevel: 3
+    endLevel: 2
     ordered: false
     startLevel: 2
