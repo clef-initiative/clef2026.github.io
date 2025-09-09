@@ -12,6 +12,7 @@ params:
   email: ""
   color: "sky" # Any of red`, `orange`, `amber`, `yellow`, `lime`, `green`, `emerald`, `teal`, `cyan`, `sky`, `blue`, `indigo`, `violet`, `purple`, `fuchsia`, `pink`, `rose`, or any gray tone
   gray: "stone" # Any of `slate`, `gray`, `zinc`, `neutral`, `stone`
+  repo: "https://github.com/clef-initiative/clef2026.github.io/"
 
 ##############################################################################
 #                                                                            #
@@ -59,7 +60,6 @@ menu:
       name: "Previous Conferences"
       url: "https://www.clef-initiative.eu/#editions"
       weight: 3
-
 
 ##############################################################################
 #                                                                            #
