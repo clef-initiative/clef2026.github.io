@@ -3,6 +3,7 @@ title: "Submission Instructions"
 draft: false
 summary: "Submission Instructions for all submission types of CLEF 2026."
 weight: 30
+toc: true
 menu:
   main:
     identifier: "calls-submission"

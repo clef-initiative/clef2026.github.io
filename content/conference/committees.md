@@ -3,6 +3,7 @@ title: "Committees"
 draft: false
 summary: "The people behind CLEF 2026."
 weight: 10
+toc: false
 params:
   image: "/img/clef26-jena-06.jpg"
 menu:

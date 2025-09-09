@@ -3,6 +3,7 @@ title: "Travel & Accomodation"
 draft: false
 summary: "How to get to Jena & where to stay."
 weight: 20
+toc: true
 menu:
   main:
     identifier: "conference-travel"

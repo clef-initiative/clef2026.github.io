@@ -3,6 +3,7 @@ title: "Keynotes"
 draft: true
 summary: "The keynote speakers for CLEF 2026."
 weight: 50
+toc: false
 menu:
   main:
     identifier: "conference-keynotes"

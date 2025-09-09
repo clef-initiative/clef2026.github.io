@@ -4,6 +4,7 @@ draft: false
 date: 2025-07-07T00:00:00-00:00
 summary: "Submit a proposal to host a lab at CLEF 2026"
 weight: 10
+toc: true
 params:
   author: "CLEF Lab Chairs"
 menu:

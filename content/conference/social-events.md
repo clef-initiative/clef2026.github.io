@@ -3,6 +3,7 @@ title: "Social Events"
 draft: false
 summary: "Explore the city of Jena and attend the social events planned as part of CLEF 2026."
 weight: 40
+toc: true
 menu:
   main:
     identifier: "conference-social"

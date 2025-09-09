@@ -3,6 +3,7 @@ title: "Proceedings"
 draft: true
 summary: "The proceedings of CLEF 2026."
 weight: 70
+toc: true
 menu:
   main:
     identifier: "conference-proceedings"

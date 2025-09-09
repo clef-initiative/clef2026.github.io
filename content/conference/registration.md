@@ -3,6 +3,7 @@ title: "Registration"
 draft: true
 summary: "Register for CLEF 2026."
 weight: 15
+toc: true
 menu:
   main:
     identifier: "conference-registration"

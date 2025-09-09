@@ -3,6 +3,7 @@ title: "Program"
 draft: true
 summary: "The program of CLEF 2026."
 weight: 60
+toc: true
 menu:
   main:
     identifier: "conference-program"

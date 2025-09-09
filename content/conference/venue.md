@@ -3,6 +3,7 @@ title: Venue
 draft: false
 summary: "Get to know the venue CLEF 2026 is held at."
 weight: 30
+toc: false
 params:
   image: "/img/clef26-jena-04.jpg"
 menu:
