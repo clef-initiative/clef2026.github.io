@@ -26,9 +26,9 @@ Jena lies in a scenic hilly landscape in the wide valley of the Saale river. The
 ### By Air
 
 **International Airports:**
-- **Frankfurt/Main (FRA)** - approximately 3 hours to Jena via fast trains (IC/ICE)
-- **Berlin Brandenburg (BER)** - approximately 3 hours to Jena via fast trains (IC/ICE) 
-- **Munich (MUC)** - approximately 3 hours to Jena via fast trains (IC/ICE)
+- **Frankfurt/Main (FRA)** - approximately 3.5 hours to Jena via fast trains (IC/ICE)
+- **Berlin Brandenburg (BER)** - approximately 3.5 hours to Jena via fast trains (IC/ICE) 
+- **Munich (MUC)** - approximately 4 hours to Jena via fast trains (IC/ICE)
 
 **Regional Airports:**
 - **Erfurt-Weimar (ERF)** - 1.5 hours to Jena with local train connections
