@@ -25,7 +25,7 @@ menu:
 
 <div class="flex flex-wrap gap-2 content-evenly justify-items-center items-top">
 {{< figure src="/img/clef26-chair-schaer.jpg" alt="Philipp Schaer" caption="Philipp Schaer <br>(*Technische Hochschule Köln*)" width="sm" classes="w-32 md:w-48 flex-none" >}}
-{{< figure src="/img/silhouette-female.jpg" alt="N.N" caption="N.N." width="sm" classes="w-32 md:w-48 flex-none" >}}
+{{< figure src="/img/clef26-chair-zangerle.jpg" alt="Eva Zangerle" caption="Eva Zangerle (Universität Innsbruck)" width="sm" classes="w-32 md:w-48 flex-none" >}}
 </div>
 
 ## Lab Chairs
@@ -56,3 +56,10 @@ menu:
 <div class="flex flex-wrap gap-2 content-evenly justify-items-center items-top">
 {{< figure src="/img/clef26-chair-gienapp.jpg" alt="Lukas Gienapp" caption="Lukas Gienapp <br>(*University of Kassel, hessian.AI, ScaDS.AI*)" width="sm" classes="w-32 md:w-48 flex-none" >}}
 </div>
+
+## Community Chair
+
+<div class="flex flex-wrap gap-2 content-evenly justify-items-center items-top">
+{{< figure src="/img/clef26-chair-reimer.jpg" alt="Jan Heinrich Reimer" caption="Jan Heinrich Reimer <br>(*Friedrich-Schiller-Universität Jena*)" width="sm" classes="w-32 md:w-48 flex-none" >}}
+</div>
+
