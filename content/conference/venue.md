@@ -19,10 +19,7 @@ More information will follow shortly.
 
 ### Address
 
-{{< map lat="50.928618" lng="11.581971" name="Friedrich-Schiller-Universität Jena <br>Campus Ernst-Abbe-Platz" zoom="14.9" >}}
-
-**Campus Ernst-Abbe-Platz**  
-Ernst-Abbe-Platz 8, 07743 Jena
+{{< map lat="50.928618" lng="11.581971" name="Friedrich-Schiller-Universität Jena <br>Campus Ernst-Abbe-Platz <br>Ernst-Abbe-Platz 8, 07743 Jena" zoom="14.9" >}}
 
 <div class="flex flex-wrap gap-2 content-evenly justify-items-center items-top">
 {{< button href="https://maps.apple.com/place?address=Ernst-Abbe-Platz%208,%2007743%20Jena,%20Deutschland&coordinate=50.928618,11.581971&name=Friedrich-Schiller-Universit%C3%A4t%20Jena&place-id=I906F4217E158BAB3&map=h" type="outline" size="md" class="flex-1" >}} Apple Maps {{< /button >}}
