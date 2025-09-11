@@ -2,7 +2,7 @@
 title: "Labs"
 draft: false
 params:
-  image: "/img/clef26-jena-05.jpg"
+  image: "/img/clef26-jena-02.jpg"
 weight: 30
 menu:
   main:
