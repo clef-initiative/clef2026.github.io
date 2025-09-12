@@ -5,7 +5,7 @@ toc: true
 summary: "Overview of important dates for the CLEF2026 conference"
 ---
 
-## Submitting a paper?
+## Submitting a conference paper?
 {{< dates key="paper-submission" >}}
 
 ## Participating in a lab?
