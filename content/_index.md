@@ -15,7 +15,7 @@ The CLEF 2026 conference will be hosted by Friedrich-Schiller-Universität Jena,
 
 Important submission deadlines are listed below; for a complete list see the full overview.
 
-{{< dates key="highlights" >}}
+{{< dates past="omit" >}}
 
 <div class="max-w-full flex flex-row gap-4 justify-center">
 {{< button href="/dates/" type="primary" size="md" >}}

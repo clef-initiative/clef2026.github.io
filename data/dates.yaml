@@ -1,8 +1,35 @@
 # All important dates in one central file - Update annually
 # Format dates as YYYY-MM-DD
 
-# Complete date list
-all:
+paper-submission:
+  timezone: "Anywhere on Earth (AoE)"
+  dates:
+  - name: Abstract Submission
+    date: "2026-05-11"
+  - name: Paper Submission
+    date: "2026-05-20"
+  - name: Paper Notification
+    date: "2026-06-11"
+  - name: Paper Camera Ready Submission
+    date: "2026-06-23"
+
+lab-participant:
+  timezone: "Anywhere on Earth (AoE)"
+  dates:
+  - name: "Participant Registration Opens"
+    date: "2025-11-17"
+  - name: "Participant Registration Closes"
+    date: "2026-04-23"
+  - name: "Run Submission"
+    date: "2026-05-07"
+  - name: "Notebook Paper Submission"
+    date: "2026-05-28"
+  - name: "Notebook Paper Notification"
+    date: "2026-06-30"
+  - name: "Notebook Camera Ready"
+    date: "2026-07-06"
+
+lab-organizer:
   timezone: "Anywhere on Earth (AoE)"
   dates:
   - name: "Lab Proposal Submission"
@@ -13,16 +40,10 @@ all:
     date: "2025-10-07"
   - name: "Short Lab Overview Submission"
     date: "2025-10-14"
-  - name: "Participant Registration Opens"
-    date: "2025-11-17"
   - name: "Short Lab Overview Notification"
     date: "2025-12-16"
-  - name: "Participant Registration Closes"
-    date: "2026-04-23"
   - name: "Run Submission"
     date: "2026-05-07"
-  - name: "Notebook Paper Submission"
-    date: "2026-05-28"
   - name: "Condensed Lab Overview Submission"
     date: "2026-06-08"
   - name: "Condensed Lab Overview Notification"
@@ -31,34 +52,15 @@ all:
     date: "2026-06-22"
   - name: "Notebook Review Submission"
     date: "2026-06-25"
-  - name: "Notebook Paper Notification"
-    date: "2026-06-30"
-  - name: "Notebook Camera Ready"
-    date: "2026-07-06"
   - name: "Extended Lab Overview Submission"
     date: "2026-07-06"
-  - name: "CLEF Conference in Jena"
-    date: "2026-09-21"
 
-# Focused date list
-highlights:
+conference:
   timezone: "Anywhere on Earth (AoE)"
   dates:
-    - name: "Lab Proposal Submission"
-      date: "2025-07-17"
-    - name: "Short Lab Overview Submission"
-      date: "2025-10-14"
-    - name: "Run Submission"
-      date: "2026-05-07"
-    - name: "Notebook Paper Submission"
-      date: "2026-05-28"
-    - name: "Condensed Lab Overview Submission"
-      date: "2026-06-08"
-    - name: "Notebook Review Submission"
-      date: "2026-06-25"
-    - name: "Notebook Camera Ready"
-      date: "2026-07-06"
-    - name: "Extended Lab Overview Submission"
-      date: "2026-07-06"
-    - name: "CLEF Conference in Jena"
-      date: "2026-09-21"
+  - name: "Regular Registration Ends"
+    date: "2026-07-10"
+  - name: "Late Registration Ends"
+    date: "2026-08-31"
+  - name: "CLEF 2026"
+    date: "2026-09-21"

@@ -1,7 +1,18 @@
 ---
 title: "Important Dates"
 draft: false
-summary: "Overview of upcoming deadlines and other important dates for the CLEF2026 conference"
+toc: true
+summary: "Overview of important dates for the CLEF2026 conference"
 ---
 
-{{< dates key="all" >}}
+## Submitting a paper?
+{{< dates key="paper-submission" >}}
+
+## Participating in a lab?
+{{< dates key="lab-participant" >}}
+
+## Organizing a lab?
+{{< dates key="lab-organizer" >}}
+
+## Attending the Conference?
+{{< dates key="conference" >}}
