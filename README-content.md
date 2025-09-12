@@ -14,7 +14,8 @@ When editing content, make sure to follow the steps in [README.md](README.md) to
 
 To construct your CLEF webpage, you need to edit content in three directories:
 - [`content/`](content) - all your Markdown files go here
-- [`static/`](static) - all your static content, like images or hosted files go here, organized in subfolders by type (e.g., `static/img/` ); these can be linked to relative to the `static` directory (e.g., `img/clef2026-logo.svg`)
+- [`assets`](assets) - content accessed via shortcodes, e.g., images in figures, goes here, organized in subfolders by type (e.g., `assets/img/` );
+- [`static/`](static) - all your static content, like hosted files go here, organized in subfolders by type (e.g., `static/files/` ); these can be linked to relative to the `static` directory (e.g., `files/flyer.pdf`)
 - [`data/`](data) - YAML data files to generate content from automatically (like previous conferences, or important date listings); refer to the shortcode section below for more information
 
 ## Page Types
@@ -41,8 +42,8 @@ The first lines of [config.yaml](config.yaml) look like something this (taken fr
 baseURL: "https://clef2026.clef-initiative.eu/"
 title: "CLEF 2026 - Conference and Labs of the Evaluation Forum"
 params:
-  logo: "/img/clef2026-logo.svg"
-  hero_image: "/img/header.jpg"
+  logo: "img/clef2026-logo.svg"
+  hero_image: "img/header.jpg"
   name: "CLEF 2026"
   dates: "September 21-24, 2026"
   location: "Jena, Germany"
@@ -58,8 +59,8 @@ Adapt these parameters to your own conference. The parameters have the following
 |--------------|---------------------------------------------|-------------------------------------------------------------------------------------------------|
 | `baseURL`    | The website's main URL                      | An URL like `https://clef2026.clef-initiative.eu/`                                              |
 | `title`      | Default site title for SEO and browser tabs | A string, like `CLEF 2026 - Conference and Labs of the Evaluation Forum`                        |
-| `logo`       | Site logo image path                        | A path relative to the asset folder, like `/img/clef2026-logo.svg`                              |
-| `hero_image` | Default hero/banner image for pages         | A path relative to the asset folder, like `/img/clef2026-header.jpg`                            |
+| `logo`       | Site logo image path                        | A path relative to the asset folder, like `img/clef2026-logo.svg`                               |
+| `hero_image` | Default hero/banner image for pages         | A path relative to the asset folder, like `img/clef2026-header.jpg`                             |
 | `name`       | Short conference name                       | A string, `CLEF 2026`                                                                           |
 | `dates`      | Conference dates                            | A string, like `September 21-24, 2026`                                                          |
 | `location`   | Conference location                         | A string, like `Jena, Germany`                                                                  |
@@ -95,9 +96,9 @@ Every content file starts with frontmatter - configuration data written in YAML 
 ---
 title: "Page Title"
 draft: false
-date: 2025-01-01T00:00:00-00:00
 summary: "Brief description of the page content"
 weight: 20
+toc: true
 params:
   author: "John Smith"
   image: "https://example.com/image.jpg"
@@ -111,13 +112,13 @@ menu:
 
 ###### General Fields
 
-| Field     | Required | Description                                                                           | Example                                           |
-|-----------|----------|---------------------------------------------------------------------------------------|---------------------------------------------------|
-| `title`   | ✅        | The page title displayed in navigation and browser tabs                               | Any string, like `"Call for Papers"`              |
-| `draft`   | ✅        | Set to `false` to publish, `true` to hide in final website build                      | Any boolean, like `false`                         |
-| `date`    | ✅        | Publication date in ISO format                                                        | Any ISO date, like `2025-01-01T00:00:00-00:00`    |
+| Field     | Required | Description                                                                            | Example                                           |
+|-----------|----------|----------------------------------------------------------------------------------------|---------------------------------------------------|
+| `title`   | ✅        | The page title displayed in navigation and browser tabs                                | Any string, like `"Call for Papers"`              |
+| `draft`   | ✅        | Set to `false` to publish, `true` to hide in final website build                       | `true`/`false`                                    |
 | `summary` | ✅        | Brief description for SEO and previews; this is rendered as description in list pages. | Any string, `"Learn about submission guidelines"` |
-| `weight`  | ❌        | Controls ordering in list pages (per section; lower numbers appear first)             | Any int, like `20`                                |
+| `toc`     | ❌        | Whether to render a table of contents on this page                                     | `true`/`false`                                    |
+| `weight`  | ❌        | Controls ordering in list pages (per section; lower numbers appear first)              | Any int, like `20`                                |
 
 ###### Params Section
 Custom parameters for this individual page:
@@ -146,7 +147,6 @@ The global menu structure, i.e., the top-level entries visible in the menu bar, 
 ---
 title: "Conference"
 draft: false
-date: 2025-01-01T00:00:00-00:00
 summary: "Information about CLEF 2026 conference"
 weight: 10
 menu:
@@ -374,11 +374,12 @@ Display images with captions and responsive sizing, and text floating.
 
 **Syntax:**
 ```markdown
-{{< figure src="images/venue.jpg" alt="Conference venue" caption="CLEF 2026 venue in Jena" width="lg" float="center" >}}
+{{< figure src="img/venue.jpg" size="600x400" alt="Conference venue" caption="CLEF 2026 venue in Jena" width="lg" float="center" >}}
 ```
 
 **Parameters:**
 - `src`: Image URL or path (required)
+- `size`: If given, automatically resizes the image to the specified dimensions
 - `alt`: Alt text for accessibility
 - `caption`: Optional image caption
 - `width`: `sm`, `md`, `lg`, `xl`, `2xl`, `3xl`, `4xl`, `full` (default: `full`)
@@ -388,14 +389,14 @@ Display images with captions and responsive sizing, and text floating.
 **Examples:**
 ```markdown
 {{< figure 
-    src="images/jena-university.jpg" 
+    src="img/jena-university.jpg" 
     alt="University of Jena campus" 
-    caption="The beautiful University of Jena campus where CLEF 2026 will be held"
+    caption="The University of Jena campus where CLEF 2026 will be held"
     width="xl" 
 >}}
 
 {{< figure 
-    src="images/keynote-speaker.jpg" 
+    src="img/keynote-speaker.jpg" 
     alt="Dr. Sarah Johnson" 
     caption="**Dr. Sarah Johnson**, Keynote Speaker"
     width="md" 
