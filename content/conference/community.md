@@ -1,5 +1,5 @@
 ---
-title: "Comunity"
+title: "Community"
 draft: false
 summary: "Join the CLEF 2026 community on Discord and connect with peers."
 weight: 45
