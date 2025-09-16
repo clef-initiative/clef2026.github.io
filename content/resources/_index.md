@@ -9,11 +9,11 @@ summary: "Resources for CLEF26 Organizers and Participants"
 ## Color
 
 The official color palette of CLEF 2026 is: 
-<div class="grid grid-cols-7 grid-rows-4 gap-4 *:rounded-lg *:text-sm *:text-center *:p-2 *:rounded-lg">
+<div class="grid grid-cols-7 grid-rows-4 gap-2 md:gap-4 *:rounded-lg *:text-xs *:md:text-sm *:text-center *:px-1 *:py-2 *:md:px-2 *:rounded-lg">
   <div class="col-span-1 col-start-2 font-bold">White</div>
   <div class="col-span-1 col-start-3 font-bold">Light</div>
-  <div class="col-span-1 col-start-4 font-bold">Secondary</div>
-  <div class="col-span-1 col-start-5 font-bold">Primary</div>
+  <div class="col-span-1 col-start-4 font-bold">Lighter</div>
+  <div class="col-span-1 col-start-5 font-bold">Darker</div>
   <div class="col-span-1 col-start-6 font-bold">Dark</div>
   <div class="col-span-1 col-start-7 font-bold">Black</div>
 
@@ -38,6 +38,12 @@ The official color palette of CLEF 2026 is:
   <div class="col-span-1 col-start-7 bg-stone-900 text-stone-50 ">#1c1917</div>
 </div>
 
+## Font
+
+The official font of CLEF 2026 is **Outfit**. It is available under the SIL Open Font License 1.1.
+
+- [Github](https://github.com/Outfitio/Outfit-Fonts)
+- [Google Fonts](https://fonts.google.com/specimen/Outfit/about)
 
 ## Logo
 
@@ -54,6 +60,8 @@ It comes in three versions:
 {{< figure src="img/clef26-key.png" size="4489x2363" alt="CLEF 2026 key variant" width="sm" classes="h-16 w-32 md:h-24 md:w-48 flex-none" >}}
 {{< figure src="img/clef26-icon.png" size="2363x2363" alt="CLEF 2026 icon variant" width="sm" classes="h-16 w-16 md:h-24 md:w-24 flex-none" >}}
 </div>
+
+The logo should be used on a white of light colored background.
 
 The logo is available as an assets pack, featuring all three variants in SVG, PDF, and PNG format at different resolutions:
 - [clef26-assets.zip](./clef26-assets.zip)
