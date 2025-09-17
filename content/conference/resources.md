@@ -10,6 +10,35 @@ menu:
     weight: 90
 ---
 
+If you want to use the CLEF 2026 logo, or adopt more features of the CLEF 2026 (website) design for your own purposes, e.g., slides, all info is compiled below.
+
+## Logo
+
+The logo for CLEF 2026 draws inspiration from the Zeiss Planetarium. It shows the planetariums projector embedded into a key shape, with the key bit picturing the Jena skyline, as customary for CLEF conference logos.
+
+It comes in three versions, with two color variants each (dark blue for light backgrounds, light blue for dark backgrounds):
+
+- The full logo, featuring the full key with text
+- The key logo, featuring the full key without text
+- The icon logo, featuring just the key handle without text
+
+<div class="flex flex-wrap gap-4 justify-around content-evenly items-top bg-stone-50 rounded-xl border-1 border-stone-200 not-prose p-4 my-2">
+{{< figure src="img/clef26-logo-dark.png" size="4489x2363" alt="CLEF 2026 logo variant" width="sm" classes="h-16 w-32 md:h-24 md:w-48 flex-none" >}}
+{{< figure src="img/clef26-key-dark.png" size="4489x2363" alt="CLEF 2026 key variant" width="sm" classes="h-16 w-32 md:h-24 md:w-48 flex-none" >}}
+{{< figure src="img/clef26-icon-dark.png" size="2363x2363" alt="CLEF 2026 icon variant" width="sm" classes="h-16 w-16 md:h-24 md:w-24 flex-none" >}}
+</div>
+
+<div class="flex flex-wrap gap-4 justify-around content-evenly items-top bg-stone-900 rounded-xl border-1 border-stone-200 not-prose p-4 my-2">
+{{< figure src="img/clef26-logo-light.png" size="4489x2363" alt="CLEF 2026 logo variant" width="sm" classes="h-16 w-32 md:h-24 md:w-48 flex-none" >}}
+{{< figure src="img/clef26-key-light.png" size="4489x2363" alt="CLEF 2026 key variant" width="sm" classes="h-16 w-32 md:h-24 md:w-48 flex-none" >}}
+{{< figure src="img/clef26-icon-light.png" size="2363x2363" alt="CLEF 2026 icon variant" width="sm" classes="h-16 w-16 md:h-24 md:w-24 flex-none" >}}
+</div>
+
+The logo should be used on a white of light colored background.
+
+The logo is available as an assets pack, featuring all three variants in SVG, PDF, and PNG format at different resolutions:
+- [clef26-assets.zip](./clef26-assets.zip)
+
 
 ## Color
 
@@ -49,30 +78,3 @@ The official font of CLEF 2026 is **Outfit**. It is available under the SIL Open
 
 - [Github](https://github.com/Outfitio/Outfit-Fonts)
 - [Google Fonts](https://fonts.google.com/specimen/Outfit/about)
-
-## Logo
-
-The logo for CLEF 2026 draws inspiration from the Zeiss Planetarium. It shows the planetariums projector embedded into a key shape, with the key bit picturing the Jena skyline, as customary for CLEF conference logos.
-
-It comes in three versions, with two color variants each (dark blue for light backgrounds, light blue for dark backgrounds):
-
-- The full logo, featuring the full key with text
-- The key logo, featuring the full key without text
-- The icon logo, featuring just the key handle without text
-
-<div class="flex flex-wrap gap-4 justify-around content-evenly items-top bg-stone-50 rounded-xl border-1 border-stone-200 not-prose p-4 my-2">
-{{< figure src="img/clef26-logo-dark.png" size="4489x2363" alt="CLEF 2026 logo variant" width="sm" classes="h-16 w-32 md:h-24 md:w-48 flex-none" >}}
-{{< figure src="img/clef26-key-dark.png" size="4489x2363" alt="CLEF 2026 key variant" width="sm" classes="h-16 w-32 md:h-24 md:w-48 flex-none" >}}
-{{< figure src="img/clef26-icon-dark.png" size="2363x2363" alt="CLEF 2026 icon variant" width="sm" classes="h-16 w-16 md:h-24 md:w-24 flex-none" >}}
-</div>
-
-<div class="flex flex-wrap gap-4 justify-around content-evenly items-top bg-stone-900 rounded-xl border-1 border-stone-200 not-prose p-4 my-2">
-{{< figure src="img/clef26-logo-light.png" size="4489x2363" alt="CLEF 2026 logo variant" width="sm" classes="h-16 w-32 md:h-24 md:w-48 flex-none" >}}
-{{< figure src="img/clef26-key-light.png" size="4489x2363" alt="CLEF 2026 key variant" width="sm" classes="h-16 w-32 md:h-24 md:w-48 flex-none" >}}
-{{< figure src="img/clef26-icon-light.png" size="2363x2363" alt="CLEF 2026 icon variant" width="sm" classes="h-16 w-16 md:h-24 md:w-24 flex-none" >}}
-</div>
-
-The logo should be used on a white of light colored background.
-
-The logo is available as an assets pack, featuring all three variants in SVG, PDF, and PNG format at different resolutions:
-- [clef26-assets.zip](./clef26-assets.zip)
