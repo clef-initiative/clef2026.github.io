@@ -10,7 +10,7 @@ menu:
     weight: 90
 ---
 
-If you want to use the CLEF 2026 logo, or adopt more features of the CLEF 2026 (website) design for your own purposes, e.g., slides, all info is compiled below.
+If you want to use the CLEF 2026 logo, or adopt other features of the CLEF 2026 (website) design for your own purposes, e.g., slides, all info is compiled below.
 
 ## Logo
 
