@@ -5,6 +5,7 @@ copyright: "CLEF 2026"
 params:
   logo: "img/clef26-logo-dark.svg"
   hero_image: "img/clef26-jena-05.jpg"
+  hero_image_dark: "img/clef26-jena-dark-01.jpg"
   name: "CLEF 2026"
   dates: "September 21-24, 2026"
   location: "Jena, Germany"
