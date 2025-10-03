@@ -3,6 +3,7 @@ title: "ELOQUENT"
 draft: false
 params:
   subtitle: "New evaluation methods for generative language models"
+  url: https://eloquent-lab.github.io/
 menu:
   main:
     identifier: "lab-eloquent"
