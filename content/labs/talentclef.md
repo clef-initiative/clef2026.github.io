@@ -3,6 +3,7 @@ title: "TalentCLEF"
 draft: false
 params:
   subtitle: "Skill and job title intelligence for human capital management"
+  url: https://talentclef.github.io/talentclef/
 menu:
   main:
     identifier: "lab-talentclef"
