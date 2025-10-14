@@ -3,6 +3,7 @@ title: "CheckThat!"
 draft: false
 params:
   subtitle: "Developing technologies for identifying and verifying claims"
+  url: http://checkthat.gitlab.io/clef2026/
 menu:
   main:
     identifier: "lab-checkthat"
