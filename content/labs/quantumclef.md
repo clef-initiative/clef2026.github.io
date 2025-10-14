@@ -3,6 +3,7 @@ title: "QuantumCLEF"
 draft: false
 params:
   subtitle: "Quantum computing at CLEF"
+  url: https://qclef.dei.unipd.it/
 menu:
   main:
     identifier: "lab-quantumclef"
