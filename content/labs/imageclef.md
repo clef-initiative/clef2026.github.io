@@ -3,6 +3,7 @@ title: "ImageCLEF"
 draft: false
 params:
   subtitle: "Multimodal challenge in CLEF"
+  url: https://www.imageclef.org/2026/
 menu:
   main:
     identifier: "lab-imageclef"
