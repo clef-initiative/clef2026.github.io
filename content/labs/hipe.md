@@ -3,6 +3,7 @@ title: "HIPE"
 draft: false
 params:
   subtitle: "Evaluating accurate and efficient person–place relation extraction from multilingual historical texts"
+  url: https://hipe-eval.github.io/HIPE-2026/
 menu:
   main:
     identifier: "lab-hipe"
