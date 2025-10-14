@@ -15,4 +15,4 @@ summary: "Overview of important dates for the CLEF2026 conference"
 {{< dates key="lab-organizer" >}}
 
 ## Attending the Conference?
-{{< dates key="conference" >}}
+{{< dates key="conference" >}} 
