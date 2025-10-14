@@ -3,6 +3,7 @@ title: "LongEval"
 draft: false
 params:
   subtitle: "Longitudinal evaluation of model performance"
+  url: https://clef-longeval.github.io
 menu:
   main:
     identifier: "lab-longeval"
