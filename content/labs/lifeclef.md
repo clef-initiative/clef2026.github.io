@@ -3,6 +3,7 @@ title: "LifeCLEF"
 draft: false
 params:
   subtitle: "Biodiversity monitoring using AI-powered tools"
+  url: http://www.lifeclef.org
 menu:
   main:
     identifier: "lab-lifeclef"
