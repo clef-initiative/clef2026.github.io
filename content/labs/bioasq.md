@@ -3,6 +3,7 @@ title: "BioASQ"
 draft: false
 params:
   subtitle: "Large-scale biomedical semantic indexing and question answering"
+  url: https://www.bioasq.org/workshop2026
 menu:
   main:
     identifier: "lab-bioasq"
