@@ -3,6 +3,7 @@ title: "JOKER"
 draft: false
 params:
   subtitle: "Automatic humour analysis"
+  url: https://www.joker-project.com/2025/
 menu:
   main:
     identifier: "lab-joker"
