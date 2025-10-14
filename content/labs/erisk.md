@@ -3,6 +3,7 @@ title: "eRisk"
 draft: false
 params:
   subtitle: "Early risk prediction on the internet"
+  url: https://erisk.irlab.org
 menu:
   main:
     identifier: "lab-erisk"
