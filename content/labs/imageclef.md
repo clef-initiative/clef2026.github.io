@@ -11,15 +11,34 @@ menu:
     weight: 80
 ---
 
-
-
-Building on the success of previous editions from 2003 to 2025, ImageCLEF 2026 continues as part of the CLEF initiative's Multimodal Challenge. The campaign focuses on advancing and benchmarking technologies for multimodal data analysis—including annotation, classification, indexing, and retrieval. The primary goal of ImageCLEF 2026 is to facilitate research through access to large-scale, diverse multimodal datasets tailored to a wide range of practical domains and scenarios. Continuing the momentum of recent successful editions, this year’s challenge will again embrace interdisciplinary problem solving across key areas such as medical imaging, knowledge representation, data generation, encouraging innovative, real-world solutions.
-While ImageCLEF 2026 will retain the tasks from the 2025 edition, with some improvements, while adding a new task to expand futher. Participants will be invited to tackle new and evolving tasks that reflect emerging needs and technologies, fostering collaboration across disciplines.
+ImageCLEF is an ongoing evaluation event that started in 2003, promoting the evaluation of technologies for annotating, indexing, retrieving, and generating multimodal data, and aiming to provide access to large collections of data across a veriety of scenarios, domains and contexts.
 
 <!--more-->
 
+## Tasks
+
+The ImageCLEF Lab features five different tasks:
+
+{{< accordion >}}
+  {{< accordion-item title="ImageCLEF Medical" >}}
+  The task approaches a wide array of problems in the medical field, like concept detection, caption prediction, explainability, security in AI generated images, tumor typing correction, medical report discrepancy summarization or visual question answering and synthetic medical image generation.
+  {{< /accordion-item >}}
+  {{< accordion-item title="ToPicto" >}}
+  Text to pictogram translation and pictogram sequence prediction.
+  {{< /accordion-item >}}
+  {{< accordion-item title="MultimodalReasoning" >}}
+  Multilingual, Interdisciplinary visual question answering.
+  {{< /accordion-item >}}
+  {{< accordion-item title="AI4AGRI" >}}
+  Prediction of agricultural potential before planting and crop type identification.
+  {{< /accordion-item >}}
+  {{< accordion-item title="ImageCLEF-Deepfake" >}}
+  Detection and generation of deepfakes in visual and audio data.
+  {{< /accordion-item >}}
+{{< /accordion >}}
+
 ## Organizers
 
-- Bogdan Ionescu (Politehnica University of Bucharest)
-- Henning Müller (HES-SO) 
-- Dan-Cristian Stanciu (Politehnica University of Bucharest)
+- Bogdan Ionescu (Politehnica University of Bucharest, Romania)
+- Henning Müller (HES-SO, Switzerland) 
+- Dan-Cristian Stanciu (Politehnica University of Bucharest, Romania)

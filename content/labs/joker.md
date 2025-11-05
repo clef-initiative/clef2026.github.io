@@ -2,8 +2,8 @@
 title: "JOKER"
 draft: false
 params:
-  subtitle: "Automatic humour analysis"
-  url: https://www.joker-project.com/2025/
+  subtitle: "Humor Detection, Search, and Translation"
+  url: https://www.joker-project.com/
 menu:
   main:
     identifier: "lab-joker"
@@ -11,15 +11,34 @@ menu:
     weight: 90
 ---
 
-
-
-Humour poses a unique challenge for artificial intelligence, as it often relies on non-literal language, cultural references, and linguistic creativity. The JOKER Lab, now in its fourth year, aims to advance computational humour research through shared tasks on curated, multilingual datasets, with applications in education, computer-mediated communication and translation, and conversational AI. In this 2026 edition of JOKER lab, we will conitnue three main tasks from the last year: (1) humour-aware information retrieval, which involves searching a document collection for humorous texts relevant to user queries in either English or Portuguese; (2) pun translation, focussed on humour-preserving translation of paronomastic jokes from English into French; and (3) onomastic wordplay translation, a task addressing the translation of name-based wordplay from English into French. We observed significant changes in the approaches of the participants in 2025.
+The JOKER Lab aims to improve AI’s understanding and handling of humor and wordplay by creating reusable test collections and tasks for humor retrieval, translation, and generation across languages.
 
 <!--more-->
 
+## Tasks
+
+The JOKER Lab features four different tasks:
+
+{{< accordion >}}
+  {{< accordion-item title="Humoraware Information Retrieval" >}}
+  Retrieve short humorous texts for a query.
+  {{< /accordion-item >}}
+  {{< accordion-item title="Pun Translation" >}}
+  Translate puns from English to French and Spanish.
+  {{< /accordion-item >}}
+  {{< accordion-item title="Onomastic Wordplay Translation" >}}
+  Translate onomastic wordplay from English to French and Spanish.
+  {{< /accordion-item >}}
+  {{< accordion-item title="Humor Generation" >}}
+  Humor Generation: guided creativity.
+  {{< /accordion-item >}}
+{{< /accordion >}}
+
 ## Organizers
 
-- Liana Ermakova (HCTI, Université de Bretagne Occidentale)
-- Tristan Miller (University of Manitoba)
-- Anne-Gwenn Bosser (ENIB, Lab-STICC) 
-- Jaap Kamps (University of Amsterdam)
+- Liana Ermakova (HCTI, University of Brest, France)
+- Tristan Miller (University of Manitoba, Canada)
+- Igor Kuzmin (Universitat Pompeu Fabra, Spain)
+- Poojan Vachharajani (Netaji Subhas University of Technology, India)
+- Anne-Gwenn Bosser (Bretagne INP, France)
+- Jaap Kamps (University of Amsterdam, The Netherlands)

@@ -3,6 +3,7 @@ title: "EXIST"
 draft: false
 params:
   subtitle: "Sexism identification in social networks"
+  url: https://nlp.uned.es/exist2026/
 menu:
   main:
     identifier: "lab-exist"
@@ -12,16 +13,41 @@ menu:
 
 
 
-This lab focuses on the detection of sexist messages in social networks (SN). Inequality and discrimination against women that remains embedded in society is increasingly being replicated online. Internet perpetuates and even naturalizes gender differences and sexist attitudes. The EXIST 2026 lab will continue to focus on the detection of sexism in social networks, while introducing a novel paradigm that integrates human-centered signals into the AI development pipeline. In this edition, we extend the "learning with disagreement" framework by incorporating sensor-based data from people exposed to potentially sexist content. This includes measurements such as skin conductance, heart rate variability, and other sensor data that reflect unconscious responses to sexism. Given the nature of these multimodal signals, we will concentrate on analyzing memes and short videos—formats that combine visual and textual cues and are especially suited for capturing the emotional and cognitive impact of online content. This human-in-the-loop approach not only acknowledges the diversity of subjective reactions to sexism, but also opens new avenues for building more robust, equitable, and interpretable systems. By integrating both conscious feedback and unconscious reactions from annotators, EXIST 2026 aims to foster a more nuanced and ethically grounded understanding of sexism across platforms and formats. 
+This lab focuses on the detection of sexist messages in social networks (SN), particularly in complex multimedia formats such as memes and short videos. Inequality and discrimination against women that remains embedded in society is increasingly being replicated online. In this edition, we extend the Learning with Disagreement (LwD) framework by incorporating sensor-based data from people exposed to potentially sexist content. This includes measurements such as heart rate variability, EEG, eye-tracking, and other sensor data.
 
 <!--more-->
 
+## Tasks
+
+The EXIST Lab features three different tasks:
+
+{{< accordion >}}
+  {{< accordion-item title="Sexism Identification" >}}
+  Binary classification where the systems must decide whether or not a given meme or video contain sexist expressions or behaviours.
+  {{< /accordion-item >}}
+  {{< accordion-item title="Source Intention" >}}
+  Aims to categorize the message according to the intention of the author.
+  {{< /accordion-item >}}
+  {{< accordion-item title="Sexism Categorization " >}}
+  Aims to categorize the meme in different types of sexism according to the categorization proposed by experts that considers the different facets of women that are undermined.
+  {{< /accordion-item >}}
+{{< /accordion >}}
+
 ## Organizers
 
-- Jorge Carrillo-De-Albornoz (Universidad Nacional de Educacion a Distancia)
-- Laura Plaza (Universidad Nacional de Educación a Distancia)
-- Damiano Spina (RMIT University)
-- Paolo Rosso (Universitat Politècnica de València)
-- Iván Arcos (Universitat Politècnica de València)
-- Elena Gomis (Universitat Politècnica de València)
-- María Aloy (Universitat Politècnica de València) 
+- Laura Plaza (Universidad Nacional de Educación a Distancia, Spain)
+- Jorge Carrillo-De-Albornoz (Universidad Nacional de Educacion a Distancia, Spain)
+- Iván Arcos (Universitat Politècnica de València, Spain)
+- María Aloy (Universitat Politècnica de València, Spain) 
+- Paolo Rosso (Universitat Politècnica de València, Spain)
+- Damiano Spina (RMIT University, Australia)
+
+
+
+
+
+
+
+
+    
+

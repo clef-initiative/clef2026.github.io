@@ -2,7 +2,7 @@
 title: "ELOQUENT"
 draft: false
 params:
-  subtitle: "New evaluation methods for generative language models"
+  subtitle: "Lab  for evaluation of generative language model quality"
   url: https://eloquent-lab.github.io/
 menu:
   main:
@@ -13,17 +13,41 @@ menu:
 
  
 
-The ELOQUENT evaluation lab experiments with new evaluation methods for generative language models to meet some of the challenges in the path from laboratory to application. The organisers include commercially active AI developers as well as research groups. This lab explores the following important characteristics of generative language
-model quality: (1) Trustworthiness, a many-faceted notion which involves topical relevance and truthfulness, discourse competence, reasoning in language, controllability, and robustness across varied input, which is at the forefront of current development projects for generative language models; (2) Multi-linguality and cultural fit: the suitability of a language model for some cultural and linguistic area which is at top of attention, not least for the European arena; (3) Self-assessment: the reliability of a language model to assess the quality of itself or some other language model, using as little human effort as possible; (4) Limits of language models: the delimitation of world knowledge and generative capacity.
+The ELOQUENT lab for evaluation of generative language model quality and usefulness addresses high-level quality criteria for generative language models through a set of open-ended shared tasks.
 
 <!--more-->
+
+## Tasks
+
+The ELOQUENT Lab features three different tasks:
+
+{{< accordion >}}
+  {{< accordion-item title="Voight-Kampff" >}}
+  Can machine-generated text be distinguished from human-authored text?
+  {{< /accordion-item >}}
+  {{< accordion-item title="Robustness " >}}
+  Will a generative language model's output reflect cultural variety? Will it be able to provide robust responses irrespective of interaction language?
+  {{< /accordion-item >}}
+  {{< accordion-item title="Topical PISA Quiz" >}}
+  Can a generative language model create a useful topical quiz from given text? Can it score responses to such quiz questions?
+  {{< /accordion-item >}}
+{{< /accordion >}}
+
 
 ## Organizers
 
 - Jussi Karlgren (AMD Silo AI)
-- Ondřej Bojar (Charles University in Prague, ÚFAL)
-- Marie Engels (Fraunhofer IAIS)
+- Marie Isabel Engels (Fraunhofer IAIS)
+- Maria Barrett
+- Diandra Fabre
 - Pavel Šindelář (Charles University)
+- Ondřej Bojar (Charles University in Prague, ÚFAL)
+- Lorraine Goeuriot
+- Josiane Mothe
+- Philippe Mulhem
 - Mario Piacentini (OECD)
 - Luis Francisco Vargas Madriz (OECD)
+- Didier Schwab
+- Georgios Stampoulidis
 - Katherina Thomas (OECD)
+- Markarit Vartampetian

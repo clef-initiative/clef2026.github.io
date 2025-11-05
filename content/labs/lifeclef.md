@@ -3,7 +3,7 @@ title: "LifeCLEF"
 draft: false
 params:
   subtitle: "Biodiversity monitoring using AI-powered tools"
-  url: http://www.lifeclef.org
+  url: https://www.imageclef.org/LifeCLEF2026
 menu:
   main:
     identifier: "lab-lifeclef"
@@ -11,20 +11,38 @@ menu:
     weight: 100
 ---
 
-
-
-Biodiversity monitoring using AI-powered tools has become vital for tracking species distributions and assessing ecosystem health on a large scale. Automated image- and sound-based species recognition, in particular, continues to accelerate conservation efforts by enabling rapid, low-cost surveys of vulnerable populations. However, the ever-growing variety of algorithms and data sources underscores the need for standardized benchmarks to assess real-world performance. Since 2011, the LifeCLEF lab has filled this role by organizing annual evaluations that promote collaboration among AI experts, citizen science, and ecologists. (i) AnimalCLEF: Discovery of individual animal, (ii) BirdCLEF+: Multi-taxonomic species identification in soundscape recordings, (iii) MarineCLEF: Location-aware classification of marine species in underwater imagery, (iv) PestCLEF: Information extraction on plant pests from news articles, (v) PlantCLEF: Multi-species plant identification in quadrat images.
+LifeCLEF is an international research initiative in the field of biodiversity informatics that organizes yearly challenges on the automated identification and understanding of life forms, particularly using machine learning and computer vision methods. It is part of CLEF (Conference and Labs of the Evaluation Forum), which organizes benchmark challenges to advance state-of-the-art techniques in information retrieval and data analysis.
 
 <!--more-->
 
+## Tasks
+
+The LifeCLEF Lab features five different tasks:
+
+{{< accordion >}}
+  {{< accordion-item title="AnimalCLEF" >}}
+  Discovering Individual Animals.
+  {{< /accordion-item >}}
+  {{< accordion-item title="BirdCLEF+" >}}
+  Multi-taxa Species Identification in Soundscape Recordings.
+  {{< /accordion-item >}}
+  {{< accordion-item title="PlantCLEF" >}}
+  Identify Multi-species Plants in Images of Vegetation Plots.
+  {{< /accordion-item >}}
+  {{< accordion-item title="MarineCLEF" >}}
+  Positive-Unlabeled Object Detection in Marine Images.
+  {{< /accordion-item >}}
+  {{< accordion-item title="PestCLEF" >}}
+  Information Extraction on Plant Pests from News Articles.
+  {{< /accordion-item >}}
+{{< /accordion >}}
+
 ## Organizers
 
-- Alexis Joly (INRIA)
-- Lukáš Picek (University of West Bohemia)
-- Stefan Kahl (Technische Universität Chemnitz)
-- Hervé Goëau (Cirad)
-- Lukáš Adam (University of West Bohemia)
-- Claire Nedellec (INRAE)
-- Robert Bossy (INRAE)
-- Laura Chrobak (MBARI) 
-- Kevin Barnard (MBARI)
+- Alexis Joly (INRIA, France)
+- Lukáš Picek (INRIA, France; University of West Bohemia, Czechia)
+- Stefan Kahl (K. Lisa Yang Center for Conservation Bioacoustics, USA; Technische Universität Chemnitz, Germany)
+- Hervé Goëau (CIRAD, France)
+- Lukáš Adam (University of West Bohemia, Czechia)
+- Robert Bossy (Université Paris-Saclay, INRAE, France)
+- Laura Chrobak (Monterey Bay Aquarium Research Institute, USA)

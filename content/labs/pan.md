@@ -13,21 +13,34 @@ menu:
 
 
 
-The PAN evaluation lab on digital text forensics includes three returning and two new tasks, which all tackle recent and relevant challenges from the field of text forensics with a special focus on the detection and analysis of text produced by generative~AI. The tasks are: (1) Voight-Kampff Generative AI Detection, (2) Text Watermarking, (3) Multi-author Writing Style Analysis, (4) Generative Plagiarism Detection, and (5) Reasoning Trajectory Detection.
+PAN is a series of scientific events and shared tasks on digital text forensics and stylometry.
 
 <!--more-->
 
+## Tasks
+
+The PAN Lab features five different tasks:
+
+{{< accordion >}}
+  {{< accordion-item title="Voight-Kampff Generative AI Detection" >}}
+  Given a (potentially obfuscated) document, decide whether it was written by a human or an AI.
+  {{< /accordion-item >}}
+  {{< accordion-item title="Text Watermarking" >}}
+  Given a text, embed a watermark, then try to detect the watermark after a number of unknown perturbations.
+  {{< /accordion-item >}}
+  {{< accordion-item title="Multi-Author Writing Style Analysis" >}}
+  Given a document, determine at which positions the author changes.
+  {{< /accordion-item >}}
+  {{< accordion-item title="Generative Plagiarism Detection" >}}
+  Given a generated and a human-written source document, identify the passages of reused text between them.
+  {{< /accordion-item >}}
+  {{< accordion-item title="Reasoning Trajectory Detection" >}}
+  Given a query, reasoning trajectory, and final answer, determine a) whether the trajectory is human-written or AI-generated or b) whether the trajectory or answer are safe.
+  {{< /accordion-item >}}
+{{< /accordion >}}
+
 ## Organizers
 
-- Janek Bevendorff (Leipzig University, Bauhaus-Universität Weimar)
-- Benno Stein (Bauhaus-Universität Weimar)
-- Andreas Jakoby (Bauhaus-Universität Weimar)
-- Henry Plutz (University of Kassel)
-- Martin Potthast (University of Kassel, hessian.AI, and ScaDS.AI) 
-- Maik Fröbe (Friedrich-Schiller-Universität Jena)
-- Maximilian Mayerl (University of Applied Sciences BFI Vienna)
-- Eva Zangerle (University of Innsbruck)
-- André Greiner-Petter (University of Göttingen)
-- Yuxia Wang (Mohamed bin Zayed University of Artificial Intelligence)
-- Minh Ngoc Ta (BKAI Research Center, Hanoi University of Science and Technology)
-- Preslav Nakov (Mohamed bin Zayed University of Artificial Intelligence) 
+- Janek Bevendorff (Bauhaus-Universität Weimar, Germany)
+- Benno Stein (Bauhaus-Universität Weimar, Germany)
+- Martin Potthast (University of Kassel, Germany)

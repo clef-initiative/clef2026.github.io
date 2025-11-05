@@ -13,23 +13,19 @@ menu:
 
 
 
-Most Information Retrieval (IR) benchmarks evaluate systems at a single point in time, despite data and user behaviors changing over time. Research shows that IR and text classification systems lose effectiveness as data patterns evolve, especially when test data is temporally distant from training data. This lab encourages developing models that maintain performance over time by providing training and testing data from different periods. We propose the fourth LongEval Lab to further focus on evaluating IR systems' ability to generalize across time, using datasets split by various temporal distances to assess how well systems handle evolving documents and queries. For 2026 we plan a total of 4 tasks, widening the scope of long-term IR to new dynamics beyond documents, topics and qrels, closer to evolving user behavior with user simulation tasks.
+Many components of information retrieval systems evolve over time. The LongEval Lab aims to provide a benchmark setting to the longitudinal evaluation of IR models. At its fourth edition, LongEval we focus on scholarly search and scholarly user models.
 
 <!--more-->
 
 ## Organizers
 
-- Matteo Cancellieri (The Open University)
-- Alaa El-Ebshihy (TU Wien, Research Studio Austria)
-- Maik Fröbe (Friedrich-Schiller-Universität Jena)
-- Petra Galuščáková (University of Stavanger)
-- Gabriela González Sáez (Université Grenoble Alpes)
-- Lorraine Goeuriot (Université Grenoble Alpes)
-- Gabriel Iturra-Bocaz (University of Stavanger)
-- Jüri Keller (TH Köln - University of Applied Sciences)
-- Petr Knoth (The Open University)
-- Philippe Mulhem (LIG-CNRS)
-- Florina Piroi (TU Wien, Institute of Information Systems Engineering, ZFDM)
-- David Pride (KMi)
-- Philipp Schaer (TH Köln - University of Applied Sciences)
-- Didier Schwab (Université Grenoble Alpes)
+- Florina Piroi (Technische Universität Wien, Austria)
+- Alaa El-Ebshihy (Technische Universität Wien, Austria)
+- Jüri Keller (Technische Hochschule Köln, Germany)
+- Philipp Schaer (Technische Hochschule Köln, Germany)
+- Maik Fröbe (Friedrich-Schiller-Universität Jena, Germany)
+- Lorraine Goeuriot (University of Grenobles, France)
+- Petra Galuscakova (University of Stavanger, Norway)
+- Gabriel Iturra-Bocaz
+- Petr Knoth (The Open University, United Kingdom)
+- Matteo Cancelieri (The Open University, United Kingdom)

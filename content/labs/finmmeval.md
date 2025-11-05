@@ -3,6 +3,7 @@ title: "FinMMEval"
 draft: false
 params:
   subtitle: "Multilingual and multimodal evaluation of financial AI systems"
+  url: https://mbzuai-nlp.github.io/CLEF-2026-FinMMEval-Lab/
 menu:
   main:
     identifier: "lab-finmmeval"
@@ -12,20 +13,40 @@ menu:
 
 
 
-The inaugural edition of FinMMEval, a CLEF 2026 Workshop dedicated to the multilingual and multimodal evaluation of financial AI systems. Real-world financial decision-making relies on diverse data sources, including textual reports, visual documents, and time-series signals, spread across languages and modalities. To support robust, interpretable, and auditable AI in this domain, FinMMEval proposes three complementary pilot tasks: (1) Document Parsing and Structured Extraction from scanned financial filings, (2) Financial Exam Question Answering, and (3) Financial Decision Making based on market context, combining historical prices, news, and portfolio status. The lab includes datasets in six languages, such as English, Spanish, Arabic, Greek, Bulgarian and Hindi, covering low-level perception to high-level decision-making. We aim to foster cross-disciplinary collaboration across NLP, CV, time-series modeling, and financial industries, and establish FinMMEval as a benchmark for the next generation of financial AI systems.
+FinMMEval introduces the first multilingual and multimodal evaluation framework for financial large language models, assessing models’ abilities in understanding, reasoning, and decision-making across languages and modalities to promote robust, transparent, and globally inclusive financial AI systems.
 
 <!--more-->
 
+## Tasks
+
+The FinMMEval Lab features three different tasks:
+
+{{< accordion >}}
+  {{< accordion-item title="Financial Exam Question Answering" >}}
+  Evaluates models’ conceptual understanding and domain reasoning using multilingual, professional exam-style financial questions (e.g., CFA, CPA, EFPA, BBF). Performance is measured by accuracy.
+  {{< /accordion-item >}}
+  {{< accordion-item title="Multilingual Financial Question Answering" >}}
+  Tests analytical financial reasoning using multilingual and multimodal information sources (e.g., SEC filings + cross-lingual news). Models generate concise, evidence-grounded answers evaluated with ROUGE and factuality metrics.
+  {{< /accordion-item >}}
+  {{< accordion-item title="Financial Decision Making" >}}
+  Assesses reasoning-to-action capabilities by generating Buy/Hold/Sell trading decisions and short rationales based on textual and numerical market contexts (BTC, TSLA). Evaluated via profitability, stability, and risk metrics (e.g., Sharpe Ratio, Cumulative Return).
+  {{< /accordion-item >}}
+{{< /accordion >}}
+
 ## Organizers
 
-- Zhuohan Xie (Mohamed bin Zayed University of Artificial Intelligence)
-- Rania Elbadry (Mohamed bin Zayed University of Artificial Intelligence)
-- Georgi Georgiev (Sofia University "St. Kliment Ohrdiski")
-- Xueqing Peng (Yale University)
-- Jimin Huang (The FinAI)
-- Yuxia Wang (Mohamed bin Zayed University of Artificial Intelligence)
-- Dimitar Dimitrov (Sofia University "St. Kliment Ohrdiski")
-- Vanshikaa Jani (Mohamed bin Zayed University of Artificial Intelligence)
-- Ivan Koychev (Sofia University "St. Kliment Ohrdiski")
-- Veselin Stoyanov (Mohamed bin Zayed University of Artificial Intelligence) 
-- Preslav Nakov (Mohamed bin Zayed University of Artificial Intelligence)  
+- Zhuohan Xie (Mohamed bin Zayed University of Artificial Intelligence, UAE) 
+- Rania Elbadry (Mohamed bin Zayed University of Artificial Intelligence, UAE) 
+- Fan Zhang (The University of Tokyo, Japan)
+- Georgi Georgiev (Sofia University “St. Kliment Ohridski”, Bulgaria)
+- Xueqing Peng (The Fin AI, USA)
+- Lingfei Qian (The Fin AI, USA)
+- Jimin Huang (The Fin AI, USA)
+- Dimitar Dimitrov (Sofia University “St. Kliment Ohridski”, Bulgaria)
+- Vanshikaa Jani (University of Arizona, USA)
+- Yuyang Dai (INSAIT, Bulgaria)
+- Jiahui Geng (Mohamed bin Zayed University of Artificial Intelligence, UAE) 
+- Yuxia Wang (INSAIT, Bulgaria)
+- Ivan Koychev (Sofia University “St. Kliment Ohridski”, Bulgaria)
+- Veselin Stoyanov (Mohamed bin Zayed University of Artificial Intelligence, UAE) 
+- Preslav Nakov (Mohamed bin Zayed University of Artificial Intelligence, UAE) "

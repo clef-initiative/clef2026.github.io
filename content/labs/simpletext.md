@@ -13,15 +13,35 @@ menu:
 
 
 
-Over the last few years, the SimpleText Track has created an active community of researchers in NLP and IR working together to improve access to scientific text. Its benchmarks on scientific passage retrieval, scientific terminology detection and explanation, and scientific text simplification have become standard references. After using a similar track setup in 2021-2024, we significantly changed the track’s setup and tasks in 2025. We will continue this successful setup in 2026. Hence, the CLEF 2026 SimpleText track will contain the following 2+1 tasks. Task 1 (Text Simplification): Simplify scientific text. Task 2 (Controlled Creativity): Identify and avoid hallucination. Task 3 (SimpleText Revisited): selected tasks by popular request.
+The SimpleText Lab seeks to make scientific knowledge more accessible by developing and evaluating AI models that simplify complex scientific texts, reduce misinformation risks, and improve public understanding through tasks on text simplification, hallucination control, and adaptive scientific content analysis.
 
 <!--more-->
 
+## Tasks
+
+The SimpleText Lab features four different tasks:
+
+{{< accordion >}}
+  {{< accordion-item title="Text Simplification" >}}
+  Simplify scientific text.
+  {{< /accordion-item >}}
+  {{< accordion-item title="Controlled Creativity" >}}
+  Identify and avoid hallucination.
+  {{< /accordion-item >}}
+  {{< accordion-item title="SimpleText Revisited" >}}
+  Selected tasks by popular request.
+  {{< /accordion-item >}}
+  {{< accordion-item title="Classification of Scientific Articles by Research Area" >}}
+  Classification of scientific articles by research area.
+  {{< /accordion-item >}}
+{{< /accordion >}}
+
 ## Organizers
 
-- Liana Ermakova (HCTI, Université de Bretagne Occidentale
-- Benjamin Vendeville (Université Bretagne Occidentale)
-- Jan Bakker (University of Amsterdam)
-- Hosein Azarbonyad (Elsevier)
-- Jaap Kamps (University of Amsterdam)
+- Liana Ermakova (University of Brest, France)
+- Hosein Azarbonyad (Elsevier, The Netherlands)
+- Jan Bakker (University of Amsterdam, The Netherlands)
+- Benjamin Vendeville (University of Brest, France)
+- Jaap Kamps (University of Amsterdam, The Netherlands)
+- Gautam Kishore Shahi (University of Duisburg-Essen, Germany)
 
