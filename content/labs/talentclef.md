@@ -21,7 +21,7 @@ TalentCLEF is an evaluation lab that aims to establish a public benchmark and co
 
 The TalenCLEF Lab features two different tasks:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="Contextualized Job-Person Matching" >}}
   Match job offers with the most relevant candidate profiles using realistic, context-rich descriptions of jobs and résumés.
   {{< /accordion-item >}}

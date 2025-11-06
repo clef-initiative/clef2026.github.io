@@ -19,7 +19,7 @@ LifeCLEF is an international research initiative in the field of biodiversity in
 
 The LifeCLEF Lab features five different tasks:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="AnimalCLEF" >}}
   Discovering Individual Animals.
   {{< /accordion-item >}}

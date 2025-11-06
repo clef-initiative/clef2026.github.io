@@ -21,7 +21,7 @@ PAN is a series of scientific events and shared tasks on digital text forensics 
 
 The PAN Lab features five different tasks:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="Voight-Kampff Generative AI Detection" >}}
   Given a (potentially obfuscated) document, decide whether it was written by a human or an AI.
   {{< /accordion-item >}}

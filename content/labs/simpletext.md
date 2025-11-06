@@ -21,7 +21,7 @@ The SimpleText Lab seeks to make scientific knowledge more accessible by develop
 
 The SimpleText Lab features four different tasks:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="Text Simplification" >}}
   Simplify scientific text.
   {{< /accordion-item >}}

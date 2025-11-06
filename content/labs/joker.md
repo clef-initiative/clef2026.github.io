@@ -19,7 +19,7 @@ The JOKER Lab aims to improve AI’s understanding and handling of humor and wor
 
 The JOKER Lab features four different tasks:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="Humoraware Information Retrieval" >}}
   Retrieve short humorous texts for a query.
   {{< /accordion-item >}}

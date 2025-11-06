@@ -21,7 +21,7 @@ Touché is a series of scientific events and shared tasks on argumentation syste
 
 The Touché Lab features four different tasks:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="Fallacy Detection" >}}
   Participants determine whether an argument follows a valid argument pattern or a fallacy.
   {{< /accordion-item >}}

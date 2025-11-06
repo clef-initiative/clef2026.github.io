@@ -20,7 +20,7 @@ The aim of the BioASQ Lab is to push the research frontier towards systems that 
 
 The BioASQ Lab features six different tasks:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="Biomedical Semantic Question Answering" >}}
   Benchmark datasets of biomedical questions, in English, along with gold standard (reference) answers constructed by a team of biomedical experts. The participants have to respond with relevant articles, and snippets from designated resources, as well as exact and "ideal" answers.
   {{< /accordion-item >}}

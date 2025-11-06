@@ -19,7 +19,7 @@ ImageCLEF is an ongoing evaluation event that started in 2003, promoting the eva
 
 The ImageCLEF Lab features five different tasks:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="ImageCLEF Medical" >}}
   The task approaches a wide array of problems in the medical field, like concept detection, caption prediction, explainability, security in AI generated images, tumor typing correction, medical report discrepancy summarization or visual question answering and synthetic medical image generation.
   {{< /accordion-item >}}

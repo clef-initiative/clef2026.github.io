@@ -21,7 +21,7 @@ This lab focuses on the detection of sexist messages in social networks (SN), pa
 
 The EXIST Lab features three different tasks:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="Sexism Identification" >}}
   Binary classification where the systems must decide whether or not a given meme or video contain sexist expressions or behaviours.
   {{< /accordion-item >}}

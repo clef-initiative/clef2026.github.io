@@ -21,7 +21,7 @@ FinMMEval introduces the first multilingual and multimodal evaluation framework 
 
 The FinMMEval Lab features three different tasks:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="Financial Exam Question Answering" >}}
   Evaluates models’ conceptual understanding and domain reasoning using multilingual, professional exam-style financial questions (e.g., CFA, CPA, EFPA, BBF). Performance is measured by accuracy.
   {{< /accordion-item >}}

@@ -19,7 +19,7 @@ Who was where when? Accurate and Efficient Person–Place Relation Extraction fr
 
 The HIPE Lab features one task:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="Person–place relation extraction" >}}
   Given a place and a person, classify whether the person has been at this place.
   {{< /accordion-item >}}

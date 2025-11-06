@@ -19,7 +19,7 @@ eRisk explores the evaluation methodology, effectiveness metrics and practical a
 
 The eRisk Lab features three different tasks:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="Conversational Depression Detection" >}}
   Detecting depression through conversational agents. Participants will interact with LLM personas fine-tuned with diverse user histories and released on Hugging Face. The challenge is to determine whether each persona exhibits signs of depression and, within a limited conversational window, identify active depressive symptoms and the overall depression level. 
   {{< /accordion-item >}}

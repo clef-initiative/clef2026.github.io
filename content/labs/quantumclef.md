@@ -33,7 +33,7 @@ QuantumCLEF aims to:
 
 The qCLEF Lab features three different tasks:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="Feature Selection" >}}
   Apply quantum annealers to find the most relevant subset of features to train a learning model, e.g., for ranking. This problem is very impactful, since many IR and RS systems involve the optimization of learning models, and reducing the dimensionality of the input data can improve their performance.
   {{< /accordion-item >}}

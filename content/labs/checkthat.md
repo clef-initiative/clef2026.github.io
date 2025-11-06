@@ -21,7 +21,7 @@ The main objective of the lab is to advance the development of innovative techno
 
 The CheckThat! Lab features three different tasks:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="Source Retrieval for Scientific Web Claims" >}}
   Given a social media post that contains a scientific claim and an implicit reference to a scientific paper (mentions it without a URL), retrieve the mentioned paper from a pool of candidate papers.
   {{< /accordion-item >}}

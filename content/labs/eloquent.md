@@ -21,7 +21,7 @@ The ELOQUENT lab for evaluation of generative language model quality and usefuln
 
 The ELOQUENT Lab features three different tasks:
 
-{{< accordion >}}
+{{< accordion  open_all="true" >}}
   {{< accordion-item title="Voight-Kampff" >}}
   Can machine-generated text be distinguished from human-authored text?
   {{< /accordion-item >}}
