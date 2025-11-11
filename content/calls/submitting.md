@@ -13,7 +13,7 @@ menu:
 
 CLEF 2026 features two kinds of submissions:
 - **Conference Papers**, peer-reviewed articles published in the Springer Lecture Notes in Computer Science (LNCS) series.
-- **Labs Working Notes**, reports describing the experiments carried out during the CLEF evaluation campaigns, published in digital form in the CEUR-WS Proceedings.
+- **Labs Working Notes**, peer-reviewed reports describing the experiments carried out during the CLEF evaluation campaigns, published in digital form in the CEUR-WS Proceedings.
 
 CLEF 2026 uses EasyChair for all submission types. 
 
