@@ -9,6 +9,9 @@ params:
   name: "CLEF 2026"
   dates: "September 21-24, 2026"
   location: "Jena, Germany"
+  registration:
+    lab: "https://clef-labs-registration.dipintra.it/" # Leave empty to hide on page
+    conference: "" # Leave empty to hide on page
   year: 2026
   email: ""
   color: "sky" # Any of red`, `orange`, `amber`, `yellow`, `lime`, `green`, `emerald`, `teal`, `cyan`, `sky`, `blue`, `indigo`, `violet`, `purple`, `fuchsia`, `pink`, `rose`, or any gray tone
