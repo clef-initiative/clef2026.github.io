@@ -28,4 +28,9 @@ The HIPE Lab features one task:
 ## Organizers
 
 - Juri Opitz (UZH Zurich, Switzerland)
+- Corina Raclé (UZH Zurich, Switzerland)
+- Emanuela Boros (EPFL)
+- Andrianos Michail (UZH Zurich, Switzerland)
+- Matteo Romanello (UZH Zurich, Switzerland)
+- Maud Ehrmann (EPFL)
 - Simon Clematide (UZH Zurich, Switzerland)   
