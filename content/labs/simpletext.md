@@ -3,7 +3,7 @@ title: "SimpleText"
 draft: false
 params:
   subtitle: "Simplify scientific text (and nothing more)"
-  url: https://simpletext-project.com/2026/
+  url: https://simpletext-project.com/
 menu:
   main:
     identifier: "lab-simpletext"
