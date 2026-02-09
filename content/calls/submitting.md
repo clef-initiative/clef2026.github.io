@@ -17,21 +17,42 @@ CLEF 2026 features two kinds of submissions:
 
 CLEF 2026 uses EasyChair for all submission types. 
 
+{{< button href="https://easychair.org/conferences/?conf=clef2026" type="primary" size="md" >}} 
+<svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='3' stroke='currentColor' class='size-3 flex-none my-auto'><path stroke-linecap='round' stroke-linejoin='round' d='m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25' /></svg>
+<span class='flex-1 my-auto ml-2'> EasyChair</span>
+{{< /button >}}
+
+
 ## Conference Paper Submissions
 
 Authors are invited to electronically submit original papers, which have not been published and are not under consideration elsewhere. Two categories of papers will be accepted:
 
-- Long papers: 12 pages plus references
-- Short papers: 6 pages plus references
+- **Long papers**: 12 pages plus references
+- **Short papers**: 6 pages plus references
+- **Past, Present, Future papers**: 12 pages
 
 Papers should be anonymous, sharing code and data with reviewers should be done via anonymous repositories like, for example, https://anonymous.4open.science/.
 
-Papers are to be submitted in **Springer LNCS format**. Author information, formatting instructions, and templates can be found in Springers' official author instructions. The License-to-Publish form will be distributed together with acceptance notifications.
+Accepted papers are published in the Spring LNCS Series; previous CLEF proceedings can be found via [SpringerLink](https://link.springer.com/conference/clef). We request that all contributing authors adhere to the **Springer Code of Conduct**. Papers are to be submitted in **Springer LNCS format**. Author information, formatting instructions, and templates can be found in Springers' official author instructions. The License-to-Publish form will be distributed together with acceptance notifications.
 
-{{< button href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" type="primary" size="md">}} 
+<div class="flex flex-wrap gap-2 content-evenly justify-items-center items-top">
+{{< button href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" type="primary" size="md" class="flex-4">}} 
 <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='3' stroke='currentColor' class='size-3 flex-none my-auto'><path stroke-linecap='round' stroke-linejoin='round' d='m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25' /></svg>
 <span class='flex-1 my-auto ml-2'> LNCS Author Instructions </span>
 {{< /button >}}
+
+{{< button href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct" type="primary" size="md" class="flex-3">}} 
+<svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='3' stroke='currentColor' class='size-3 flex-none my-auto'><path stroke-linecap='round' stroke-linejoin='round' d='m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25' /></svg>
+<span class='flex-1 my-auto ml-2'> LNCS Code of Conduct </span>
+{{< /button >}}
+
+<a href="https://link.springer.com/conference/clef" class="flex-1 m-0 -mt-6 h-5 p-0">
+{{< figure src="img/LNCS-Logo.jpg" size="400x150" alt="LNCS" caption="" width="sm" classes="size-28" >}}
+</a>
+
+</div>
+
+
 
 ## Labs Working Notes & Task Overview Papers
 

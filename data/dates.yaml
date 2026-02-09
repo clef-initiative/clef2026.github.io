@@ -4,14 +4,14 @@
 paper-submission:
   timezone: "Anywhere on Earth (AoE)"
   dates:
-  - name: Abstract Submission
-    date: "2026-05-11"
   - name: Paper Submission
-    date: "2026-05-20"
-  - name: Paper Notification
-    date: "2026-06-11"
-  - name: Paper Camera Ready Submission
-    date: "2026-06-23"
+    date: "2026-05-15"
+  - name: Best of 2025 Labs Paper Submission
+    date: "2026-05-29"
+  - name: Notification of Acceptance
+    date: "2026-06-26"
+  - name: Camera Ready Submission
+    date: "2026-07-17"
 
 lab-participant:
   timezone: "Anywhere on Earth (AoE)"
