@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers"
-draft: true
+draft: false
 summary: "Submit a paper to CLEF 2026"
 weight: 20
 toc: true
