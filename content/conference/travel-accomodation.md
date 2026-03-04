@@ -65,7 +65,7 @@ We recommend booking early to secure the best rates and preferred locations.
 
 These hotels and hostels offer reserved room blocks for CLEF 2026 participants:
 
-- [**Hotel "VielHarmonie"**](https://www.hotel-vielharmonie.de/) (2 minutes from the venue, from €89/night)
+<!-- - [**Hotel "VielHarmonie"**](https://www.hotel-vielharmonie.de/) (2 minutes from the venue, from €89/night)
 
   <details>
   <summary>Rooms and booking</summary>
@@ -78,7 +78,7 @@ These hotels and hostels offer reserved room blocks for CLEF 2026 participants:
   - Single Room Standard: €100 (or Double Room for single use)
   - Breakfast: €15
 
-  </details>
+  </details> -->
 
 - [**Gasthof zur Schweiz**](https://www.zur-schweiz.de/) (3 minutes from the venue, from €85/night)
 
@@ -90,6 +90,20 @@ These hotels and hostels offer reserved room blocks for CLEF 2026 participants:
   Available rooms:
   - Double Room for single use: €85
   - Double Room: €105
+  - Breakfast included
+
+  </details>
+
+- [**Dorint Hotel Esplanade Jena**](https://hotel-jena.dorint.com/de/) (4 minutes from the venue, from €150/night)
+
+  <details>
+  <summary>Rooms and booking</summary>
+
+  Use this [booking link](https://dorint.com/en/cle200926), for reduced rates until August 24, 2026.
+
+  Available rooms:
+  - Double Room for single use: €150
+  - Double Room: €185
   - Breakfast included
 
   </details>
