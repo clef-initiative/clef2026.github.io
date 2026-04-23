@@ -75,7 +75,7 @@ Authors of Past, Present, Future papers are asked to submit to the “Past, Pres
 Papers should be submitted in PDF format via EasyChair.
 
 * Submit the methodology/restricted version to the "Conference → Methodology Part" track.  
-* Submit the experimental/complete version to the "Conference → Experimental Part" track.  
+* Submit the experimental/complete version to the "Conference → Experimental Part" track. Please add the prefix `[Exp]` to the paper title.
 * Submit the Past, Present, Future papers to “Conference → Past, Present, Future” track.  
 * Submit the best of CLEF 2025 Labs papers to the "Conference → Best of CLEF 2025 Labs" track.
 
