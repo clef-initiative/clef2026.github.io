@@ -58,4 +58,4 @@ Accepted papers are published in the Spring LNCS Series; previous CLEF proceedin
 
 For each task at CLEF 2026, participants must submit working notes describing their systems and organizers must submit an overview describing their task, the data used, the teams that participated and their approaches, the results obtained and the analysis of those results. The organizers of each task are responsible for collecting the working notes from their participants. 
 
-ubmissions are expected to be in English language and 5 pages minimum, with no maximum page limit.
+Submissions are expected to be in English language and 5 pages minimum, with no maximum page limit.
