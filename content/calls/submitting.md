@@ -46,7 +46,7 @@ Accepted papers are published in the Spring LNCS Series; previous CLEF proceedin
 <span class='flex-1 my-auto ml-2'> LNCS Code of Conduct </span>
 {{< /button >}}
 
-<a href="https://link.springer.com/conference/clef" class="flex-1 m-0 -mt-6 h-8 p-0 box-content font-semibold rounded-xl">
+<a href="https://link.springer.com/conference/clef" class="flex-1 -mt-6 -mx-4 h-8 p-0 box-content font-semibold rounded-xl">
 {{< figure src="img/LNCS-Logo.jpg" size="400x150" alt="LNCS" caption="" width="sm" classes="w-36" >}}
 </a>
 
