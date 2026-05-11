@@ -46,8 +46,8 @@ Accepted papers are published in the Spring LNCS Series; previous CLEF proceedin
 <span class='flex-1 my-auto ml-2'> LNCS Code of Conduct </span>
 {{< /button >}}
 
-<a href="https://link.springer.com/conference/clef" class="flex-1 m-0 -mt-6 h-5 p-0">
-{{< figure src="img/LNCS-Logo.jpg" size="400x150" alt="LNCS" caption="" width="sm" classes="size-28" >}}
+<a href="https://link.springer.com/conference/clef" class="flex-1 m-0 -mt-6 h-8 p-0">
+{{< figure src="img/LNCS-Logo.jpg" size="400x150" alt="LNCS" caption="" width="sm" classes="size-32" >}}
 </a>
 
 </div>
@@ -59,3 +59,17 @@ Accepted papers are published in the Spring LNCS Series; previous CLEF proceedin
 For each task at CLEF 2026, participants must submit working notes describing their systems and organizers must submit an overview describing their task, the data used, the teams that participated and their approaches, the results obtained and the analysis of those results. The organizers of each task are responsible for collecting the working notes from their participants. 
 
 Submissions are expected to be in English language and 5 pages minimum, with no maximum page limit.
+
+Both working notes and task overviews are to be submitted in **1-column CEURART format**.
+
+<div class="flex flex-wrap gap-2 content-evenly justify-items-center items-top">
+{{< button href="./clef26-template.zip" type="primary" size="md">}} 
+<svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='3' stroke='currentColor' class='size-3 flex-none my-auto'><path stroke-linecap='round' stroke-linejoin='round' d='m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25' /></svg>
+<span class='flex-1 my-auto ml-2'> LaTeX Template </span>
+{{< /button >}}
+
+{{< button href="./clef26-template.odt" type="primary" size="md">}} 
+<svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='3' stroke='currentColor' class='size-3 flex-none my-auto'><path stroke-linecap='round' stroke-linejoin='round' d='m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25' /></svg>
+<span class='flex-1 my-auto ml-2'> ODT Template </span>
+{{< /button >}}
+</div>
