@@ -33,23 +33,34 @@ Authors are invited to electronically submit original papers, which have not bee
 
 Papers should be anonymous, sharing code and data with reviewers should be done via anonymous repositories like, for example, https://anonymous.4open.science/.
 
+<center>
+<a href="https://link.springer.com/conference/clef">
+{{< figure src="img/LNCS-Logo.jpg" size="800x300" alt="LNCS" caption="" width="sm" classes="rounded-sm w-48" >}}
+</a>
+</center>
+
 Accepted papers are published in the Spring LNCS Series; previous CLEF proceedings can be found via [SpringerLink](https://link.springer.com/conference/clef). We request that all contributing authors adhere to the **Springer Code of Conduct**. Papers are to be submitted in **Springer LNCS format**. Author information, formatting instructions, and templates can be found in Springers' official author instructions. The License-to-Publish form will be distributed together with acceptance notifications.
 
-<div class="flex flex-wrap gap-2 content-evenly justify-items-center items-top">
-{{< button href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" type="primary" size="md" class="flex-2">}} 
+<div class="flex flex-wrap gap-4 content-evenly justify-items-center items-top">
+{{< button href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" type="primary" size="md">}} 
 <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='3' stroke='currentColor' class='size-3 flex-none my-auto'><path stroke-linecap='round' stroke-linejoin='round' d='m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25' /></svg>
-<span class='flex-1 my-auto ml-2'> LNCS Author Instructions </span>
+<span class='flex-1 my-auto ml-2'> LNCS Author Information </span>
 {{< /button >}}
 
-{{< button href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct" type="primary" size="md" class="flex-2">}} 
+{{< button href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct" type="primary" size="md">}} 
 <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='3' stroke='currentColor' class='size-3 flex-none my-auto'><path stroke-linecap='round' stroke-linejoin='round' d='m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25' /></svg>
 <span class='flex-1 my-auto ml-2'> LNCS Code of Conduct </span>
 {{< /button >}}
 
-<a href="https://link.springer.com/conference/clef" class="flex-1 -mt-6 -mx-4 h-8 p-0 box-content font-semibold rounded-xl">
-{{< figure src="img/LNCS-Logo.jpg" size="400x150" alt="LNCS" caption="" width="sm" classes="w-36" >}}
-</a>
+{{< button href="./clef26-lncs-instructions.pdf" type="primary" size="md">}} 
+<svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='3' stroke='currentColor' class='size-3 flex-none my-auto'><path stroke-linecap='round' stroke-linejoin='round' d='m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25' /></svg>
+<span class='flex-1 my-auto ml-2'> Author Instructions </span>
+{{< /button >}}
 
+{{< button href="./clef26-lncs-copyright.docx" type="primary" size="md">}} 
+<svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='3' stroke='currentColor' class='size-3 flex-none my-auto'><path stroke-linecap='round' stroke-linejoin='round' d='m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25' /></svg>
+<span class='flex-1 my-auto ml-2'> Copyright Form </span>
+{{< /button >}}
 </div>
 
 
@@ -63,13 +74,23 @@ Submissions are expected to be in English language and 5 pages minimum, with no 
 Both working notes and task overviews are to be submitted in **1-column CEURART format**.
 
 <div class="flex flex-wrap gap-2 content-evenly justify-items-center items-top">
-{{< button href="./clef26-template.zip" type="primary" size="md">}} 
+{{< button href="./clef26-working-notes-template.zip" type="primary" size="md">}} 
 <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='3' stroke='currentColor' class='size-3 flex-none my-auto'><path stroke-linecap='round' stroke-linejoin='round' d='m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25' /></svg>
 <span class='flex-1 my-auto ml-2'> LaTeX Template </span>
 {{< /button >}}
 
-{{< button href="./clef26-template.odt" type="primary" size="md">}} 
+{{< button href="./clef26-working-notes-template.odt" type="primary" size="md">}} 
 <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='3' stroke='currentColor' class='size-3 flex-none my-auto'><path stroke-linecap='round' stroke-linejoin='round' d='m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25' /></svg>
 <span class='flex-1 my-auto ml-2'> ODT Template </span>
+{{< /button >}}
+
+{{< button href="./clef26-working-notes-copyright.pdf" type="primary" size="md">}} 
+<svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='3' stroke='currentColor' class='size-3 flex-none my-auto'><path stroke-linecap='round' stroke-linejoin='round' d='m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25' /></svg>
+<span class='flex-1 my-auto ml-2'> Copyright Form </span>
+{{< /button >}}
+
+{{< button href="./clef26-working-notes-instructions.pdf" type="primary" size="md">}} 
+<svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='3' stroke='currentColor' class='size-3 flex-none my-auto'><path stroke-linecap='round' stroke-linejoin='round' d='m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25' /></svg>
+<span class='flex-1 my-auto ml-2'> Author Instructions </span>
 {{< /button >}}
 </div>
