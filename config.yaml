@@ -13,7 +13,7 @@ params:
     lab: "https://clef-labs-registration.dipintra.it/" # Leave empty to hide on page
     conference: "" # Leave empty to hide on page
   year: 2026
-  email: ""
+  email: "clef2026@webis.de"
   color: "sky" # Any of red`, `orange`, `amber`, `yellow`, `lime`, `green`, `emerald`, `teal`, `cyan`, `sky`, `blue`, `indigo`, `violet`, `purple`, `fuchsia`, `pink`, `rose`, or any gray tone
   gray: "stone" # Any of `slate`, `gray`, `zinc`, `neutral`, `stone`
   repo: "https://github.com/clef-initiative/clef2026.github.io/"
