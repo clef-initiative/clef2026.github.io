@@ -20,7 +20,7 @@ Prof. Dr. Matthias Hagen
 
 Telefon: +49 (0)3643 - 58 3710  
 Telefax: +49 (0)3643 - 58 3727  
-E-Mail: webis\[at\]listserv.uni-weimar.de
+E-Mail: clef2026@webis.de
 
 ### Streitschlichtung
 
