@@ -54,7 +54,7 @@ Three categories of papers will be accepted:
 
 1. **Long research papers**: 12 pages plus references for complete research work  
 2. **Short research papers**: 6 pages plus references for position/discussion papers, new evaluation proposals, developments and applications, etc.  
-3. **Past, Present, Future**: Up to 12 pages for future directions and research roadmaps, reflections on past achievements, etc.
+3. **Past, Present, Future**: Up to 12 pages plus references for future directions and research roadmaps, reflections on past achievements, etc.
 
 Papers should be anonymous. Sharing code and data with reviewers should be done via anonymous repositories (such as [https://anonymous.4open.science/](https://anonymous.4open.science/)).
 
