@@ -13,7 +13,7 @@ menu:
 
 CLEF 2026 features multiple kinds of submissions:
 - **Conference Papers**, peer-reviewed articles published in the Springer Lecture Notes in Computer Science (LNCS) series.
-- **Labs Working Notes**, peer-reviewed reports describing the experiments carried out during the CLEF evaluation campaigns, published in digital form in the CEUR-WS Proceedings.
+- **Lab Working Notes**, peer-reviewed reports describing the experiments carried out during the CLEF evaluation campaigns, published in digital form in the CEUR-WS Proceedings.
 - **Task Overview Papers**, submitted by task organizers describing data, teams, and results of their task, published in digital form in the CEUR-WS Proceedings.
 - **Condensed Lab Overviews**, condensed lab/workshop overviews submitted by lab organizers describing the lab/workshop as a whole, published in the Springer LNCS series.
 
@@ -65,7 +65,7 @@ Accepted papers are published in the Spring LNCS Series; previous CLEF proceedin
 {{< /button >}}
 </div>
 
-## Labs Working Notes 
+## Lab Working Notes 
 
 For each task at CLEF 2026, participants must submit working notes describing their systems. The organizers of each task are responsible for collecting the working notes from their participants. 
 
