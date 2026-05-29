@@ -22,11 +22,11 @@ lab-participant:
     date: "2026-04-23"
   - name: "Run Submission"
     date: "2026-05-07"
-  - name: "Notebook Paper Submission"
+  - name: "Lab Working Notes Submission"
     date: "2026-05-28"
-  - name: "Notebook Paper Notification"
+  - name: "Lab Working Notes Notification"
     date: "2026-06-30"
-  - name: "Notebook Camera Ready"
+  - name: "Lab Working Notes Camera Ready"
     date: "2026-07-06"
 
 lab-organizer:
@@ -50,7 +50,7 @@ lab-organizer:
     date: "2026-06-26"
   - name: "Condensed Lab Overview Camera Ready Submission"
     date: "2026-07-17"
-  - name: "Notebook Review Submission"
+  - name: "Lab Working Notes Review Submission"
     date: "2026-06-25"
   - name: "Extended Lab Overview Submission"
     date: "2026-07-06"
