@@ -65,25 +65,10 @@ We recommend booking early to secure the best rates and preferred locations.
 
 These hotels and hostels offer reserved room blocks for CLEF 2026 participants:
 
-<!-- - [**Hotel "VielHarmonie"**](https://www.hotel-vielharmonie.de/) (2 minutes from the venue, from €89/night)
-
-  <details>
-  <summary>Rooms and booking</summary>
-
-  Use the code "Konferenz CLEF 2026" when booking your room, via [email](mailto:info@hotel-vielharmonie.de) or [phone](tel:+4936417962171), for reduced rates until March 1, 2026.
-
-  Available rooms:
-  - Single Room Budget: €78
-  - Double Room Budget for single use: €95
-  - Single Room Standard: €100 (or Double Room for single use)
-  - Breakfast: €15
-
-  </details> -->
-
 - [**Gasthof zur Schweiz**](https://www.zur-schweiz.de/) (3 minutes from the venue, from €85/night)
 
   <details>
-  <summary>Rooms and booking</summary>
+  <summary>Click here for available rooms and booking instructions</summary>
 
   Use the code "Konferenz CLEF 2026" when booking your room, via [email](mailto:info@zur-schweiz.de), for reduced rates until July 10, 2026.
 
@@ -97,7 +82,7 @@ These hotels and hostels offer reserved room blocks for CLEF 2026 participants:
 - [**Dorint Hotel Esplanade Jena**](https://hotel-jena.dorint.com/de/) (4 minutes from the venue, from €150/night)
 
   <details>
-  <summary>Rooms and booking</summary>
+  <summary>Click here for available rooms and booking instructions</summary>
 
   Use this [booking link](https://dorint.com/en/cle200926), for reduced rates until August 24, 2026.
 
@@ -111,20 +96,20 @@ These hotels and hostels offer reserved room blocks for CLEF 2026 participants:
 - [**Hotel Eulensteins**](https://www.eulensteins.de/) (8 minutes from the venue, from €92/night)
 
   <details>
-  <summary>Rooms and booking</summary>
+  <summary>Click here for available rooms and booking instructions</summary>
 
   Use the code "CLEF 09/26" when booking your room, via [email](mailto:hotel@eulensteins.de), for reduced rates until June 1, 2026.
 
   Available rooms:
   - Single Room: €92
-  - Breakfast TODO
+  - Breakfast: €15
 
   </details>
 
 - [**Hotel and Restaurant "Schwarzen Bär"**](https://www.schwarzer-baer-jena.de/) (11 minutes from the venue, from €88/night)
 
   <details>
-  <summary>Rooms and booking</summary>
+  <summary>Click here for available rooms and booking instructions</summary>
 
   Use the code "CLEF 2026" when booking your room, via [email](mailto:hotel@schwarzer-baer-jena.de) or [phone](tel:+4936414060), for reduced rates until July 31, 2026.
 
@@ -141,7 +126,7 @@ These hotels and hostels offer reserved room blocks for CLEF 2026 participants:
 - [**B&B Hotel**](https://www.hotel-bb.com/hotel/jena) (16 minutes from the venue, from €88.90/night)
 
   <details>
-  <summary>Rooms and booking</summary>
+  <summary>Click here for available rooms and booking instructions</summary>
 
   Use the code "CLEF2026" when booking your room, via [email](mailto:jena@hotelbb.com) or [phone](tel:+4961468153556), for reduced rates until July 31, 2026.
 
@@ -154,7 +139,7 @@ These hotels and hostels offer reserved room blocks for CLEF 2026 participants:
 - [**Akademiehotel Jena**](https://akademiehotel.info/) (30 minutes from the venue, from €81.90/night)
 
   <details>
-  <summary>Rooms and booking</summary>
+  <summary>Click here for available rooms and booking instructions</summary>
 
   Use the code "CLEF2026" when booking your room, via [email](mailto:post.akademiehotel@tsapost.de), for reduced rates until July 10, 2026.
 
@@ -169,7 +154,7 @@ These hotels and hostels offer reserved room blocks for CLEF 2026 participants:
 - [**Internationales Gästehaus**](https://gaestehaus-jena.de/) (37 minutes from the venue, from €55/night)
 
   <details>
-  <summary>Rooms and booking</summary>
+  <summary>Click here for available rooms and booking instructions</summary>
 
   Use the code "CLEF2026" when booking your room, via [email](mailto:jgh-jena@ib.de), for reduced rates until July 10, 2026.
 
