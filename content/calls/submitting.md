@@ -25,6 +25,11 @@ CLEF 2026 uses EasyChair for all submission types.
 {{< /button >}}
 
 
+{{< alert type="warning" title="Note (June 6th, 2026)" >}}
+All submissions to CLEF are subject to the [CEUR-WS GenAI policy](https://ceur-ws.org/GenAI/Policy.html).
+{{< /alert >}}
+
+
 ## Conference Paper Submissions
 
 Authors are invited to electronically submit original papers, which have not been published and are not under consideration elsewhere. Two categories of papers will be accepted:
