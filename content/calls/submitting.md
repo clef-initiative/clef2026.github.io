@@ -24,12 +24,6 @@ CLEF 2026 uses EasyChair for all submission types.
 <span class='flex-1 my-auto ml-2'> EasyChair</span>
 {{< /button >}}
 
-
-{{< alert type="warning" title="Note (June 6th, 2026)" >}}
-All submissions to CLEF are subject to the [CEUR-WS GenAI policy](https://ceur-ws.org/GenAI/Policy.html).
-{{< /alert >}}
-
-
 ## Conference Paper Submissions
 
 Authors are invited to electronically submit original papers, which have not been published and are not under consideration elsewhere. Two categories of papers will be accepted:
@@ -78,6 +72,10 @@ Submissions are expected to be in English language and 5 pages minimum, with no 
 
 Working notes are to be submitted in **1-column CEURART format**.
 
+{{< alert type="warning" title="Note (June 6th, 2026)" >}}
+Lab working notes are subject to the [CEUR-WS GenAI policy](https://ceur-ws.org/GenAI/Policy.html).
+{{< /alert >}}
+
 <div class="flex flex-wrap gap-2 content-evenly justify-items-center items-top">
 {{< button href="./clef26-working-notes-template.zip" type="primary" size="md">}} 
 <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke-width='3' stroke='currentColor' class='size-3 flex-none my-auto'><path stroke-linecap='round' stroke-linejoin='round' d='m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25' /></svg>
@@ -111,6 +109,10 @@ Please note that the extended CEUR-WS overview and the condensed LNCS overview (
 To keep titles identifiable and consistent across CLEF, use the format `Overview of <Lab Name> 2026`, adapted per task where separate overviews are submitted.
 
 Submissions are expected to be in English language and 5 pages minimum, with no maximum page limit. Task overviews are to be submitted in **1-column CEURART format**, via EasyChair within your lab/workshop track.
+
+{{< alert type="warning" title="Note (June 6th, 2026)" >}}
+Task overviews are subject to the [CEUR-WS GenAI policy](https://ceur-ws.org/GenAI/Policy.html).
+{{< /alert >}}
 
 <div class="flex flex-wrap gap-2 content-evenly justify-items-center items-top">
 {{< button href="./clef26-working-notes-template.zip" type="primary" size="md">}} 
