@@ -58,9 +58,11 @@ lab-organizer:
 conference:
   timezone: "Anywhere on Earth (AoE)"
   dates:
-  - name: "Regular Registration Ends"
+  - name: "Early Registration Ends"
     date: "2026-07-10"
-  - name: "Late Registration Ends"
+  - name: "Regular Registration Ends"
     date: "2026-08-31"
+  - name: "Late Registration Ends"
+    date: "2026-09-20"
   - name: "CLEF 2026"
     date: "2026-09-21"

@@ -11,20 +11,29 @@ menu:
     weight: 15
 ---
 
-## Frequently Asked Questions
+## Registration Page
 
-{{< accordion >}}
+The registration is open at: [https://pretix.eu/infai/CLEF2026/](https://pretix.eu/infai/CLEF2026/)
 
-  {{< accordion-item title="Is there a group registration discount?" >}}
-  Yes, for groups of 5 or more participants from the same institution, we offer a 10% discount on the registration fee. Please contact [registration@clef2026.eu](mailto:registration@clef2026.eu) for details.
-  {{< /accordion-item >}}
-  
-  {{< accordion-item title="Can I register for specific days only?" >}}
-  No, we do not offer daily registrations. You must register for the entire conference.
-  {{< /accordion-item >}}
-  
-  {{< accordion-item title="I need an invitation letter for visa purposes. How do I request one?" >}}
-  Once you have completed your registration, you can request an invitation letter by sending an email to [visa@clef2026.eu](mailto:visa@clef2026.eu) with your registration number and passport details.
-  {{< /accordion-item >}}
+## Registration Fees
+The registration fees below are exempt from VAT in accordance with Section 4(22a) of the German Value Added Tax Act (UStG).
 
-{{< /accordion >}}
+**Important**: Please note that all papers being presented at the conference, including at lab sessions, must have at least one of their authors registered.
+
+| Group                | Early Registration (until 10 July 2026) | Regular Registration (until 31 August 2026) | Late Registration (until 20 September 2026) |
+|----------------------|----------------------------------------------|---------------------------------------------|---------------------------------------------|
+| Student (in-person)  | €450                                         | €500                                        | €600                                        |
+| Full (in-person)     | €550                                         | €600                                        | €700                                        |
+| Online participation | €200                                         | €250                                        | €300                                        |
+
+### Registration Fees Include
+- Admission to all conference and lab sessions
+- Conference proceedings
+- Daily coffee breaks
+- Daily lunch
+- Social events
+
+## Invitation Letter
+If you need an invitation letter for visa purposes, you can request it during the registration process by selecting the respective "Add-on".
+We will review your request and notify you via e-mail. After approval, you can complete the payment for the 
+registration, and you will receive the invitation letter alongside your conference ticket.

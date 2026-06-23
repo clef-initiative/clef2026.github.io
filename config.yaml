@@ -11,7 +11,7 @@ params:
   location: "Jena, Germany"
   registration:
     lab: "https://clef-labs-registration.dipintra.it/" # Leave empty to hide on page
-    conference: "" # Leave empty to hide on page
+    conference: "https://pretix.eu/infai/CLEF2026/" # Leave empty to hide on page
   year: 2026
   email: "clef2026@webis.de"
   color: "sky" # Any of red`, `orange`, `amber`, `yellow`, `lime`, `green`, `emerald`, `teal`, `cyan`, `sky`, `blue`, `indigo`, `violet`, `purple`, `fuchsia`, `pink`, `rose`, or any gray tone
