@@ -1,6 +1,6 @@
 ---
 title: "Registration"
-draft: true
+draft: false
 summary: "Register for CLEF 2026."
 weight: 15
 toc: true
