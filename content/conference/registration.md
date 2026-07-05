@@ -11,14 +11,14 @@ menu:
     weight: 15
 ---
 
-## Registration Page
+## Registration System
 
 The registration is open at: [https://pretix.eu/infai/CLEF2026/](https://pretix.eu/infai/CLEF2026/)
 
 ## Registration Fees
 The registration fees below are exempt from VAT in accordance with Section 4(22a) of the German Value Added Tax Act (UStG).
 
-**Important**: Please note that all papers being presented at the conference, including at lab sessions, must have at least one of their authors registered.
+**Important**: Please note that all papers being presented at the conference, including at lab sessions, must have at least one of their authors registered. A registration is, however, not necessary for the paper to appear in the CEUR proceedings.
 
 | Group                | Early Registration (until 10 July 2026) | Regular Registration (until 31 August 2026) | Late Registration (until 20 September 2026) |
 |----------------------|----------------------------------------------|---------------------------------------------|---------------------------------------------|
@@ -32,6 +32,9 @@ The registration fees below are exempt from VAT in accordance with Section 4(22a
 - Daily coffee breaks
 - Daily lunch
 - Social events
+
+### Registration Fee Vouchers for Student Authors
+Each lab may award one of their student authors a voucher of 200 Euros for the CLEF registration fee. The voucher is redeemable for any ticket category.
 
 ## Invitation Letter
 If you need an invitation letter for visa purposes, you can request it during the registration process by selecting the respective "Add-on".
