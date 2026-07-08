@@ -20,7 +20,7 @@ The registration fees below are exempt from VAT in accordance with Section 4(22a
 
 **Important**: Please note that all papers being presented at the conference, including at lab sessions, must have at least one of their authors registered. A registration is, however, not necessary for the paper to appear in the CEUR proceedings.
 
-| Group                | Early Registration (until 10 July 2026) | Regular Registration (until 31 August 2026) | Late Registration (until 20 September 2026) |
+| Group                | Early Registration (until 19 July 2026) | Regular Registration (until 31 August 2026) | Late Registration (until 20 September 2026) |
 |----------------------|----------------------------------------------|---------------------------------------------|---------------------------------------------|
 | Student (in-person)  | €450                                         | €500                                        | €600                                        |
 | Full (in-person)     | €550                                         | €600                                        | €700                                        |

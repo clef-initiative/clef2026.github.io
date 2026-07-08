@@ -59,7 +59,7 @@ conference:
   timezone: "Anywhere on Earth (AoE)"
   dates:
   - name: "Early Registration Ends"
-    date: "2026-07-10"
+    date: "2026-07-19"
   - name: "Regular Registration Ends"
     date: "2026-08-31"
   - name: "Late Registration Ends"
