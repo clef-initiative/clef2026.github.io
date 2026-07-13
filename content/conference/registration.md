@@ -18,7 +18,7 @@ The registration is open at: [https://pretix.eu/infai/CLEF2026/](https://pretix.
 ## Registration Fees
 The registration fees below are exempt from VAT in accordance with Section 4(22a) of the German Value Added Tax Act (UStG).
 
-**Important**: Please note that all papers being presented at the conference, including at lab sessions, must have at least one of their authors registered. A registration is, however, not necessary for the paper to appear in the CEUR proceedings.
+**Important**: Papers in the [**main conference track**](https://clef2026.clef-initiative.eu/calls/papers/#format) must have at least one of their authors registered to appear in the **LNCS proceedings**. Additionally, presentations at the conference, including at lab sessions, require at least one of the authors to be registered. A registration is, however, not necessary for notebook papers to appear in the **CEUR proceedings**.
 
 | Group                | Early Registration (until 19 July 2026) | Regular Registration (until 31 August 2026) | Late Registration (until 20 September 2026) |
 |----------------------|----------------------------------------------|---------------------------------------------|---------------------------------------------|
