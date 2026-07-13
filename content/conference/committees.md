@@ -81,7 +81,7 @@ menu:
 {{< figure src="img/clef26-support-heineking.jpg" size="400x500" alt="Sebastian Heineking" caption="Sebastian Heineking<br>*(University of Kassel)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
 {{< figure src="img/clef26-support-kanadan.jpg" size="400x500" alt="Midhun Kanadan" caption="Midhun Kanadan<br>*(Bauhaus-Universität Weimar)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
 {{< figure src="img/clef26-chair-merker.jpg" size="400x500" alt="Jan Heinrich Merker" caption="Jan Heinrich Merker<br>*(Friedrich-Schiller-Universität Jena)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
-{{< figure src="img/silhouette-male.jpg" size="400x500" alt="Wilhelm Pertsch" caption="Wilhelm Pertsch<br>*(Friedrich-Schiller-Universität Jena)*" width="sm" classes="w-32 md:w-48 flex-none m-0" >}}
-{{< figure src="img/silhouette-male.jpg" size="400x500" alt="Simon Ruth" caption="Simon Ruth<br>*(University of Kassel)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
+{{< figure src="img/clef26-support-pertsch.jpg" size="400x500" alt="Wilhelm Pertsch" caption="Wilhelm Pertsch<br>*(Friedrich-Schiller-Universität Jena)*" width="sm" classes="w-32 md:w-48 flex-none m-0" >}}
+{{< figure src="img/clef26-support-ruth.jpg" size="400x500" alt="Simon Ruth" caption="Simon Ruth<br>*(University of Kassel)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
 {{< figure src="img/clef26-support-zelch.jpg" size="400x500" alt="Ines Zelch" caption="Ines Zelch<br>*(Friedrich-Schiller-Universität Jena)*" width="sm" classes="w-32 md:w-48 flex-none m-0" >}}
 </div>
