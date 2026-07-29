@@ -21,5 +21,5 @@ The CLEF 2026 conference will be hosted by Friedrich-Schiller-Universität Jena,
 {{< figure src="img/sponsor-logo-gesis.svg" src-dark="img/sponsor-logo-gesis-dark.svg" alt="Gesis" width="sm" classes="w-64 md:w-128 flex-none m-0" >}}
 {{< figure src="img/sponsor-logo-iteg.svg" src-dark="img/sponsor-logo-iteg-dark.svg" alt="ItEG" width="sm" classes="w-64 md:w-128 flex-none m-0" >}}
 {{< figure src="img/sponsor-logo-dfg.svg" src-dark="img/sponsor-logo-dfg-dark.svg" alt="Deutsche Forschungsgemeinschaft" width="sm" classes="w-64 md:w-128 flex-none m-0" >}}
-{{< figure src="img/sponsor-logo-springer.svg" src-dark="img/sponsor-logo-springer-dark.svg" alt="Springer Nature" width="sm" classes="w-48 md:w-96 flex-none m-0" >}}
+{{< figure src="img/sponsor-logo-springer.svg" alt="Springer Nature" width="sm" classes="w-48 md:w-96 flex-none m-0" >}}
 </div>
