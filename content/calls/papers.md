@@ -19,7 +19,7 @@ The CLEF 2026 Conference welcomes papers in the Information Access domain that d
 
 The CLEF Conference addresses all aspects of Information Access in any modality and language. CLEF consists of the presentation of research papers and a series of workshops presenting the results of lab-based comparative evaluation benchmarks.
 
-CLEF 2026 is the 17th CLEF conference, continuing the popular CLEF campaigns that have run since 2000, contributing to the systematic evaluation of information access systems, primarily through experimentation on shared tasks.
+CLEF 2026 is the 27th CLEF conference, continuing the popular CLEF campaigns that have run since 2000, contributing to the systematic evaluation of information access systems, primarily through experimentation on shared tasks.
 
 The CLEF conference has a clear focus on experimental Information Access as carried out within evaluation forums (e.g., CLEF Labs, TREC, NTCIR, FIRE, MediaEval, RomIP, SemEval, and TAC) with special attention to the challenges of multimodality, multilinguality, and interactive search in different domains, also considering specific classes of users, such as children, students, or impaired users in different tasks (e.g., academic, professional, or everyday life).
 
