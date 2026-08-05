@@ -13,11 +13,21 @@ menu:
 
 ## Michael Granitzer
 
-**Title:** TBD.
+**Title:** Beyond Open Models: Building Open Search Infrastructure for AI Agents
 
 **Date:**  Monday, September 21
 
-**Abstract:** TBD.
+**Abstract:** Open-source language models are becoming increasingly capable and accessible. Yet an open model does not by itself create an open information-access system. When models and agents depend on proprietary search services, researchers cannot inspect or modify the underlying corpus, indexing process, retrieval system, or usage data. This talk therefore advances four hypotheses about the infrastructure required for transparent research on future search systems.
+
+First, openness must extend below the model layer. OpenWebSearch.EU is a European research initiative developing distributed infrastructure for crawling, processing, and indexing the web. One of its central outcomes is the Open Web Index: an openly accessible web index that supports search services as well as bulk access to data for independent experimentation. On top of this index, OURRS provides a web search engine through which researchers, applications, and agents can retrieve information using an open and inspectable infrastructure.
+
+Second, corpus scale and complexity must be treated as scientific variables rather than merely engineering constraints. As collections grow, retrieval systems encounter more plausible distractors, duplication, multilingual content, and conflicting evidence. These changes affect effectiveness, efficiency, and robustness. Their impact becomes even more significant when retrieval is embedded in AI agents: agents search repeatedly, reformulate queries, compare sources, and make later decisions based on earlier retrieval results. Small retrieval effects can therefore accumulate across an entire information-seeking trajectory.
+
+This leads to the third hypothesis: usage data for agentic search should be created by design. During the rise of commercial web search, much large-scale user and interaction data remained inaccessible to researchers. With agentic systems, the community has an opportunity to instrument retrieval from the beginning, operate controlled populations of artificial agents, and collect traces of searching, reasoning, verification, and communication. Such traces do not replace human studies, but they provide a scalable complement for controlled experimentation.
+
+Finally, agentic information access should be studied as a communication ecosystem rather than as an isolated model answering an isolated query. We are therefore developing a social agentic layer above the retrieval infrastructure that supports persistent interaction among humans and agents, including delegation, collaboration, verification, and agent-to-agent communication.
+
+Together, these hypotheses point toward a new kind of evaluation environment: one that combines open web data, scalable retrieval systems, human and artificial participants, and observable information-seeking trajectories. Future information-access research may therefore need to evaluate not only models and ranked lists, but complete systems in which humans, agents, retrieval services, and shared knowledge interact at realistic scale.
 
 {{< figure src="img/clef26-speakers-granitzer.png" size="400x500" float="right" classes="w-64 pl-8" width="sm"  caption="Michael Granitzer" >}}
 
