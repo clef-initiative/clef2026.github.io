@@ -77,7 +77,7 @@ menu:
 {{< figure src="img/clef26-support-gohsen.jpg" size="400x500" alt="Marcel Gohsen" caption="Marcel Gohsen<br>*(Bauhaus-Universität Weimar)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
 {{< figure src="img/clef26-support-gollub.jpg" size="400x500" alt="Tim Gollub" caption="Tim Gollub<br>*(Bauhaus-Universität Weimar)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
 {{< figure src="img/clef26-support-gutekunst.jpg" size="400x500" alt="Klara Gutekunst" caption="Klara Gutekunst<br>*(University of Kassel)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
-{{< figure src="img/silhouette-male.jpg" size="400x500" alt="Tim Hagen" caption="Tim Hagen<br>*(University of Kassel)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
+{{< figure src="img/clef26-support-hagen.jpg" size="400x500" alt="Tim Hagen" caption="Tim Hagen<br>*(University of Kassel)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
 {{< figure src="img/clef26-support-heineking.jpg" size="400x500" alt="Sebastian Heineking" caption="Sebastian Heineking<br>*(University of Kassel)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
 {{< figure src="img/clef26-support-kanadan.jpg" size="400x500" alt="Midhun Kanadan" caption="Midhun Kanadan<br>*(Bauhaus-Universität Weimar)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
 {{< figure src="img/clef26-chair-merker.jpg" size="400x500" alt="Jan Heinrich Merker" caption="Jan Heinrich Merker<br>*(Friedrich-Schiller-Universität Jena)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
