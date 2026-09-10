@@ -45,10 +45,12 @@ menu:
   Peter Kirby
 - *A corpus for evaluating neutrality in political biographies on Wikipedia: NeutralWikiPol-fr*<br>
   Victor Planche
-
-## Past, Present, and Future Track
 - *Generative AI-based Uncertainty-aware IR Evaluation with Distributional Evaluation*<br>
   Giorgio Maria Di Nunzio, Guglielmo Faggioli, Stefano Marchesin and Simone Merlo
+
+## Past, Present, and Future Track
+- *ReTARgeting CLEF eHealth: From Historical TAR Benchmarks to Reusable Evaluation Resources*<br>
+  Giorgio Maria Di Nunzio
 
 
 ## Best of Labs 2025
