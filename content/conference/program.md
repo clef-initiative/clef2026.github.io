@@ -304,7 +304,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>12:05</td>
     <td>&ndash;</td>
     <td>12:30</td>
-    <td colspan="6">Best of Labs, 2025 (CheckThat!, LongEval, JOKER)<br><span class="room">Lecture Room 3</span></td>
+    <td colspan="6">Best of Labs, 2025 (CheckThat!, LongEval)<br><span class="room">Lecture Room 3</span></td>
 </tr>
 <tr class="break">
     <td>12:30</td>
@@ -358,13 +358,11 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
 3. *ReTARgeting CLEF eHealth: From Historical TAR Benchmarks to Reusable Evaluation Resources*<br>
   Giorgio Maria Di Nunzio
 
-**Papers in Best of Labs, 2025 (CheckThat!, LongEval, JOKER)**
+**Papers in Best of Labs, 2025 (CheckThat!, LongEval)**
 1. *Scientific Claim–Source Retrieval Revisited: A Comparative Study of Style Transfer and Re-Ranking*<br>
    Tobias Schreieder, Harsh Khandelwal, Yu-Ling Zhong and Michael Färber
 2. *DS@GT ARC at LongEval: Evaluating Temporal Performance in Web Search Systems and Topics with Two-Stage Retrieval*
    Anthony Miyaguchi, Imran Afrulbasha and Aleksandar Pramov
-3. *Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and Phonetic-Semantic Embeddings*<br>
-    Russell Taylor, Benajmin Herbert and Michael Sana
 
 [//]: # (======================================================================================================================)
 [//]: # (Thursday)
@@ -383,10 +381,16 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
 </thead>
 <tbody>
 <tr class="main-conf">
-    <td>09:30</td>
+    <td>09:20</td>
+    <td>&ndash;</td>
+    <td>10:20</td>
+    <td colspan="6">Main Conference 4 (Information Retrieval)<br><span class="room">Lecture Room 3</span></td>
+</tr>
+<tr class="main-conf">
+    <td>10:20</td>
     <td>&ndash;</td>
     <td>10:30</td>
-    <td colspan="6">Main Conference 4 (Information Retrieval)<br><span class="room">Lecture Room 3</span></td>
+    <td colspan="6">Best of Labs, 2025 (JOKER)<br><span class="room">Lecture Room 3</span></td>
 </tr>
 <tr class="break">
     <td>10:30</td>
@@ -447,3 +451,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
   Eric Oliver Schmidt, Matthias Hagen and Maik Fröbe
 4. *Scope Matters: A Hallucination-Aware Evaluation of Retrieval Strategies for Multilingual RAG*<br>
   Gadha Saji Menon, Swathi Jayakumar, Varalekshmy M Mohan, Sachin Kurup, Veena G and Vani Kanjirangat
+
+**Papers in Best of Labs, 2025 (JOKER)**
+1. *Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and Phonetic-Semantic Embeddings*<br>
+    Russell Taylor, Benajmin Herbert and Michael Sana
