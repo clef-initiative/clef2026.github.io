@@ -25,6 +25,21 @@ Depending on what type of paper you present, the instructions will differ:
 - Best-of-labs papers: 8 minutes (5 minutes talk, 3 minutes Q&A) + Poster presentation
 - Lab Working Notes: presentation in the respective lab session (see the [program](/conference/program/); lab-internal schedules will be provided by the lab organizers)
 
+## Presentation Slides
+
+To present your full paper, past-present-future paper, lab overview paper, best-of-labs paper, or lab working notes, please prepare a slide deck in PDF or PowerPoint format. \
+The slides should be uploaded via [this file share](https://cloud.uni-jena.de/s/SdAQBrDeSTA3NRS) before your presentation slot (latest 15 minutes before the session starts).
+
+- Format: PDF or PowerPoint
+- File name: `LabName_LastName_ShortTitle.pdf` or `LabName_LastName_ShortTitle.pptx` (e.g., `eRisk_Doe_ExampleTalk.pdf`)
+- Upload link: <https://cloud.uni-jena.de/s/SdAQBrDeSTA3NRS>
+
+On site, you can check if your slides have been uploaded successfully at the conference office.
+
+{{< alert title="Lab Working Notes" >}}
+Note that some lab sessions might not use the same file share. Please check the respective [lab websites](/labs/) for additional lab-specific instructions. If in doubt, contact the lab organizers.
+{{< /alert >}}
+
 ## Posters
 
 To present your short paper or a best-of-labs paper, please bring your printed poster to the conference venue.
