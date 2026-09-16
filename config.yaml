@@ -134,3 +134,13 @@ markup:
     endLevel: 2
     ordered: false
     startLevel: 2
+
+security:
+  exec:
+    allow:
+    - ^(dart-)?sass$
+    - ^go$
+    - ^git$
+    - ^node$
+    - ^postcss$
+    - ^tailwindcss$
