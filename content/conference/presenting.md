@@ -12,7 +12,7 @@ menu:
 ---
 
 At CLEF 2026, multiple kinds of submissions will be presented, including main conference papers, lab working notes, and lab overviews.
-Please check the [program](/program/) for your presentation slot and prepare your presentation according to your paper type, as detailed below. 
+Please check the [program](/conference/program/) for your presentation slot and prepare your presentation according to your paper type, as detailed below. 
 
 ## Presentation Formats
 
@@ -23,7 +23,7 @@ Depending on what type of paper you present, the instructions will differ:
 - Past, Present & Future paper: 15 minutes (10 minutes talk, 5 minutes Q&A)
 - Lab Overview papers: 10 minutes (8 minutes talk, 2 minutes Q&A)
 - Best-of-labs papers: 8 minutes (5 minutes talk, 3 minutes Q&A) + Poster presentation
-- Lab Working Notes: presentation in the respective lab session (see the [program](/program/); lab-internal schedules will be provided by the lab organizers)
+- Lab Working Notes: presentation in the respective lab session (see the [program](/conference/program/); lab-internal schedules will be provided by the lab organizers)
 
 ## Posters
 
