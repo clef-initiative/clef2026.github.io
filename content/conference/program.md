@@ -45,7 +45,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     .break {
         background: rgb(231, 229, 228);
     }
-    .labs {
+    .labs-dark {
         background: rgb(254, 230, 133, 0.6);
     }
     .labs-light {
@@ -105,7 +105,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>11:30</td>
     <td colspan="6">Main Conference 1 (Low-Resource Languages)<br><span class="room">Lecture Room 3</span></td>
 </tr>
-<tr class="labs">
+<tr class="labs-dark">
     <td>11:30</td>
     <td>&ndash;</td>
     <td>12:30</td>
@@ -117,16 +117,16 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>14:00</td>
     <td colspan="6">Lunch Break</td>
 </tr>
-<tr class="labs">
-    <td>14:00</td>
-    <td>&ndash;</td>
-    <td>15:30</td>
+<tr>
+    <td class="labs-dark">14:00</td>
+    <td class="labs-dark">&ndash;</td>
+    <td class="labs-dark">15:30</td>
     <td class="labs-light">Touché<br>1/4<br><span class="room">Lecture Room 3</span></td>
-    <td>SimpleText<br>1/3<br><span class="room">Room 113</span></td>
+    <td class="labs-dark">SimpleText<br>1/3<br><span class="room">Room 113</span></td>
     <td class="labs-light">EXIST<br>1/2<br><span class="room">Room 114</span></td>    
-    <td>qCLEF<br>1/2<br><span class="room">Room 121</span></td>    
+    <td class="labs-dark">qCLEF<br>1/2<br><span class="room">Room 121</span></td>    
     <td class="labs-light">LifeCLEF<br>1/3<br><span class="room">Room 122</span></td>
-    <td>FinMMEval<br>1/2<br><span class="room">Room 131</span></td>
+    <td class="labs-dark">FinMMEval<br>1/2<br><span class="room">Room 131</span></td>
 </tr>
 <tr class="break">
     <td>15:30</td>
@@ -134,16 +134,16 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>16:00</td>
     <td colspan="6">Coffee Break &amp; Poster Session (Short Paper, LifeCLEF, EXIST, Touché, FinMMEval)</td>
 </tr>
-<tr class="labs">
-    <td>16:00</td>
-    <td>&ndash;</td>
-    <td>17:30</td>
+<tr>
+    <td class="labs-dark">16:00</td>
+    <td class="labs-dark">&ndash;</td>
+    <td class="labs-dark">17:30</td>
     <td class="labs-light">Touché<br>2/4<br><span class="room">Lecture Room 3</span></td>
-    <td>SimpleText<br>2/3<br><span class="room">Room 113</span></td>
+    <td class="labs-dark">SimpleText<br>2/3<br><span class="room">Room 113</span></td>
     <td class="labs-light">EXIST<br>2/2<br><span class="room">Room 114</span></td>    
-    <td>qCLEF<br>2/2<br><span class="room">Room 121</span></td>    
+    <td class="labs-dark">qCLEF<br>2/2<br><span class="room">Room 121</span></td>    
     <td class="labs-light">LifeCLEF<br>2/3<br><span class="room">Room 122</span></td>
-    <td>FinMMEval<br>2/2<br><span class="room">Room 131</span></td>
+    <td class="labs-dark">FinMMEval<br>2/2<br><span class="room">Room 131</span></td>
 </tr>
 <tr class="social">
     <td>18:30</td>
@@ -202,7 +202,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>12:05</td>
     <td colspan="6">Lab Overviews 2 (ImageCLEF, HIPE, TalentCLEF, BioASQ, ELOQUENT)<br><span class="room">Lecture Room 3</span></td>
 </tr>
-<tr class="labs">
+<tr class="labs-dark">
     <td>12:05</td>
     <td>&ndash;</td>
     <td>12:30</td>
@@ -214,16 +214,16 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>14:00</td>
     <td colspan="6">Lunch Break <span class="room">(+ Steering Committee Meeting)</span></td>
 </tr>
-<tr class="labs">
-    <td>14:00</td>
-    <td>&ndash;</td>
-    <td>15:30</td>
+<tr>
+    <td class="labs-dark">14:00</td>
+    <td class="labs-dark">&ndash;</td>
+    <td class="labs-dark">15:30</td>
     <td class="labs-light">Touché <br>3/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
-    <td>SimpleText 3/3<br><span class="room">Room 113</span></td>
+    <td class="labs-dark">SimpleText 3/3<br><span class="room">Room 113</span></td>
     <td class="labs-light">BioASQ 1/4<br><span class="room">Room 114</span></td>
-    <td>TalentCLEF 1/3<br><span class="room">Room 121</span></td>    
+    <td class="labs-dark">TalentCLEF 1/3<br><span class="room">Room 121</span></td>    
     <td class="labs-light">LifeCLEF<br>3/3<br><span class="room">Room 122</span></td>
-    <td>ELOQUENT 1/3<br><span class="room">Room 131</span></td>
+    <td class="labs-dark">ELOQUENT 1/3<br><span class="room">Room 131</span></td>
 </tr>
 <tr class="break">
     <td>15:30</td>
@@ -231,16 +231,16 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>16:00</td>
     <td colspan="6">Coffee Break &amp; Poster Session (HIPE, BioASQ, ELOQUENT)</td>
 </tr>
-<tr class="labs">
-    <td>16:00</td>
-    <td>&ndash;</td>
-    <td>17:30</td>
+<tr>
+    <td class="labs-dark">16:00</td>
+    <td class="labs-dark">&ndash;</td>
+    <td class="labs-dark">17:30</td>
     <td class="labs-light">Touché<br>4/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
-    <td>HIPE<br>1/1<br><span class="room">Room 113</span></td>
+    <td class="labs-dark">HIPE<br>1/1<br><span class="room">Room 113</span></td>
     <td class="labs-light">BioASQ 2/4<br><span class="room">Room 114</span></td>
-    <td>TalentCLEF 2/3<br><span class="room">Room 121</span></td>    
+    <td class="labs-dark">TalentCLEF 2/3<br><span class="room">Room 121</span></td>    
     <td class="labs-light">ImageCLEF 1/5<br><span class="room">Room 122</span></td>
-    <td>ELOQUENT 2/3<br><span class="room">Room 131</span></td>
+    <td class="labs-dark">ELOQUENT 2/3<br><span class="room">Room 131</span></td>
 </tr>
 </tbody>
 </table>
@@ -297,13 +297,13 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>11:15</td>
     <td colspan="6">Main Conference 3 (Evaluation and Benchmarks)<br><span class="room">Lecture Room 3</span></td>
 </tr>
-<tr class="labs">
+<tr class="labs-dark">
     <td>11:15</td>
     <td>&ndash;</td>
     <td>12:05</td>
     <td colspan="6">Lab Overviews 3 (PAN, LongEval, eRisk, CheckThat!, JOKER)<br><span class="room">Lecture Room 3</span></td>
 </tr>
-<tr class="labs">
+<tr class="labs-dark">
     <td>12:05</td>
     <td>&ndash;</td>
     <td>12:30</td>
@@ -315,16 +315,16 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>14:00</td>
     <td colspan="6">Lunch Break</td>
 </tr>
-<tr class="labs">
-    <td>14:00</td>
-    <td>&ndash;</td>
-    <td>15:30</td>
+<tr>
+    <td class="labs-dark">14:00</td>
+    <td class="labs-dark">&ndash;</td>
+    <td class="labs-dark">15:30</td>
     <td class="labs-light">PAN<br>1/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
-    <td>LongEval<br>1/2<br><span class="room">Room 113</span></td>
+    <td class="labs-dark">LongEval<br>1/2<br><span class="room">Room 113</span></td>
     <td class="labs-light">BioASQ<br>3/4<br><span class="room">Room 114</span></td>
-    <td>TalentCLEF<br>3/3<br><span class="room">Room 121</span></td>
+    <td class="labs-dark">TalentCLEF<br>3/3<br><span class="room">Room 121</span></td>
     <td class="labs-light">ImageCLEF<br>2/5<br><span class="room">Room 122</span></td>
-    <td>eRisk<br>1/2<br><span class="room">Room 131</span></td>
+    <td class="labs-dark">eRisk<br>1/2<br><span class="room">Room 131</span></td>
 </tr>
 <tr class="break">
     <td>15:30</td>
@@ -332,16 +332,16 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>16:00</td>
     <td colspan="6">Coffee Break &amp; Poster Session<br>(Best-of-Labs, PAN, CheckThat!, LongEval, eRisk, TalentCLEF, ImageCLEF)</td>
 </tr>
-<tr class="labs">
-    <td>16:00</td>
-    <td>&ndash;</td>
-    <td>17:30</td>
+<tr>
+    <td class="labs-dark">16:00</td>
+    <td class="labs-dark">&ndash;</td>
+    <td class="labs-dark">17:30</td>
     <td class="labs-light">PAN<br>2/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
-    <td>LongEval<br>2/2<br><span class="room">Room 113</span></td>
+    <td class="labs-dark">LongEval<br>2/2<br><span class="room">Room 113</span></td>
     <td class="labs-light">BioASQ<br>4/4<br><span class="room">Room 114</span></td>
-    <td>CheckThat!<br>1/3<br><span class="room">Room 121</span></td>
+    <td class="labs-dark">CheckThat!<br>1/3<br><span class="room">Room 121</span></td>
     <td class="labs-light">ImageCLEF<br>3/5<br><span class="room">Room 122</span></td>
-    <td>eRisk<br>2/2<br><span class="room">Room 131</span></td>
+    <td class="labs-dark">eRisk<br>2/2<br><span class="room">Room 131</span></td>
 </tr>
 <tr class="social">
     <td>18:15</td>
