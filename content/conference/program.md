@@ -196,7 +196,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>11:15</td>
     <td colspan="6">Main Conference 2 (Bias, Fairness, Evidence)<br><span class="room">Lecture Room 3</span></td>
 </tr>
-<tr class="labs">
+<tr class="labs-dark">
     <td>11:15</td>
     <td>&ndash;</td>
     <td>12:05</td>
