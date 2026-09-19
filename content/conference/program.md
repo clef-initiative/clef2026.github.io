@@ -401,14 +401,14 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>11:00</td>
     <td colspan="6">Coffee Break</td>
 </tr>
-<tr class="labs">
-    <td>11:00</td>
-    <td>&ndash;</td>
-    <td>12:30</td>
+<tr>
+    <td class="labs-dark">11:00</td>
+    <td class="labs-dark">&ndash;</td>
+    <td class="labs-dark">12:30</td>
     <td class="labs-light">PAN<br>3/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
-    <td>CheckThat!<br>2/3<br><span class="room">Room 121</span></td>
+    <td class="labs-dark">CheckThat!<br>2/3<br><span class="room">Room 121</span></td>
     <td class="labs-light">ImageCLEF<br>4/5<br><span class="room">Room 122</span></td>
-    <td>JOKER<br>1/2<br><span class="room">Room 131</span></td>
+    <td class="labs-dark">JOKER<br>1/2<br><span class="room">Room 131</span></td>
 </tr>
 <tr class="break">
     <td>12:30</td>
@@ -416,14 +416,14 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>14:00</td>
     <td colspan="6">Lunch Break</td>
 </tr>
-<tr class="labs">
-    <td>14:00</td>
-    <td>&ndash;</td>
-    <td>15:30</td>
+<tr>
+    <td class="labs-dark">14:00</td>
+    <td class="labs-dark">&ndash;</td>
+    <td class="labs-dark">15:30</td>
     <td class="labs-light">PAN &amp; ELOQUENT<br>4/4 &amp; 3/3<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
-    <td>CheckThat!<br>3/3<br><span class="room">Room 121</span></td>
+    <td class="labs-dark">CheckThat!<br>3/3<br><span class="room">Room 121</span></td>
     <td class="labs-light">ImageCLEF<br>5/5<br><span class="room">Room 122</span></td>
-    <td>JOKER<br>2/2<br><span class="room">Room 131</span></td>
+    <td class="labs-dark">JOKER<br>2/2<br><span class="room">Room 131</span></td>
 </tr>
 <tr class="break">
     <td>15:30</td>
