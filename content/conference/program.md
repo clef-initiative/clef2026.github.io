@@ -48,6 +48,9 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     .labs {
         background: rgb(254, 230, 133, 0.6);
     }
+    .labs-light {
+        background: rgb(254, 230, 133, 0.3);
+    }
     .social {
         background: rgb(184, 230, 254, 1.0);
         
@@ -118,11 +121,11 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>14:00</td>
     <td>&ndash;</td>
     <td>15:30</td>
-    <td>Touché<br>1/4<br><span class="room">Lecture Room 3</span></td>
+    <td class="labs-light">Touché<br>1/4<br><span class="room">Lecture Room 3</span></td>
     <td>SimpleText<br>1/3<br><span class="room">Room 113</span></td>
-    <td>EXIST<br>1/2<br><span class="room">Room 114</span></td>    
+    <td class="labs-light">EXIST<br>1/2<br><span class="room">Room 114</span></td>    
     <td>qCLEF<br>1/2<br><span class="room">Room 121</span></td>    
-    <td>LifeCLEF<br>1/3<br><span class="room">Room 122</span></td>
+    <td class="labs-light">LifeCLEF<br>1/3<br><span class="room">Room 122</span></td>
     <td>FinMMEval<br>1/2<br><span class="room">Room 131</span></td>
 </tr>
 <tr class="break">
@@ -135,11 +138,11 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>16:00</td>
     <td>&ndash;</td>
     <td>17:30</td>
-    <td>Touché<br>2/4<br><span class="room">Lecture Room 3</span></td>
+    <td class="labs-light">Touché<br>2/4<br><span class="room">Lecture Room 3</span></td>
     <td>SimpleText<br>2/3<br><span class="room">Room 113</span></td>
-    <td>EXIST<br>2/2<br><span class="room">Room 114</span></td>    
+    <td class="labs-light">EXIST<br>2/2<br><span class="room">Room 114</span></td>    
     <td>qCLEF<br>2/2<br><span class="room">Room 121</span></td>    
-    <td>LifeCLEF<br>2/3<br><span class="room">Room 122</span></td>
+    <td class="labs-light">LifeCLEF<br>2/3<br><span class="room">Room 122</span></td>
     <td>FinMMEval<br>2/2<br><span class="room">Room 131</span></td>
 </tr>
 <tr class="social">
@@ -215,11 +218,11 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>14:00</td>
     <td>&ndash;</td>
     <td>15:30</td>
-    <td>Touché <br>3/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
+    <td class="labs-light">Touché <br>3/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
     <td>SimpleText 3/3<br><span class="room">Room 113</span></td>
-    <td>BioASQ 1/4<br><span class="room">Room 114</span></td>
+    <td class="labs-light">BioASQ 1/4<br><span class="room">Room 114</span></td>
     <td>TalentCLEF 1/3<br><span class="room">Room 121</span></td>    
-    <td>LifeCLEF<br>3/3<br><span class="room">Room 122</span></td>
+    <td class="labs-light">LifeCLEF<br>3/3<br><span class="room">Room 122</span></td>
     <td>ELOQUENT 1/3<br><span class="room">Room 131</span></td>
 </tr>
 <tr class="break">
@@ -232,11 +235,11 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>16:00</td>
     <td>&ndash;</td>
     <td>17:30</td>
-    <td>Touché<br>4/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
+    <td class="labs-light">Touché<br>4/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
     <td>HIPE<br>1/1<br><span class="room">Room 113</span></td>
-    <td>BioASQ 2/4<br><span class="room">Room 114</span></td>
+    <td class="labs-light">BioASQ 2/4<br><span class="room">Room 114</span></td>
     <td>TalentCLEF 2/3<br><span class="room">Room 121</span></td>    
-    <td>ImageCLEF 1/5<br><span class="room">Room 122</span></td>
+    <td class="labs-light">ImageCLEF 1/5<br><span class="room">Room 122</span></td>
     <td>ELOQUENT 2/3<br><span class="room">Room 131</span></td>
 </tr>
 </tbody>
@@ -316,11 +319,11 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>14:00</td>
     <td>&ndash;</td>
     <td>15:30</td>
-    <td>PAN<br>1/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
+    <td class="labs-light">PAN<br>1/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
     <td>LongEval<br>1/2<br><span class="room">Room 113</span></td>
-    <td>BioASQ<br>3/4<br><span class="room">Room 114</span></td>
+    <td class="labs-light">BioASQ<br>3/4<br><span class="room">Room 114</span></td>
     <td>TalentCLEF<br>3/3<br><span class="room">Room 121</span></td>
-    <td>ImageCLEF<br>2/5<br><span class="room">Room 122</span></td>
+    <td class="labs-light">ImageCLEF<br>2/5<br><span class="room">Room 122</span></td>
     <td>eRisk<br>1/2<br><span class="room">Room 131</span></td>
 </tr>
 <tr class="break">
@@ -333,11 +336,11 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>16:00</td>
     <td>&ndash;</td>
     <td>17:30</td>
-    <td>PAN<br>2/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
+    <td class="labs-light">PAN<br>2/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
     <td>LongEval<br>2/2<br><span class="room">Room 113</span></td>
-    <td>BioASQ<br>4/4<br><span class="room">Room 114</span></td>
+    <td class="labs-light">BioASQ<br>4/4<br><span class="room">Room 114</span></td>
     <td>CheckThat!<br>1/3<br><span class="room">Room 121</span></td>
-    <td>ImageCLEF<br>3/5<br><span class="room">Room 122</span></td>
+    <td class="labs-light">ImageCLEF<br>3/5<br><span class="room">Room 122</span></td>
     <td>eRisk<br>2/2<br><span class="room">Room 131</span></td>
 </tr>
 <tr class="social">
@@ -402,11 +405,9 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>11:00</td>
     <td>&ndash;</td>
     <td>12:30</td>
-    <td>PAN<br>3/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
-    <td></td>
-    <td></td>
+    <td class="labs-light">PAN<br>3/4<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
     <td>CheckThat!<br>2/3<br><span class="room">Room 121</span></td>
-    <td>ImageCLEF<br>4/5<br><span class="room">Room 122</span></td>
+    <td class="labs-light">ImageCLEF<br>4/5<br><span class="room">Room 122</span></td>
     <td>JOKER<br>1/2<br><span class="room">Room 131</span></td>
 </tr>
 <tr class="break">
@@ -419,11 +420,9 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>14:00</td>
     <td>&ndash;</td>
     <td>15:30</td>
-    <td>PAN &amp; ELOQUENT<br>4/4 &amp; 3/3<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
-    <td></td>
-    <td></td>
+    <td class="labs-light">PAN &amp; ELOQUENT<br>4/4 &amp; 3/3<br><span class="room">Lecture&nbsp;Room&nbsp;3</span></td>
     <td>CheckThat!<br>3/3<br><span class="room">Room 121</span></td>
-    <td>ImageCLEF<br>5/5<br><span class="room">Room 122</span></td>
+    <td class="labs-light">ImageCLEF<br>5/5<br><span class="room">Room 122</span></td>
     <td>JOKER<br>2/2<br><span class="room">Room 131</span></td>
 </tr>
 <tr class="break">
