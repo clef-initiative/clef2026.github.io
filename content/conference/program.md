@@ -35,6 +35,10 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     .room {
         color: gray;
     }
+    .room a {
+        color: gray;
+        text-decoration: underline;
+    }
     .event {
         border: gray 1px solid;
     }
@@ -78,8 +82,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>08:15</td>
     <td>&ndash;</td>
     <td>09:00</td>
-    
-    <td colspan="6">Registration</td>
+    <td colspan="6">Registration<br><span class="room"><a href="/conference/venue/">Carl-Zeiss-Straße 3, 07743 Jena</a></span></td>
 </tr>
 <tr class="main-conf">
     <td>09:00</td>
@@ -149,7 +152,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>18:30</td>
     <td></td>
     <td></td>
-    <td colspan="6">Welcome Reception</td>
+    <td colspan="6">Welcome Reception<br><span class="room"><a href="/conference/social-events/#welcome-reception">Volksbad, Knebelstraße 10, 07743 Jena</a></span></td>
 </tr>
 </tbody>
 </table>
@@ -347,7 +350,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>18:15</td>
     <td></td>
     <td></td>
-    <td colspan="6">Conference Dinner</td>
+    <td colspan="6">Conference Dinner<br><span class="room"><a href="/conference/social-events/#conference-dinner">Zeiss-Planetarium, Am Planetarium 5, 07743 Jena</a></span></td>
 </tr>
 </tbody>
 </table>
