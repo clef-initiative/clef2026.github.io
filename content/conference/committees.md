@@ -72,7 +72,7 @@ menu:
 {{< figure src="img/clef26-support-bevendorff.jpg" size="400x500" alt="Janek Bevendorff" caption="Janek Bevendorff<br>*(Bauhaus-Universität Weimar)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
 {{< figure src="img/clef26-support-deckers.jpg" size="400x500" alt="Niklas Deckers" caption="Niklas Deckers<br>*(University of Kassel)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
 {{< figure src="img/clef26-support-elstner.jpg" size="400x500" alt="Theresa Elstner" caption="Theresa Elstner<br>*(University of Kassel)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
-{{< figure src="img/silhouette-male.jpg" size="400x500" alt="Ben Gerhards" caption="Ben Gerhards<br>*(University of Kassel)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
+{{< figure src="img/clef26-support-gerhards.jpg" size="400x500" alt="Ben Gerhards" caption="Ben Gerhards<br>*(University of Kassel)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
 {{< figure src="img/clef26-support-froebe.jpg" size="400x500" alt="Maik Fröbe" caption="Maik Fröbe<br>*(Bauhaus-Universität Weimar)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
 {{< figure src="img/clef26-support-gohsen.jpg" size="400x500" alt="Marcel Gohsen" caption="Marcel Gohsen<br>*(Bauhaus-Universität Weimar)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
 {{< figure src="img/clef26-support-gollub.jpg" size="400x500" alt="Tim Gollub" caption="Tim Gollub<br>*(Bauhaus-Universität Weimar)*" width="sm" classes="w-32 md:w-48 flex-none" >}}
