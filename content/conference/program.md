@@ -60,8 +60,31 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     }
     .social {
         background: rgb(184, 230, 254, 1.0);
-        
-        /*color: black;*/
+        color: rgb(28, 25, 23); /* fixed light background needs fixed dark text */
+    }
+
+    /* Dark mode: the theme toggles the Tailwind `dark` class; the light,
+       hard-coded row backgrounds above would otherwise sit under the
+       page's light text and become unreadable. Same color system,
+       darkened. */
+    .dark table, .dark th, .dark td, .dark .event {
+        border-color: rgb(87, 83, 78);
+    }
+    .dark .room, .dark .room a {
+        color: rgb(168, 162, 158);
+    }
+    .dark .main-conf, .dark .labs-light {
+        background: rgb(254, 230, 133, 0.14);
+    }
+    .dark .labs-dark {
+        background: rgb(254, 230, 133, 0.26);
+    }
+    .dark .break {
+        background: rgb(41, 37, 36);
+    }
+    .dark .social {
+        background: rgb(0, 58, 91);
+        color: inherit;
     }
 </style>
 {{< /rawhtml >}}
