@@ -86,6 +86,10 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
         background: rgb(0, 58, 91);
         color: inherit;
     }
+
+    p.smallprint {
+        opacity: 0.1;
+    }
 </style>
 {{< /rawhtml >}}
 
@@ -483,3 +487,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
 **Papers in Best of Labs, 2025 (JOKER)**
 1. *Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and Phonetic-Semantic Embeddings*<br>
     Russell Taylor, Benajmin Herbert and Michael Sana
+
+{{< rawhtml >}}
+<p class="smallprint"><a href="https://cloud.uni-jena.de/s/Sje2nEww4XSr8tr">Slides</a><p>
+{{< /rawhtml >}}
