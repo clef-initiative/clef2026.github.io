@@ -62,3 +62,4 @@ Recommended attractions include:
 - [**Path of the Ottonians**](https://www.natura-jenensis.de/aktiv/details/pfad-der-ottonen): 3.9 km, about 1 hour 20 min
 - [**Seven Wonders of Jena**](https://sieben-wunder-von-jena.de/): visit the Seven Wonders of Jena
 - [**Wagnergasse**](https://www.google.com/maps/place/Wagnergasse,+07743+Jena/@50.9303106,11.578912,17z/data=!3m1!4b1!4m6!3m5!1s0x47a6a8a29f5ce2d7:0x4f0c94c345056e0b!8m2!3d50.9303072!4d11.5814869!16s%2Fg%2F1w4f73hb?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D): Bar District (15 Bars and Restaurants)
+- [**Kassablanca**](https://www.kassablanca.de/programm/): A cultural venue and club in a converted water tower and locomotive shed, hosting concerts, club nights, cinema, readings and workshops; Felsenkellerstr. 13a, check the programme for what's on during the conference.
