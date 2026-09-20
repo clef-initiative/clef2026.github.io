@@ -14,7 +14,7 @@ If you want to use the CLEF 2026 logo, or adopt other features of the CLEF 2026 
 
 ## Logo
 
-The logo for CLEF 2026 draws inspiration from the Zeiss Planetarium. It shows the planetariums projector embedded into a key shape, with the key bit picturing the Jena skyline, as customary for CLEF conference logos.
+The logo for CLEF 2026 draws inspiration from the Zeiss-Planetarium. It shows the planetarium's projector embedded into a key shape, with the key bit picturing the Jena skyline, as customary for CLEF conference logos.
 
 It comes in three versions, with two color variants each (dark blue or black for light backgrounds, light blue or white for dark backgrounds):
 

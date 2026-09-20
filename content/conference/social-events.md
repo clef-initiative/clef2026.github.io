@@ -21,7 +21,7 @@ If you arrive on Sunday, the [Jenaer Altstadtfest](https://www.jena-veranstaltun
 - **Time**: Whole Day
 - **Location**: Inner City
 
-{{< figure src="https://dam.destination.one/1180377/65c6d363042db5b1323a701071c87b1c00f1322f0523fb81cc40d4ef7925dc48/jenaer-altstadtfest_2016_jenakultur_foto-ch-cker-43-jpg.jpg" class="rounded-lg w-32 shadow-md" alt="Volksbad Jena" attribution="© jena-veranstaltungen.de [➚](https://www.jena-veranstaltungen.de/event/jenaer-altstadtfest)" >}}
+{{< figure src="https://dam.destination.one/1180377/65c6d363042db5b1323a701071c87b1c00f1322f0523fb81cc40d4ef7925dc48/jenaer-altstadtfest_2016_jenakultur_foto-ch-cker-43-jpg.jpg" class="rounded-lg w-32 shadow-md" alt="Jenaer Altstadtfest" attribution="© jena-veranstaltungen.de [➚](https://www.jena-veranstaltungen.de/event/jenaer-altstadtfest)" >}}
 
 ## Welcome Reception
 
@@ -37,11 +37,11 @@ This informal gathering provides an excellent opportunity to network with fellow
 
 ## Conference Dinner
 
-The conference dinner, during which the best paper awards are presented, will take place at the Planetarium Jena, the oldest operating planetarium in the world. 
+The conference dinner, during which the best paper awards are presented, will take place at the Zeiss-Planetarium Jena, the oldest operating planetarium in the world. 
 
 - **Date**: Wednesday, September 23, 2026  
 - **Time**: 18:15 - 22:30  
-- **Location**: Planetarium / Restaurant Bauersfeld, Am Planetarium 5, DE-07743 Jena
+- **Location**: Zeiss-Planetarium, Am Planetarium 5, DE-07743 Jena
 
 {{< figure src="https://planetarium-jena.de/wp-content/uploads/2017/07/mondscheindinner_03-768x512.jpg" class="rounded-lg w-32 shadow-md" alt="Zeiss Planetarium Jena" attribution="© planetarium-jena.de [➚](https://planetarium-jena.de)" >}}
 
