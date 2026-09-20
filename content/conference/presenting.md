@@ -36,10 +36,6 @@ The slides should be uploaded via [this file share](https://cloud.uni-jena.de/s/
 
 On site, you can check if your slides have been uploaded successfully at the conference office.
 
-{{< alert title="Lab Working Notes" >}}
-Note that some lab sessions might not use the same file share. Please check the respective [lab websites](/labs/) for additional lab-specific instructions. If in doubt, contact the lab organizers.
-{{< /alert >}}
-
 ## Posters
 
 To present your short paper or a best-of-labs paper, please bring your printed poster to the conference venue.
