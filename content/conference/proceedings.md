@@ -1,6 +1,6 @@
 ---
 title: "Proceedings"
-draft: true
+draft: false
 summary: "The proceedings of CLEF 2026."
 weight: 70
 toc: true
