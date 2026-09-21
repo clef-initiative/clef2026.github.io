@@ -118,13 +118,13 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>09:00</td>
     <td>&ndash;</td>
     <td>09:30</td>
-    <td colspan="6">Opening<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Opening<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 <tr class="main-conf">
     <td>09:30</td>
     <td>&ndash;</td>
     <td>10:30</td>
-    <td colspan="6">Keynote: Lucie Flek<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Keynote: Lucie Flek<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 <tr class="break">
     <td>10:30</td>
@@ -136,13 +136,13 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>11:00</td>
     <td>&ndash;</td>
     <td>11:30</td>
-    <td colspan="6">Main Conference 1 (Low-Resource Languages)<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Main Conference 1 (Low-Resource Languages)<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 <tr class="labs-dark">
     <td>11:30</td>
     <td>&ndash;</td>
     <td>12:30</td>
-    <td colspan="6">Lab Overviews 1 (SimpleText, LifeCLEF, EXIST, qCLEF, Touché, FinMMEval)<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Lab Overviews 1 (SimpleText, LifeCLEF, EXIST, qCLEF, Touché, FinMMEval)<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 <tr class="break">
     <td>12:30</td>
@@ -154,12 +154,12 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td class="labs-dark">14:00</td>
     <td class="labs-dark">&ndash;</td>
     <td class="labs-dark">15:30</td>
-    <td class="labs-light">Touché<br>1/4<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
-    <td class="labs-dark">SimpleText<br>1/3<br><span class="room">SR&nbsp;113 (Seminar Room&nbsp;113)</span></td>
-    <td class="labs-light">EXIST<br>1/2<br><span class="room">SR&nbsp;114 (Seminar Room&nbsp;114)</span></td>    
-    <td class="labs-dark">qCLEF<br>1/2<br><span class="room">SR&nbsp;121 (Seminar Room&nbsp;121)</span></td>    
-    <td class="labs-light">LifeCLEF<br>1/3<br><span class="room">SR&nbsp;122 (Seminar Room&nbsp;122)</span></td>
-    <td class="labs-dark">FinMMEval<br>1/2<br><span class="room">SR&nbsp;131 (Seminar Room&nbsp;131)</span></td>
+    <td class="labs-light">Touché<br>1/4<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
+    <td class="labs-dark">SimpleText<br>1/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/61417744528?pwd=65cTOfd9NjH9zj4lUuIpsbMNSr6XzU.1" target="_blank" class="secret">SR&nbsp;113 (Seminar Room&nbsp;113)<a></span></td>
+    <td class="labs-light">EXIST<br>1/2<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/68351148390?pwd=Ax0dJxatpWrRuCTdZcXd1PxwU0Eolj.1" target="_blank" class="secret">SR&nbsp;114 (Seminar Room&nbsp;114)<a></span></td>    
+    <td class="labs-dark">qCLEF<br>1/2<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/68213287549?pwd=wJ1YmQ1ph83OUg8qBaPb1LFdfbgj1O.1" target="_blank" class="secret">SR&nbsp;121 (Seminar Room&nbsp;121)<a></span></td>    
+    <td class="labs-light">LifeCLEF<br>1/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/67299184830?pwd=dQrfgOeutCgVjB6ytlbrgUOhaGNrcO.1" target="_blank" class="secret">SR&nbsp;122 (Seminar Room&nbsp;122)<a></span></td>
+    <td class="labs-dark">FinMMEval<br>1/2<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/69928669598?pwd=VVQjbMW8lT5oN79yt4XozYImwiXuGj.1" target="_blank" class="secret">SR&nbsp;131 (Seminar Room&nbsp;131)<a></span></td>
 </tr>
 <tr class="break">
     <td>15:30</td>
@@ -171,12 +171,12 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td class="labs-dark">16:00</td>
     <td class="labs-dark">&ndash;</td>
     <td class="labs-dark">17:30</td>
-    <td class="labs-light">Touché<br>2/4<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
-    <td class="labs-dark">SimpleText<br>2/3<br><span class="room">SR&nbsp;113 (Seminar Room&nbsp;113)</span></td>
-    <td class="labs-light">EXIST<br>2/2<br><span class="room">SR&nbsp;114 (Seminar Room&nbsp;114)</span></td>    
-    <td class="labs-dark">qCLEF<br>2/2<br><span class="room">SR&nbsp;121 (Seminar Room&nbsp;121)</span></td>    
-    <td class="labs-light">LifeCLEF<br>2/3<br><span class="room">SR&nbsp;122 (Seminar Room&nbsp;122)</span></td>
-    <td class="labs-dark">FinMMEval<br>2/2<br><span class="room">SR&nbsp;131 (Seminar Room&nbsp;131)</span></td>
+    <td class="labs-light">Touché<br>2/4<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
+    <td class="labs-dark">SimpleText<br>2/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/61417744528?pwd=65cTOfd9NjH9zj4lUuIpsbMNSr6XzU.1" target="_blank" class="secret">SR&nbsp;113 (Seminar Room&nbsp;113)<a></span></td>
+    <td class="labs-light">EXIST<br>2/2<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/68351148390?pwd=Ax0dJxatpWrRuCTdZcXd1PxwU0Eolj.1" target="_blank" class="secret">SR&nbsp;114 (Seminar Room&nbsp;114)<a></span></td>    
+    <td class="labs-dark">qCLEF<br>2/2<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/68213287549?pwd=wJ1YmQ1ph83OUg8qBaPb1LFdfbgj1O.1" target="_blank" class="secret">SR&nbsp;121 (Seminar Room&nbsp;121)<a></span></td>    
+    <td class="labs-light">LifeCLEF<br>2/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/67299184830?pwd=dQrfgOeutCgVjB6ytlbrgUOhaGNrcO.1" target="_blank" class="secret">SR&nbsp;122 (Seminar Room&nbsp;122)<a></span></td>
+    <td class="labs-dark">FinMMEval<br>2/2<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/69928669598?pwd=VVQjbMW8lT5oN79yt4XozYImwiXuGj.1" target="_blank" class="secret">SR&nbsp;131 (Seminar Room&nbsp;131)<a></span></td>
 </tr>
 <tr class="social">
     <td>18:30</td>
@@ -215,7 +215,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>09:00</td>
     <td>&ndash;</td>
     <td>10:00</td>
-    <td colspan="6">Keynote: Michael Granitzer<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Keynote: Michael Granitzer<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 <tr class="break">
     <td>10:00</td>
@@ -227,19 +227,19 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>10:30</td>
     <td>&ndash;</td>
     <td>11:15</td>
-    <td colspan="6">Main Conference 2 (Bias, Fairness, Evidence)<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Main Conference 2 (Bias, Fairness, Evidence)<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 <tr class="labs-dark">
     <td>11:15</td>
     <td>&ndash;</td>
     <td>12:05</td>
-    <td colspan="6">Lab Overviews 2 (ImageCLEF, HIPE, TalentCLEF, BioASQ, ELOQUENT)<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Lab Overviews 2 (ImageCLEF, HIPE, TalentCLEF, BioASQ, ELOQUENT)<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 <tr class="labs-dark">
     <td>12:05</td>
     <td>&ndash;</td>
     <td>12:30</td>
-    <td colspan="6">Best of Labs, 2025 (GutBrainIE, SimpleText, Touché)<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Best of Labs, 2025 (GutBrainIE, SimpleText, Touché)<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 <tr class="break">
     <td>12:30</td>
@@ -251,12 +251,12 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td class="labs-dark">14:00</td>
     <td class="labs-dark">&ndash;</td>
     <td class="labs-dark">15:30</td>
-    <td class="labs-light">Touché <br>3/4<br><span class="room">HS&nbsp;3 (Lecture Hall&nbsp;3)</span></td>
-    <td class="labs-dark">SimpleText 3/3<br><span class="room">SR&nbsp;113 (Seminar Room&nbsp;113)</span></td>
-    <td class="labs-light">BioASQ 1/4<br><span class="room">SR&nbsp;114 (Seminar Room&nbsp;114)</span></td>
-    <td class="labs-dark">TalentCLEF 1/3<br><span class="room">SR&nbsp;121 (Seminar Room&nbsp;121)</span></td>    
-    <td class="labs-light">LifeCLEF<br>3/3<br><span class="room">SR&nbsp;122 (Seminar Room&nbsp;122)</span></td>
-    <td class="labs-dark">ELOQUENT 1/3<br><span class="room">SR&nbsp;131 (Seminar Room&nbsp;131)</span></td>
+    <td class="labs-light">Touché <br>3/4<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS&nbsp;3 (Lecture Hall&nbsp;3)<a></span></td>
+    <td class="labs-dark">SimpleText 3/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/61417744528?pwd=65cTOfd9NjH9zj4lUuIpsbMNSr6XzU.1" target="_blank" class="secret">SR&nbsp;113 (Seminar Room&nbsp;113)<a></span></td>
+    <td class="labs-light">BioASQ 1/4<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/68351148390?pwd=Ax0dJxatpWrRuCTdZcXd1PxwU0Eolj.1" target="_blank" class="secret">SR&nbsp;114 (Seminar Room&nbsp;114)<a></span></td>
+    <td class="labs-dark">TalentCLEF 1/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/68213287549?pwd=wJ1YmQ1ph83OUg8qBaPb1LFdfbgj1O.1" target="_blank" class="secret">SR&nbsp;121 (Seminar Room&nbsp;121)<a></span></td>    
+    <td class="labs-light">LifeCLEF<br>3/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/67299184830?pwd=dQrfgOeutCgVjB6ytlbrgUOhaGNrcO.1" target="_blank" class="secret">SR&nbsp;122 (Seminar Room&nbsp;122)<a></span></td>
+    <td class="labs-dark">ELOQUENT 1/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/69928669598?pwd=VVQjbMW8lT5oN79yt4XozYImwiXuGj.1" target="_blank" class="secret">SR&nbsp;131 (Seminar Room&nbsp;131)<a></span></td>
 </tr>
 <tr class="break">
     <td>15:30</td>
@@ -268,12 +268,12 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td class="labs-dark">16:00</td>
     <td class="labs-dark">&ndash;</td>
     <td class="labs-dark">17:30</td>
-    <td class="labs-light">Touché<br>4/4<br><span class="room">HS&nbsp;3 (Lecture Hall&nbsp;3)</span></td>
-    <td class="labs-dark">HIPE<br>1/1<br><span class="room">SR&nbsp;113 (Seminar Room&nbsp;113)</span></td>
-    <td class="labs-light">BioASQ 2/4<br><span class="room">SR&nbsp;114 (Seminar Room&nbsp;114)</span></td>
-    <td class="labs-dark">TalentCLEF 2/3<br><span class="room">SR&nbsp;121 (Seminar Room&nbsp;121)</span></td>    
-    <td class="labs-light">ImageCLEF 1/5<br><span class="room">SR&nbsp;122 (Seminar Room&nbsp;122)</span></td>
-    <td class="labs-dark">ELOQUENT 2/3<br><span class="room">SR&nbsp;131 (Seminar Room&nbsp;131)</span></td>
+    <td class="labs-light">Touché<br>4/4<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS&nbsp;3 (Lecture Hall&nbsp;3)<a></span></td>
+    <td class="labs-dark">HIPE<br>1/1<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/61417744528?pwd=65cTOfd9NjH9zj4lUuIpsbMNSr6XzU.1" target="_blank" class="secret">SR&nbsp;113 (Seminar Room&nbsp;113)<a></span></td>
+    <td class="labs-light">BioASQ 2/4<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/68351148390?pwd=Ax0dJxatpWrRuCTdZcXd1PxwU0Eolj.1" target="_blank" class="secret">SR&nbsp;114 (Seminar Room&nbsp;114)<a></span></td>
+    <td class="labs-dark">TalentCLEF 2/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/68213287549?pwd=wJ1YmQ1ph83OUg8qBaPb1LFdfbgj1O.1" target="_blank" class="secret">SR&nbsp;121 (Seminar Room&nbsp;121)<a></span></td>    
+    <td class="labs-light">ImageCLEF 1/5<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/67299184830?pwd=dQrfgOeutCgVjB6ytlbrgUOhaGNrcO.1" target="_blank" class="secret">SR&nbsp;122 (Seminar Room&nbsp;122)<a></span></td>
+    <td class="labs-dark">ELOQUENT 2/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/69928669598?pwd=VVQjbMW8lT5oN79yt4XozYImwiXuGj.1" target="_blank" class="secret">SR&nbsp;131 (Seminar Room&nbsp;131)<a></span></td>
 </tr>
 </tbody>
 </table>
@@ -316,7 +316,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>09:00</td>
     <td>&ndash;</td>
     <td>10:00</td>
-    <td colspan="6">Keynote: Suzan Verberne<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Keynote: Suzan Verberne<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 <tr class="break">
     <td>10:00</td>
@@ -328,19 +328,19 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>10:30</td>
     <td>&ndash;</td>
     <td>11:15</td>
-    <td colspan="6">Main Conference 3 (Evaluation and Benchmarks)<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Main Conference 3 (Evaluation and Benchmarks)<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 <tr class="labs-dark">
     <td>11:15</td>
     <td>&ndash;</td>
     <td>12:05</td>
-    <td colspan="6">Lab Overviews 3 (PAN, LongEval, eRisk, CheckThat!, JOKER)<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Lab Overviews 3 (PAN, LongEval, eRisk, CheckThat!, JOKER)<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 <tr class="labs-dark">
     <td>12:05</td>
     <td>&ndash;</td>
     <td>12:30</td>
-    <td colspan="6">Best of Labs, 2025 (CheckThat!, LongEval)<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Best of Labs, 2025 (CheckThat!, LongEval)<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 <tr class="break">
     <td>12:30</td>
@@ -352,12 +352,12 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td class="labs-dark">14:00</td>
     <td class="labs-dark">&ndash;</td>
     <td class="labs-dark">15:30</td>
-    <td class="labs-light">PAN<br>1/4<br><span class="room">HS&nbsp;3 (Lecture Hall&nbsp;3)</span></td>
-    <td class="labs-dark">LongEval<br>1/2<br><span class="room">SR&nbsp;113 (Seminar Room&nbsp;113)</span></td>
-    <td class="labs-light">BioASQ<br>3/4<br><span class="room">SR&nbsp;114 (Seminar Room&nbsp;114)</span></td>
-    <td class="labs-dark">TalentCLEF<br>3/3<br><span class="room">SR&nbsp;121 (Seminar Room&nbsp;121)</span></td>
-    <td class="labs-light">ImageCLEF<br>2/5<br><span class="room">SR&nbsp;122 (Seminar Room&nbsp;122)</span></td>
-    <td class="labs-dark">eRisk<br>1/2<br><span class="room">SR&nbsp;131 (Seminar Room&nbsp;131)</span></td>
+    <td class="labs-light">PAN<br>1/4<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS&nbsp;3 (Lecture Hall&nbsp;3)<a></span></td>
+    <td class="labs-dark">LongEval<br>1/2<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/61417744528?pwd=65cTOfd9NjH9zj4lUuIpsbMNSr6XzU.1" target="_blank" class="secret">SR&nbsp;113 (Seminar Room&nbsp;113)<a></span></td>
+    <td class="labs-light">BioASQ<br>3/4<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/68351148390?pwd=Ax0dJxatpWrRuCTdZcXd1PxwU0Eolj.1" target="_blank" class="secret">SR&nbsp;114 (Seminar Room&nbsp;114)<a></span></td>
+    <td class="labs-dark">TalentCLEF<br>3/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/68213287549?pwd=wJ1YmQ1ph83OUg8qBaPb1LFdfbgj1O.1" target="_blank" class="secret">SR&nbsp;121 (Seminar Room&nbsp;121)<a></span></td>
+    <td class="labs-light">ImageCLEF<br>2/5<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/67299184830?pwd=dQrfgOeutCgVjB6ytlbrgUOhaGNrcO.1" target="_blank" class="secret">SR&nbsp;122 (Seminar Room&nbsp;122)<a></span></td>
+    <td class="labs-dark">eRisk<br>1/2<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/69928669598?pwd=VVQjbMW8lT5oN79yt4XozYImwiXuGj.1" target="_blank" class="secret">SR&nbsp;131 (Seminar Room&nbsp;131)<a></span></td>
 </tr>
 <tr class="break">
     <td>15:30</td>
@@ -369,12 +369,12 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td class="labs-dark">16:00</td>
     <td class="labs-dark">&ndash;</td>
     <td class="labs-dark">17:30</td>
-    <td class="labs-light">PAN<br>2/4<br><span class="room">HS&nbsp;3 (Lecture Hall&nbsp;3)</span></td>
-    <td class="labs-dark">LongEval<br>2/2<br><span class="room">SR&nbsp;113 (Seminar Room&nbsp;113)</span></td>
-    <td class="labs-light">BioASQ<br>4/4<br><span class="room">SR&nbsp;114 (Seminar Room&nbsp;114)</span></td>
-    <td class="labs-dark">CheckThat!<br>1/3<br><span class="room">SR&nbsp;121 (Seminar Room&nbsp;121)</span></td>
-    <td class="labs-light">ImageCLEF<br>3/5<br><span class="room">SR&nbsp;122 (Seminar Room&nbsp;122)</span></td>
-    <td class="labs-dark">eRisk<br>2/2<br><span class="room">SR&nbsp;131 (Seminar Room&nbsp;131)</span></td>
+    <td class="labs-light">PAN<br>2/4<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS&nbsp;3 (Lecture Hall&nbsp;3)<a></span></td>
+    <td class="labs-dark">LongEval<br>2/2<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/61417744528?pwd=65cTOfd9NjH9zj4lUuIpsbMNSr6XzU.1" target="_blank" class="secret">SR&nbsp;113 (Seminar Room&nbsp;113)<a></span></td>
+    <td class="labs-light">BioASQ<br>4/4<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/68351148390?pwd=Ax0dJxatpWrRuCTdZcXd1PxwU0Eolj.1" target="_blank" class="secret">SR&nbsp;114 (Seminar Room&nbsp;114)<a></span></td>
+    <td class="labs-dark">CheckThat!<br>1/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/68213287549?pwd=wJ1YmQ1ph83OUg8qBaPb1LFdfbgj1O.1" target="_blank" class="secret">SR&nbsp;121 (Seminar Room&nbsp;121)<a></span></td>
+    <td class="labs-light">ImageCLEF<br>3/5<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/67299184830?pwd=dQrfgOeutCgVjB6ytlbrgUOhaGNrcO.1" target="_blank" class="secret">SR&nbsp;122 (Seminar Room&nbsp;122)<a></span></td>
+    <td class="labs-dark">eRisk<br>2/2<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/69928669598?pwd=VVQjbMW8lT5oN79yt4XozYImwiXuGj.1" target="_blank" class="secret">SR&nbsp;131 (Seminar Room&nbsp;131)<a></span></td>
 </tr>
 <tr class="social">
     <td>18:15</td>
@@ -420,13 +420,13 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>09:20</td>
     <td>&ndash;</td>
     <td>10:20</td>
-    <td colspan="6">Main Conference 4 (Information Retrieval)<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Main Conference 4 (Information Retrieval)<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 <tr class="main-conf">
     <td>10:20</td>
     <td>&ndash;</td>
     <td>10:30</td>
-    <td colspan="6">Best of Labs, 2025 (JOKER)<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Best of Labs, 2025 (JOKER)<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 <tr class="break">
     <td>10:30</td>
@@ -438,10 +438,10 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td class="labs-dark">11:00</td>
     <td class="labs-dark">&ndash;</td>
     <td class="labs-dark">12:30</td>
-    <td class="labs-light">PAN<br>3/4<br><span class="room">HS&nbsp;3 (Lecture Hall&nbsp;3)</span></td>
-    <td class="labs-dark">CheckThat!<br>2/3<br><span class="room">SR&nbsp;121 (Seminar Room&nbsp;121)</span></td>
-    <td class="labs-light">ImageCLEF<br>4/5<br><span class="room">SR&nbsp;122 (Seminar Room&nbsp;122)</span></td>
-    <td class="labs-dark">JOKER<br>1/2<br><span class="room">SR&nbsp;131 (Seminar Room&nbsp;131)</span></td>
+    <td class="labs-light">PAN<br>3/4<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS&nbsp;3 (Lecture Hall&nbsp;3)<a></span></td>
+    <td class="labs-dark">CheckThat!<br>2/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/68213287549?pwd=wJ1YmQ1ph83OUg8qBaPb1LFdfbgj1O.1" target="_blank" class="secret">SR&nbsp;121 (Seminar Room&nbsp;121)<a></span></td>
+    <td class="labs-light">ImageCLEF<br>4/5<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/67299184830?pwd=dQrfgOeutCgVjB6ytlbrgUOhaGNrcO.1" target="_blank" class="secret">SR&nbsp;122 (Seminar Room&nbsp;122)<a></span></td>
+    <td class="labs-dark">JOKER<br>1/2<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/69928669598?pwd=VVQjbMW8lT5oN79yt4XozYImwiXuGj.1" target="_blank" class="secret">SR&nbsp;131 (Seminar Room&nbsp;131)<a></span></td>
 </tr>
 <tr class="break">
     <td>12:30</td>
@@ -453,10 +453,10 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td class="labs-dark">14:00</td>
     <td class="labs-dark">&ndash;</td>
     <td class="labs-dark">15:30</td>
-    <td class="labs-light">PAN &amp; ELOQUENT<br>4/4 &amp; 3/3<br><span class="room">HS&nbsp;3 (Lecture Hall&nbsp;3)</span></td>
-    <td class="labs-dark">CheckThat!<br>3/3<br><span class="room">SR&nbsp;121 (Seminar Room&nbsp;121)</span></td>
-    <td class="labs-light">ImageCLEF<br>5/5<br><span class="room">SR&nbsp;122 (Seminar Room&nbsp;122)</span></td>
-    <td class="labs-dark">JOKER<br>2/2<br><span class="room">SR&nbsp;131 (Seminar Room&nbsp;131)</span></td>
+    <td class="labs-light">PAN &amp; ELOQUENT<br>4/4 &amp; 3/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS&nbsp;3 (Lecture Hall&nbsp;3)<a></span></td>
+    <td class="labs-dark">CheckThat!<br>3/3<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/68213287549?pwd=wJ1YmQ1ph83OUg8qBaPb1LFdfbgj1O.1" target="_blank" class="secret">SR&nbsp;121 (Seminar Room&nbsp;121)<a></span></td>
+    <td class="labs-light">ImageCLEF<br>5/5<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/67299184830?pwd=dQrfgOeutCgVjB6ytlbrgUOhaGNrcO.1" target="_blank" class="secret">SR&nbsp;122 (Seminar Room&nbsp;122)<a></span></td>
+    <td class="labs-dark">JOKER<br>2/2<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/69928669598?pwd=VVQjbMW8lT5oN79yt4XozYImwiXuGj.1" target="_blank" class="secret">SR&nbsp;131 (Seminar Room&nbsp;131)<a></span></td>
 </tr>
 <tr class="break">
     <td>15:30</td>
@@ -468,7 +468,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
     <td>16:00</td>
     <td>&ndash;</td>
     <td>17:30</td>
-    <td colspan="6">Closing Session<br><span class="room">HS 3 (Lecture Hall 3)</span></td>
+    <td colspan="6">Closing Session<br><span class="room"><a href="https://uni-jena-de.zoom-x.de/j/66385435727?pwd=it9CT09DNydV8Yw6OgHfj9UAAIiRbd.1" target="_blank" class="secret">HS 3 (Lecture Hall 3)<a></span></td>
 </tr>
 </tbody>
 </table>
@@ -487,3 +487,7 @@ The CLEF 2026 conference will be held from September 21-24, 2026, at [Friedrich-
 **Papers in Best of Labs, 2025 (JOKER)**
 1. *Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and Phonetic-Semantic Embeddings*<br>
     Russell Taylor, Benajmin Herbert and Michael Sana
+
+{{< rawhtml >}}
+<p class="smallprint"><a href="https://cloud.uni-jena.de/s/Sje2nEww4XSr8tr">Slides</a><p>
+{{< /rawhtml >}}
