@@ -22,4 +22,5 @@ Conference proceedings are available via [Springer Nature Link](https://link.spr
 
 ## Working Notes Papers
 
-Working Notes papers will be published shortly.
+Working Notes papers are available at 
+[CEUR-ws](https://ceur-ws.org/Vol-4283/).
